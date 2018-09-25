@@ -1,0 +1,948 @@
+,artist,duration,number,orig_ds,orig_fname,title,id
+0,james_brown,150.91,3.0,Billboard,0003\salami_chords.txt,i_don't_mind,0
+1,roberta_flack_and_donny_hathaway,206.54,4.0,Billboard,0004\salami_chords.txt,you've_got_a_friend,1
+2,bette_midler,220.69,6.0,Billboard,0006\salami_chords.txt,the_rose,2
+3,billy_joel,318.16,10.0,Billboard,0010\salami_chords.txt,an_innocent_man,3
+4,johnny_lee,212.04,12.0,Billboard,0012\salami_chords.txt,lookin'_for_love,4
+5,aerosmith,206.32,15.0,Billboard,0015\salami_chords.txt,last_child,5
+6,cyndi_lauper,228.84,16.0,Billboard,0016\salami_chords.txt,she_bop,6
+7,hall_and_oates,231.34,18.0,Billboard,0018\salami_chords.txt,kiss_on_my_list,7
+8,tanya_tucker,177.82,19.0,Billboard,0019\salami_chords.txt,here's_some_love,8
+9,the_j._geils_band,207.99,21.0,Billboard,0021\salami_chords.txt,just_can't_wait,9
+10,the_5th_dimension,237.84,22.0,Billboard,0022\salami_chords.txt,never_my_love,10
+11,talking_heads,219.25,23.0,Billboard,0023\salami_chords.txt,and_she_was,11
+12,graham_nash,241.08,25.0,Billboard,0025\salami_chords.txt,chicago,12
+13,chiffons,148.39,26.0,Billboard,0026\salami_chords.txt,swing_talkin'_guy,13
+14,bad_company,199.68,27.0,Billboard,0027\salami_chords.txt,rock_'n'_roll_fantasy,14
+15,steve_miller_band,219.04,29.0,Billboard,0029\salami_chords.txt,the_joker,15
+16,r_dean_tayloy,190.52,30.0,Billboard,0030\salami_chords.txt,indiana_wants_me,16
+17,heart,291.51,33.0,Billboard,0033\salami_chords.txt,crazy_on_you,17
+18,if_i_can't_have_you,180.09,34.0,Billboard,0034\salami_chords.txt,yvonne_elliman,18
+19,freedom,263.37,35.0,Billboard,0035\salami_chords.txt,jimi_hendrix,19
+20,flatt_and_scruggs,161.72,37.0,Billboard,0037\salami_chords.txt,foggy_mountain_breakdown,20
+21,rolling_stones,307.17,39.0,Billboard,0039\salami_chords.txt,it's_only_rock_and_roll_(but_i_like_it),21
+22,snap,220.89,40.0,Billboard,0040\salami_chords.txt,the_power,22
+23,five_man_electrical_band,142.47,41.0,Billboard,0041\salami_chords.txt,absolutely_right,23
+24,phil_collins,204.75,43.0,Billboard,0043\salami_chords.txt,two_hearts,24
+25,the_power_station,305.84,44.0,Billboard,0044\salami_chords.txt,some_like_it_hot,25
+26,the_staple_singers,194.75,46.0,Billboard,0046\salami_chords.txt,i'll_take_you_there,26
+27,barbara_streisand,220.58,49.0,Billboard,0049\salami_chords.txt,people,27
+28,beatles,142.81,50.0,Billboard,0050\salami_chords.txt,love_me_do,28
+29,cliff_richard,225.41,51.0,Billboard,0051\salami_chords.txt,carrie,29
+30,led_zeppelin,307.64,53.0,Billboard,0053\salami_chords.txt,over_the_hills_and_far_away,30
+31,j._frank_wilson_and_the_cavaliers,147.7,54.0,Billboard,0054\salami_chords.txt,last_kiss,31
+32,the_robert_cray_band,240.8,55.0,Billboard,0055\salami_chords.txt,smoking_gun,32
+33,bobbi_martin,176.1,56.0,Billboard,0056\salami_chords.txt,i_love_you_so,33
+34,peggy_lee,264.07,59.0,Billboard,0059\salami_chords.txt,is_that_all_there_is,34
+35,creedence_clearwater_revival,254.28,61.0,Billboard,0061\salami_chords.txt,i_put_a_spell_on_you,35
+36,gino_vanelli,222.69,62.0,Billboard,0062\salami_chords.txt,hurts_to_be_in_love,36
+37,roy_orbison,173.35,64.0,Billboard,0064\salami_chords.txt,cry_softly_lonely_one,37
+38,the_contours,174.37,66.0,Billboard,0066\salami_chords.txt,do_you_love_me,38
+39,little_joey_and_the_flips,137.25,67.0,Billboard,0067\salami_chords.txt,bongo_stomp,39
+40,gino_vannelli,189.57,68.0,Billboard,0068\salami_chords.txt,black_cars,40
+41,sly_and_the_family_stone,158.28,70.0,Billboard,0070\salami_chords.txt,hot_fun_in_the_summertime,41
+42,meatloaf,570.8,71.0,Billboard,0071\salami_chords.txt,paradise_by_the_dashboard_light,42
+43,the_youngbloods,276.77,72.0,Billboard,0072\salami_chords.txt,get_together,43
+44,martha_reeves_and_the_vandellas,178.78,74.0,Billboard,0074\salami_chords.txt,nowhere_to_run,44
+45,foghat,271.36,75.0,Billboard,0075\salami_chords.txt,drivin'_wheel,45
+46,little_river_band,211.58,77.0,Billboard,0077\salami_chords.txt,reminiscing,46
+47,the_boys,265.46,78.0,Billboard,0078\salami_chords.txt,dial_my_heart,47
+48,james_brown,171.94,79.0,Billboard,0079\salami_chords.txt,cold_sweat_-_part_1,48
+49,paul_simon,280.61,81.0,Billboard,0081\salami_chords.txt,you_can_call_me_al,49
+50,ub40,321.02,83.0,Billboard,0083\salami_chords.txt,red_red_wine,50
+51,michael_jackson,253.59,85.0,Billboard,0085\salami_chords.txt,i_just_can't_stop_loving_you,51
+52,david_bowie,315.14,86.0,Billboard,0086\salami_chords.txt,space_oddity,52
+53,nitty_gritty_dirt_band,143.05,88.0,Billboard,0088\salami_chords.txt,buy_for_me_the_rain,53
+54,pat_benetar,200.18,89.0,Billboard,0089\salami_chords.txt,fire_and_ice,54
+55,spandau_ballet,343.12,91.0,Billboard,0091\salami_chords.txt,true,55
+56,peter_gabriel,239.05,92.0,Billboard,0092\salami_chords.txt,shock_the_monkey,56
+57,rolling_stones,344.14,94.0,Billboard,0094\salami_chords.txt,wild_horses,57
+58,boyz_ii_men,234.24,97.0,Billboard,0097\salami_chords.txt,motown_philly,58
+59,bananarama,248.82,99.0,Billboard,0099\salami_chords.txt,a_trick_of_the_night,59
+60,rod_stewart,350.2,100.0,Billboard,0100\salami_chords.txt,maggie_may,60
+61,dottie_west,182.99,101.0,Billboard,0101\salami_chords.txt,a_lesson_in_leavin,61
+62,ray_price,230.43,102.0,Billboard,0102\salami_chords.txt,for_the_good_times,62
+63,little_river_band,273.76,104.0,Billboard,0104\salami_chords.txt,we_two,63
+64,rush,297.51,105.0,Billboard,0105\salami_chords.txt,the_spirit_of_radio,64
+65,bread,155.51,106.0,Billboard,0106\salami_chords.txt,if,65
+66,lynyrd_skynyrd,283.53,107.0,Billboard,0107\salami_chords.txt,sweet_home_alabama,66
+67,the_tee_set,196.91,109.0,Billboard,0109\salami_chords.txt,ma_belle_amie,67
+68,the_byrds,215.14,111.0,Billboard,0111\salami_chords.txt,eight_miles_high,68
+69,gladys_knight_and_the_pips,165.69,112.0,Billboard,0112\salami_chords.txt,letter_full_of_tears,69
+70,cream,253.24,114.0,Billboard,0114\salami_chords.txt,sunshine_of_your_love,70
+71,chuck_berry,142.47,115.0,Billboard,0115\salami_chords.txt,sweet_little_rock_n'_roll,71
+72,eric_clapton,302.16,116.0,Billboard,0116\salami_chords.txt,let_it_rain,72
+73,"david_ruffin,_jimmy_ruffin",228.7,119.0,Billboard,0119\salami_chords.txt,stand_by_me,73
+74,the_ronettes,159.01,120.0,Billboard,0120\salami_chords.txt,be_my_baby,74
+75,freddie_jackson,276.85,122.0,Billboard,0122\salami_chords.txt,have_you_ever_loved_somebody,75
+76,bing_crosby,161.91,123.0,Billboard,0123\salami_chords.txt,silent_night,76
+77,eric_clapton,181.19,124.0,Billboard,0124\salami_chords.txt,promises,77
+78,blue_eyes_cryin',140.56,126.0,Billboard,0126\salami_chords.txt,willie_nelson,78
+79,etta_james,173.71,127.0,Billboard,0127\salami_chords.txt,stop_the_wedding,79
+80,looking_glass,187.98,128.0,Billboard,0128\salami_chords.txt,brandy,80
+81,the_rolling_stones,227.57,130.0,Billboard,0130\salami_chords.txt,tumbling_dice,81
+82,ronnie_milsap,216.24,131.0,Billboard,0131\salami_chords.txt,i_wouldn't_have_missed_it_for_the_world,82
+83,bobby_bare,167.84,133.0,Billboard,0133\salami_chords.txt,detroit_city,83
+84,electric_prunes,179.98,134.0,Billboard,0134\salami_chords.txt,i_had_too_much_to_dream,84
+85,ub40,183.28,139.0,Billboard,0139\salami_chords.txt,the_way_you_do_the_things_you_do,85
+86,zz_top,234.03,140.0,Billboard,0140\salami_chords.txt,la_grange,86
+87,dion,163.37,145.0,Billboard,0145\salami_chords.txt,runaround_sue,87
+88,the_string-a-longs,124.08,147.0,Billboard,0147\salami_chords.txt,wheels,88
+89,the_police,178.93,148.0,Billboard,0148\salami_chords.txt,spirits_in_the_material_world,89
+90,randy_vanwarmer,243.51,149.0,Billboard,0149\salami_chords.txt,just_when_i_needed_you_most,90
+91,tina_turner,229.05,150.0,Billboard,0150\salami_chords.txt,what's_love_got_to_do_with_it,91
+92,the_everly_brothers,138.95,153.0,Billboard,0153\salami_chords.txt,walk_right_back,92
+93,robert_john,190.28,154.0,Billboard,0154\salami_chords.txt,lonely_eyes,93
+94,eric_clapton,191.9,155.0,Billboard,0155\salami_chords.txt,forever_man,94
+95,santo_and_johnny,143.21,157.0,Billboard,0157\salami_chords.txt,sleep_walk,95
+96,level_42,227.27,158.0,Billboard,0158\salami_chords.txt,something_about_you,96
+97,elvis_presley,152.03,159.0,Billboard,0159\salami_chords.txt,little_sister,97
+98,solomon_burke,153.08,160.0,Billboard,0160\salami_chords.txt,if_you_need_me,98
+99,brenda_lee,145.76,162.0,Billboard,0162\salami_chords.txt,sweet_nothin's,99
+100,melba_montgomery,194.12,167.0,Billboard,0167\salami_chords.txt,no_charge,100
+101,san_franciscan_nights,200.65,168.0,Billboard,0168\salami_chords.txt,the_animals,101
+102,sea_of_heartbreak,154.45,169.0,Billboard,0169\salami_chords.txt,don_gibson,102
+103,twilight_zone,280.4,170.0,Billboard,0170\salami_chords.txt,golden_earring,103
+104,25_or_6_to_4,290.02,176.0,Billboard,0176\salami_chords.txt,chicago,104
+105,nathalie_cole,261.28,177.0,Billboard,0177\salami_chords.txt,i've_got_love_on_my_mind,105
+106,bo_diddley,190.77,179.0,Billboard,0179\salami_chords.txt,you_can't_judge_a_book_by_the_cover,106
+107,beautiful,202.66,180.0,Billboard,0180\salami_chords.txt,gordon_lightfoot,107
+108,always_something_there_to_remind_me,220.87,181.0,Billboard,0181\salami_chords.txt,naked_eyes,108
+109,john_denver,181.51,182.0,Billboard,0182\salami_chords.txt,annie's_song,109
+110,abba,324.68,183.0,Billboard,0183\salami_chords.txt,chiquitita,110
+111,pet_shop_boys,235.18,184.0,Billboard,0184\salami_chords.txt,always_on_my_mind,111
+112,jimmy_clanton,152.31,185.0,Billboard,0185\salami_chords.txt,just_a_dream,112
+113,little_river_band,242.31,187.0,Billboard,0187\salami_chords.txt,help_is_on_the_way,113
+114,cheap_trick,223.71,188.0,Billboard,0188\salami_chords.txt,i_want_you_to_want_me,114
+115,gloria_gaynor,178.05,190.0,Billboard,0190\salami_chords.txt,never_can_say_goodbye,115
+116,the_rascals,181.68,191.0,Billboard,0191\salami_chords.txt,people_got_to_be_free,116
+117,dinah_washington,164.05,192.0,Billboard,0192\salami_chords.txt,unforgettable,117
+118,andy_gibb,273.71,193.0,Billboard,0193\salami_chords.txt,shadow_dancing,118
+119,eric_clapton,702.28,194.0,Billboard,0194\salami_chords.txt,willie_and_the_hand_jive,119
+120,alice_cooper,261.28,195.0,Billboard,0195\salami_chords.txt,schoool's_out,120
+121,paul_anka,141.92,196.0,Billboard,0196\salami_chords.txt,love_me_warm_and_tender,121
+122,chicago,228.75,198.0,Billboard,0198\salami_chords.txt,along_comes_a_woman,122
+123,anne_murray,303.33,199.0,Billboard,0199\salami_chords.txt,could_i_have_this_dance,123
+124,the_o'jays,179.67,202.0,Billboard,0202\salami_chords.txt,love_train,124
+125,jimmy_cliff,190.85,203.0,Billboard,0203\salami_chords.txt,"wonderful_world,_beautiful_people",125
+126,ike_and_tina_turner,173.01,204.0,Billboard,0204\salami_chords.txt,i_want_to_take_you_higher,126
+127,billy_joel,280.87,205.0,Billboard,0205\salami_chords.txt,pressure,127
+128,paul_mccartney,233.4,206.0,Billboard,0206\salami_chords.txt,maybe_i'm_amazed,128
+129,steve_winwood,262.7,207.0,Billboard,0207\salami_chords.txt,back_in_the_high_life_again,129
+130,chicago,181.55,208.0,Billboard,0208\salami_chords.txt,another_rainy_day_in_new_york_city,130
+131,the_eagles,255.5,209.0,Billboard,0209\salami_chords.txt,already_gone,131
+132,tom_jones,149.6,210.0,Billboard,0210\salami_chords.txt,she's_a_lady,132
+133,ike_and_tina_turner,183.8,212.0,Billboard,0212\salami_chords.txt,it's_gonna_work_out_fine,133
+134,mel_torme,164.31,213.0,Billboard,0213\salami_chords.txt,comin'_home_baby,134
+135,ray_charles,204.77,214.0,Billboard,0214\salami_chords.txt,the_right_time,135
+136,heart,328.54,215.0,Billboard,0215\salami_chords.txt,magic_man,136
+137,isaac_hayes,199.92,216.0,Billboard,0216\salami_chords.txt,do_your_thing,137
+138,rick_springfield,196.5,217.0,Billboard,0217\salami_chords.txt,jessie's_girl,138
+139,abba,255.56,218.0,Billboard,0218\salami_chords.txt,fernando,139
+140,nat_king_cole,168.98,220.0,Billboard,0220\salami_chords.txt,ramblin'_rose,140
+141,roberta_flack,177.45,221.0,Billboard,0221\salami_chords.txt,feel_like_making_love,141
+142,elvis_presley,218.44,222.0,Billboard,0222\salami_chords.txt,for_ol'_times_sake,142
+143,michael_jackson,362.45,223.0,Billboard,0223\salami_chords.txt,wanna_be_startin'_somethin',143
+144,glen_campbell,162.04,224.0,Billboard,0224\salami_chords.txt,galveston,144
+145,pat_benatar,288.1,227.0,Billboard,0227\salami_chords.txt,promises_in_the_dark,145
+146,the_beach_boys,216.29,228.0,Billboard,0228\salami_chords.txt,still_cruisin,146
+147,the_rolling_stones,182.28,229.0,Billboard,0229\salami_chords.txt,honky_tonk_women,147
+148,abba,243.67,231.0,Billboard,0231\salami_chords.txt,"knowing_me,_knowing_you",148
+149,the_band,235.08,234.0,Billboard,0234\salami_chords.txt,life_is_a_carnival,149
+150,john_denver,286.48,235.0,Billboard,0235\salami_chords.txt,back_home_again,150
+151,genesis,533.6,236.0,Billboard,0236\salami_chords.txt,"tonight,_tonight,_tonight",151
+152,kenny_rogers,220.42,238.0,Billboard,0238\salami_chords.txt,you_decorated_my_life,152
+153,the_beach_boys,199.24,239.0,Billboard,0239\salami_chords.txt,sail_on_sailor,153
+154,billy_joel,290.8,240.0,Billboard,0240\salami_chords.txt,just_the_way_you_are,154
+155,bing_crosby,181.98,241.0,Billboard,0241\salami_chords.txt,white_christmas,155
+156,stevie_b,262.27,242.0,Billboard,0242\salami_chords.txt,because_i_love_you,156
+157,the_rolling_stones,153.86,244.0,Billboard,0244\salami_chords.txt,"have_you_seen_your_mother,_baby,_standing_in_the_shadow?",157
+158,john_denver,159.76,245.0,Billboard,0245\salami_chords.txt,it_amazes_me,158
+159,glen_campbell,195.34,246.0,Billboard,0246\salami_chords.txt,rhinestone_cowboy,159
+160,ten_years_after,224.91,248.0,Billboard,0248\salami_chords.txt,i'd_love_to_change_the_world,160
+161,bob_seger,194.82,249.0,Billboard,0249\salami_chords.txt,old_time_rock_and_roll,161
+162,jimmy_jones,122.44,250.0,Billboard,0250\salami_chords.txt,handy_man,162
+163,brother_jack_mcduff,214.27,251.0,Billboard,0251\salami_chords.txt,theme_from_electric_surfboard,163
+164,dion,165.77,253.0,Billboard,0253\salami_chords.txt,love_came_to_me,164
+165,simple_minds,299.18,254.0,Billboard,0254\salami_chords.txt,sanctify_yourself,165
+166,brownsville_station,178.89,256.0,Billboard,0256\salami_chords.txt,smokin'_in_the_boys_room,166
+167,max_frost_and_the_troopers,114.16,257.0,Billboard,0257\salami_chords.txt,shape_of_things_to_come,167
+168,firehouse,322.69,258.0,Billboard,0258\salami_chords.txt,don_t_treat_me_bad,168
+169,patrick_hernandez,215.01,259.0,Billboard,0259\salami_chords.txt,born_to_be_alive,169
+170,iron_butterfly,174.48,261.0,Billboard,0261\salami_chords.txt,in-a-gadda-da-vida,170
+171,wednesday,156.08,263.0,Billboard,0263\salami_chords.txt,last_kiss,171
+172,rolling_stones,228.02,264.0,Billboard,0264\salami_chords.txt,dandelion,172
+173,the_5th_dimension,192.39,265.0,Billboard,0265\salami_chords.txt,(last_night)_i_didn't_get_to_sleep_at_all,173
+174,johnny_tillotson,150.23,267.0,Billboard,0267\salami_chords.txt,worried_guy,174
+175,reo_speedwagon,213.13,268.0,Billboard,0268\salami_chords.txt,time_for_me_to_fly,175
+176,pink_floyd,405.94,269.0,Billboard,0269\salami_chords.txt,money,176
+177,the_beach_boys,134.88,270.0,Billboard,0270\salami_chords.txt,in_my_room,177
+178,robert_palmer,264.93,271.0,Billboard,0271\salami_chords.txt,addicted_to_love,178
+179,clarence_carter,192.98,276.0,Billboard,0276\salami_chords.txt,patches,179
+180,rolling_stones,274.08,278.0,Billboard,0278\salami_chords.txt,waiting_on_a_friend,180
+181,marvin_gaye_and_kim_weston,180.11,280.0,Billboard,0280\salami_chords.txt,it_takes_two,181
+182,heart,235.39,281.0,Billboard,0281\salami_chords.txt,there's_the_girl,182
+183,bob_dylan,325.75,282.0,Billboard,0282\salami_chords.txt,gotta_serve_somebody,183
+184,nancy_sinatra,154.17,284.0,Billboard,0284\salami_chords.txt,these_boots_are_made_for_walkin',184
+185,brenda_lee,157.68,288.0,Billboard,0288\salami_chords.txt,as_usual,185
+186,elvis_presley,176.88,289.0,Billboard,0289\salami_chords.txt,guitar_man,186
+187,the_hollies,260.6,290.0,Billboard,0290\salami_chords.txt,long_dark_road,187
+188,rita_coolidge,218.82,291.0,Billboard,0291\salami_chords.txt,the_way_you_do_the_things_you_do,188
+189,the_police,261.24,293.0,Billboard,0293\salami_chords.txt,every_little_thing_she_does_is_magic,189
+190,jerry_jeff_walker,234.45,294.0,Billboard,0294\salami_chords.txt,mr._bojangles,190
+191,eagles,380.71,296.0,Billboard,0296\salami_chords.txt,lyin'_eyes,191
+192,bobby_womack,216.37,297.0,Billboard,0297\salami_chords.txt,that's_the_way_i_feel_about_cha,192
+193,whitesnake,278.31,300.0,Billboard,0300\salami_chords.txt,here_i_go_again,193
+194,the_beatles,119.38,302.0,Billboard,0302\salami_chords.txt,do_you_want_to_know_a_secret,194
+195,juice_newton,243.41,303.0,Billboard,0303\salami_chords.txt,break_it_to_me_gently,195
+196,digital_underground,388.16,304.0,Billboard,0304\salami_chords.txt,the_humpty_dance,196
+197,village_people,226.25,306.0,Billboard,0306\salami_chords.txt,in_the_navy,197
+198,smokey_robinson,270.03,307.0,Billboard,0307\salami_chords.txt,cruisin',198
+199,roger_miller,112.28,308.0,Billboard,0308\salami_chords.txt,you_can't_roller_skate_in_a_buffalo_herd,199
+200,cyndi_lauper,269.84,309.0,Billboard,0309\salami_chords.txt,all_through_the_night,200
+201,little_river_band,169.25,310.0,Billboard,0310\salami_chords.txt,the_other_guy,201
+202,anne_murray,147.17,312.0,Billboard,0312\salami_chords.txt,daydream_believer,202
+203,james_brown,168.78,314.0,Billboard,0314\salami_chords.txt,i_got_you_(i_feel_good),203
+204,redbone,214.34,315.0,Billboard,0315\salami_chords.txt,come_and_get_your_love,204
+205,cheap_trick,231.31,317.0,Billboard,0317\salami_chords.txt,dream_police,205
+206,marvin_gaye,238.89,319.0,Billboard,0319\salami_chords.txt,i_want_you,206
+207,the_supremes,155.12,320.0,Billboard,0320\salami_chords.txt,floy_joy,207
+208,the_everly_brothers,137.46,322.0,Billboard,0322\salami_chords.txt,bird_dog,208
+209,linda_ronstadt,124.92,324.0,Billboard,0324\salami_chords.txt,when_will_i_be_loved,209
+210,paul_anka,201.46,325.0,Billboard,0325\salami_chords.txt,let_me_get_to_know_you,210
+211,elvis_presley,200.59,326.0,Billboard,0326\salami_chords.txt,my_boy,211
+212,the_fifth_dimension,145.01,330.0,Billboard,0330\salami_chords.txt,where_do_you_wanna_go,212
+213,kool_and_the_gang,186.2,331.0,Billboard,0331\salami_chords.txt,jungle_boogie,213
+214,rockwell,241.66,334.0,Billboard,0334\salami_chords.txt,somebody_s_watching_me,214
+215,rita_coolidge,242.91,336.0,Billboard,0336\salami_chords.txt,your_love_has_lifted_me_higher,215
+216,kenny_rogers,285.68,338.0,Billboard,0338\salami_chords.txt,through_the_years,216
+217,urban_dance_squad,274.05,339.0,Billboard,0339\salami_chords.txt,deeper_shade_of_soul,217
+218,the_commodores,264.33,341.0,Billboard,0341\salami_chords.txt,easy,218
+219,gladys_night_and_the_pips,194.22,343.0,Billboard,0343\salami_chords.txt,if_i_were_your_woman,219
+220,the_rolling_stones,207.84,345.0,Billboard,0345\salami_chords.txt,doo_doo_doo_doo_doo,220
+221,freddy_fender,155.9,346.0,Billboard,0346\salami_chords.txt,living_it_down,221
+222,glen_campbell,172.04,347.0,Billboard,0347\salami_chords.txt,sunflower,222
+223,tina_turner,329.3,348.0,Billboard,0348\salami_chords.txt,the_best,223
+224,bachman-turner_overdrive,240.25,351.0,Billboard,0351\salami_chords.txt,roll_on_down_the_highway,224
+225,marky_mark_and_the_funky_bunch,269.56,352.0,Billboard,0352\salami_chords.txt,good_vibrations,225
+226,sammy_hagar,249.97,353.0,Billboard,0353\salami_chords.txt,i_can't_drive_55,226
+227,elton_john,323.35,354.0,Billboard,0354\salami_chords.txt,philadelphia_freedom,227
+228,johnny_tillotson,138.24,355.0,Billboard,0355\salami_chords.txt,"i_rise,_i_fall",228
+229,brenda_lee,148.24,356.0,Billboard,0356\salami_chords.txt,dum_dum,229
+230,donna_fargo,146.99,358.0,Billboard,0358\salami_chords.txt,superman,230
+231,the_cure,212.17,359.0,Billboard,0359\salami_chords.txt,just_like_heaven,231
+232,george_harrison,254.12,361.0,Billboard,0361\salami_chords.txt,this_song,232
+233,santana,238.28,364.0,Billboard,0364\salami_chords.txt,evil_ways,233
+234,chicago,253.91,366.0,Billboard,0366\salami_chords.txt,feelin'_stronger_every_day,234
+235,alan_o'day,213.19,367.0,Billboard,0367\salami_chords.txt,undercover_angel,235
+236,the_buckinghams,130.25,369.0,Billboard,0369\salami_chords.txt,kind_of_a_drag,236
+237,neneh_cherry,237.4,370.0,Billboard,0370\salami_chords.txt,kisses_on_the_wind,237
+238,brenda_lee,155.3,371.0,Billboard,0371\salami_chords.txt,losing_you,238
+239,kenny_rogers,238.47,372.0,Billboard,0372\salami_chords.txt,scarlet_fever,239
+240,ann_peebles,153.91,377.0,Billboard,0377\salami_chords.txt,i_can't_stand_the_rain,240
+241,gladys_knight_and_the_pips,227.37,380.0,Billboard,0380\salami_chords.txt,best_thing_that_ever_happened_to_me,241
+242,focus,206.73,381.0,Billboard,0381\salami_chords.txt,hocus_pocus,242
+243,pet_shop_boys,272.54,382.0,Billboard,0382\salami_chords.txt,where_the_streets_have_no_names,243
+244,donovan,279.85,383.0,Billboard,0383\salami_chords.txt,sunshine_superman,244
+245,sting,255.84,384.0,Billboard,0384\salami_chords.txt,if_you_love_somebody_set_them_free,245
+246,wilson_phillips,221.36,385.0,Billboard,0385\salami_chords.txt,hold_on,246
+247,elvis_presley,166.22,386.0,Billboard,0386\salami_chords.txt,i_really_don't_want_to_know,247
+248,rolling_stones,178.78,387.0,Billboard,0387\salami_chords.txt,time_is_on_my_side,248
+249,general_public,217.31,389.0,Billboard,0389\salami_chords.txt,tenderness,249
+250,candi_staton,221.94,390.0,Billboard,0390\salami_chords.txt,young_hearts_run_free,250
+251,the_isley_brothers,218.25,391.0,Billboard,0391\salami_chords.txt,it's_your_thing,251
+252,genesis,194.87,393.0,Billboard,0393\salami_chords.txt,misunderstanding,252
+253,jackson_browne,217.48,395.0,Billboard,0395\salami_chords.txt,here_come_those_tears_again,253
+254,peggy_lee,202.77,396.0,Billboard,0396\salami_chords.txt,fever,254
+255,janis_joplin,264.25,397.0,Billboard,0397\salami_chords.txt,kozmic_blues,255
+256,elvis_presley,151.04,399.0,Billboard,0399\salami_chords.txt,one_night,256
+257,shirley_brown,234.84,400.0,Billboard,0400\salami_chords.txt,woman_to_woman,257
+258,cyndi_lauper,218.38,401.0,Billboard,0401\salami_chords.txt,the_goonies_`r_good_enough,258
+259,aretha_franklin,164.13,403.0,Billboard,0403\salami_chords.txt,i_never_loved_a_man,259
+260,the_crystals,156.78,404.0,Billboard,0404\salami_chords.txt,he's_a_rebel,260
+261,pure_prairie_league,260.6,406.0,Billboard,0406\salami_chords.txt,amie,261
+262,gino_vannelli,280.48,407.0,Billboard,0407\salami_chords.txt,wild_horses,262
+263,johnny_tillotson,164.99,410.0,Billboard,0410\salami_chords.txt,jimmy's_girl,263
+264,harry_chapin,228.23,412.0,Billboard,0412\salami_chords.txt,sunday_morning_sunshine,264
+265,the_rembrandts,231.44,414.0,Billboard,0414\salami_chords.txt,someone,265
+266,david_bowie,209.42,415.0,Billboard,0415\salami_chords.txt,golden_years,266
+267,joni_mitchell,158.04,417.0,Billboard,0417\salami_chords.txt,"(you're_so_square)_baby,_i_don't_care",267
+268,aretha_franklin,168.41,418.0,Billboard,0418\salami_chords.txt,chain_of_fools,268
+269,george_harrison,240.72,419.0,Billboard,0419\salami_chords.txt,blow_away,269
+270,the_who,180.61,421.0,Billboard,0421\salami_chords.txt,pinball_wizard,270
+271,lavern_baker,148.64,425.0,Billboard,0425\salami_chords.txt,see_see_rider,271
+272,bruce_springsteen,211.98,426.0,Billboard,0426\salami_chords.txt,i_m_goin_down,272
+273,the_beach_boys,171.34,427.0,Billboard,0427\salami_chords.txt,bluebirds_over_the_mountain,273
+274,ocean,176.14,429.0,Billboard,0429\salami_chords.txt,put_your_hand_in_the_hand,274
+275,huey_lewis_and_the_news,286.06,430.0,Billboard,0430\salami_chords.txt,i_want_a_new_drug,275
+276,the_osmonds,166.11,432.0,Billboard,0432\salami_chords.txt,one_bad_apple,276
+277,the_5th_dimension,189.28,433.0,Billboard,0433\salami_chords.txt,if_i_could_reach_you,277
+278,dion,159.53,434.0,Billboard,0434\salami_chords.txt,where_or_when,278
+279,dion,156.74,439.0,Billboard,0439\salami_chords.txt,ruby_baby,279
+280,depeche_mode,239.86,442.0,Billboard,0442\salami_chords.txt,world_in_my_eyes,280
+281,the_kinks,186.1,443.0,Billboard,0443\salami_chords.txt,better_things,281
+282,chicago,210.78,445.0,Billboard,0445\salami_chords.txt,old_days,282
+283,the_pointer_sisters,241.88,448.0,Billboard,0448\salami_chords.txt,jump_(for_my_love),283
+284,crosby_stills_and_nash,274.31,451.0,Billboard,0451\salami_chords.txt,got_it_made,284
+285,billy_squier,272.56,452.0,Billboard,0452\salami_chords.txt,don't_say_you_love_me,285
+286,jimmy_smith,357.38,455.0,Billboard,0455\salami_chords.txt,walk_on_the_wild_side_(part_1),286
+287,paul_mccartney,346.07,456.0,Billboard,0456\salami_chords.txt,with_a_little_luck,287
+288,rolling_stones,186.28,457.0,Billboard,0457\salami_chords.txt,not_fade_away,288
+289,the_drifters,180.24,461.0,Billboard,0461\salami_chords.txt,on_broadway,289
+290,john_denver,231.21,463.0,Billboard,0463\salami_chords.txt,seasons_of_the_heart,290
+291,billy_idol,278.05,464.0,Billboard,0464\salami_chords.txt,flesh_for_fantasy,291
+292,sammy_hagar,339.36,465.0,Billboard,0465\salami_chords.txt,give_to_live,292
+293,the_music_explosion,142.58,467.0,Billboard,0467\salami_chords.txt,little_bit_o'_soul,293
+294,the_temptations,154.34,468.0,Billboard,0468\salami_chords.txt,ain't_too_proud_to_beg,294
+295,corey_hart,234.66,469.0,Billboard,0469\salami_chords.txt,in_your_soul,295
+296,kenny_rogers,259.94,472.0,Billboard,0472\salami_chords.txt,sweet_music_man,296
+297,the_beatles,260.0,473.0,Billboard,0473\salami_chords.txt,come_together,297
+298,the_cowsills,181.37,474.0,Billboard,0474\salami_chords.txt,silver_threads_and_golden_needles,298
+299,color_me_badd,290.9,476.0,Billboard,0476\salami_chords.txt,i_adore_mi_amor,299
+300,the_hollies,175.38,477.0,Billboard,0477\salami_chords.txt,carrie-anne,300
+301,j._geils_band,263.89,478.0,Billboard,0478\salami_chords.txt,one_last_kiss,301
+302,the_beach_boys,139.02,479.0,Billboard,0479\salami_chords.txt,wendy,302
+303,rick_james,234.32,480.0,Billboard,0480\salami_chords.txt,give_it_to_me_baby,303
+304,the_miracles,239.15,481.0,Billboard,0481\salami_chords.txt,"baby,_baby_don't_cry",304
+305,"evelyn_""champagne""_king",303.88,482.0,Billboard,0482\salami_chords.txt,i'm_in_love,305
+306,dr._john,335.02,483.0,Billboard,0483\salami_chords.txt,right_place_wrong_time,306
+307,brenda_lee,151.04,484.0,Billboard,0484\salami_chords.txt,heart_in_hand,307
+308,hall_and_oates,147.4,485.0,Billboard,0485\salami_chords.txt,rich_girl,308
+309,james_brown,278.96,490.0,Billboard,0490\salami_chords.txt,my_thang,309
+310,police,243.1,492.0,Billboard,0492\salami_chords.txt,don't_stand_so_close_to_me,310
+311,kenny_rogers,208.72,494.0,Billboard,0494\salami_chords.txt,i_don't_need_you,311
+312,the_staple_singers,224.1,497.0,Billboard,0497\salami_chords.txt,city_in_the_sky,312
+313,johnny_horton,152.55,500.0,Billboard,0500\salami_chords.txt,the_battle_of_new_orleans,313
+314,donna_summer,199.65,501.0,Billboard,0501\salami_chords.txt,last_dance,314
+315,otis_redding,195.93,502.0,Billboard,0502\salami_chords.txt,i've_been_loving_you_too_long_(to_stop_now),315
+316,engelbert_humperdinck,236.46,506.0,Billboard,0506\salami_chords.txt,after_the_lovin',316
+317,commodores,227.55,507.0,Billboard,0507\salami_chords.txt,still,317
+318,b.b._king,163.45,510.0,Billboard,0510\salami_chords.txt,how_blue_can_you_get,318
+319,bertha_tillman,141.69,511.0,Billboard,0511\salami_chords.txt,oh_my_angel,319
+320,the_rolling_stones,203.21,512.0,Billboard,0512\salami_chords.txt,going_to_a_go-go,320
+321,etta_james,177.63,515.0,Billboard,0515\salami_chords.txt,fool_that_i_am,321
+322,nat_king_cole,145.04,516.0,Billboard,0516\salami_chords.txt,those_lazy-hazy-crazy_days_of_summer,322
+323,george_harrison,227.37,517.0,Billboard,0517\salami_chords.txt,years_ago,323
+324,"crosby,_stills_and_nash",449.46,518.0,Billboard,0518\salami_chords.txt,suite,324
+325,tina_turner,433.61,524.0,Billboard,0524\salami_chords.txt,private_dancer,325
+326,led_zeppelin,335.36,525.0,Billboard,0525\salami_chords.txt,trampled_under_foot,326
+327,pet_shop_boys,258.87,526.0,Billboard,0526\salami_chords.txt,love_comes_quickly,327
+328,tommy_james,244.95,528.0,Billboard,0528\salami_chords.txt,crystal_blue_persuasion,328
+329,tracie_spencer,306.58,530.0,Billboard,0530\salami_chords.txt,this_house,329
+330,kate_bush,301.01,531.0,Billboard,0531\salami_chords.txt,running_up_that_hill,330
+331,james_brown,179.26,533.0,Billboard,0533\salami_chords.txt,baby_you're_right,331
+332,cheap_trick,237.69,539.0,Billboard,0539\salami_chords.txt,stop_this_game,332
+333,billy_preston,222.3,540.0,Billboard,0540\salami_chords.txt,with_you_i'm_born_again,333
+334,wham!,234.42,542.0,Billboard,0542\salami_chords.txt,wake_me_up_before_you_go-go,334
+335,elvis_presley,192.31,543.0,Billboard,0543\salami_chords.txt,if_i_can_dream,335
+336,jackson_browne,241.45,545.0,Billboard,0545\salami_chords.txt,redneck_friend,336
+337,the_trammps,217.37,546.0,Billboard,0546\salami_chords.txt,disco_inferno,337
+338,michael_johnson,234.4,547.0,Billboard,0547\salami_chords.txt,almost_by_being_in_love,338
+339,swingin'_medallions,137.95,549.0,Billboard,0549\salami_chords.txt,double_shot_(of_my_baby's_love),339
+340,peaches_and_herb,333.39,550.0,Billboard,0550\salami_chords.txt,shake_your_groove_thing,340
+341,michael_sembello,252.68,553.0,Billboard,0553\salami_chords.txt,maniac,341
+342,the_moments,139.08,554.0,Billboard,0554\salami_chords.txt,walk_right_in,342
+343,cheap_trick,256.0,555.0,Billboard,0555\salami_chords.txt,surrender,343
+344,dolly_parton,158.48,559.0,Billboard,0559\salami_chords.txt,baby_i'm_burnin',344
+345,simon_and_garfunkel,176.78,560.0,Billboard,0560\salami_chords.txt,cecilia,345
+346,jackson_browne,201.35,561.0,Billboard,0561\salami_chords.txt,boulevard,346
+347,elvis_presley,132.47,565.0,Billboard,0565\salami_chords.txt,judy,347
+348,roxette,237.98,567.0,Billboard,0567\salami_chords.txt,the_look,348
+349,roxy,226.56,568.0,Billboard,0568\salami_chords.txt,dance_away,349
+350,dave_dudley,144.05,570.0,Billboard,0570\salami_chords.txt,six_days_on_the_road,350
+351,gary_u.s._bonds,150.54,571.0,Billboard,0571\salami_chords.txt,quarter_to_three,351
+352,baltimora,232.46,572.0,Billboard,0572\salami_chords.txt,"tarzan_boy_(from_""teenage_mutant_ninja_turtles_iii"")",352
+353,al_green,166.64,573.0,Billboard,0573\salami_chords.txt,"oh_me,_oh_my_(dreams_in_my_arms)",353
+354,canned_heat,169.9,577.0,Billboard,0577\salami_chords.txt,let's_work_together,354
+355,anita_baker,260.55,578.0,Billboard,0578\salami_chords.txt,giving_you_the_best_that_i_got,355
+356,the_yardbirds,149.39,579.0,Billboard,0579\salami_chords.txt,heart_full_of_soul,356
+357,the_falcons,178.68,580.0,Billboard,0580\salami_chords.txt,i_found_a_love,357
+358,the_miracles,192.21,582.0,Billboard,0582\salami_chords.txt,i_don't_blame_you_at_all,358
+359,ben_e._king,185.36,583.0,Billboard,0583\salami_chords.txt,amor,359
+360,clarence_carter,138.4,585.0,Billboard,0585\salami_chords.txt,too_weak_to_fight,360
+361,the_righteous_brothers,218.33,587.0,Billboard,0587\salami_chords.txt,unchained_melody,361
+362,queen,183.17,588.0,Billboard,0588\salami_chords.txt,we_are_the_champions,362
+363,"crosby,_stills_and_nash",280.57,589.0,Billboard,0589\salami_chords.txt,southern_cross,363
+364,chico_debarge,232.5,590.0,Billboard,0590\salami_chords.txt,talk_to_me,364
+365,eagles,221.65,591.0,Billboard,0591\salami_chords.txt,the_long_run,365
+366,duran_duran,266.87,592.0,Billboard,0592\salami_chords.txt,all_she_wants_is,366
+367,yaz,346.83,594.0,Billboard,0594\salami_chords.txt,situation,367
+368,irma_thomas,134.16,598.0,Billboard,0598\salami_chords.txt,wish_someone_would_care,368
+369,alice_cooper,274.67,599.0,Billboard,0599\salami_chords.txt,hey_stoopid,369
+370,billy_swan,178.35,601.0,Billboard,0601\salami_chords.txt,i_can_help,370
+371,b.b._king,243.51,605.0,Billboard,0605\salami_chords.txt,the_thrill_is_gone,371
+372,tom_d_hall,125.7,606.0,Billboard,0606\salami_chords.txt,i_love,372
+373,carl_carlton,155.04,607.0,Billboard,0607\salami_chords.txt,everlasting_love,373
+374,quarterflash,217.81,608.0,Billboard,0608\salami_chords.txt,harden_my_heart,374
+375,kiss,247.28,610.0,Billboard,0610\salami_chords.txt,rocket_ride,375
+376,sly_and_the_family_stone,323.68,614.0,Billboard,0614\salami_chords.txt,i_want_to_take_you_higher,376
+377,nick_gilder,189.47,615.0,Billboard,0615\salami_chords.txt,hot_child_in_the_city,377
+378,mrs._robinson,245.0,616.0,Billboard,0616\salami_chords.txt,simon_and_garfunkel,378
+379,elvis_presley,128.81,617.0,Billboard,0617\salami_chords.txt,his_latest_flame,379
+380,dean_martin,161.78,618.0,Billboard,0618\salami_chords.txt,everybody_loves_somebody,380
+381,marvin_gaye_and_tammy_terrell,146.23,619.0,Billboard,0619\salami_chords.txt,if_i_could_build_my_whole_world_around_you,381
+382,rod_stewart,198.54,620.0,Billboard,0620\salami_chords.txt,twisting_the_night_away,382
+383,ray_parker_jr,246.88,621.0,Billboard,0621\salami_chords.txt,ghostbusters_theme,383
+384,glen_campbell,147.38,623.0,Billboard,0623\salami_chords.txt,it's_only_make_believe,384
+385,stevie_wonder,227.81,625.0,Billboard,0625\salami_chords.txt,higher_ground,385
+386,bonnie_raitt,232.91,627.0,Billboard,0627\salami_chords.txt,nick_of_time,386
+387,michael_jackson,257.93,629.0,Billboard,0629\salami_chords.txt,beat_it,387
+388,stevie_wonder,179.64,631.0,Billboard,0631\salami_chords.txt,if_you_really_love_me,388
+389,daryl_hall_and_john_oates,274.21,633.0,Billboard,0633\salami_chords.txt,maneater,389
+390,beastie_boys,158.62,634.0,Billboard,0634\salami_chords.txt,brass_monkey,390
+391,jan_and_dean,166.77,635.0,Billboard,0635\salami_chords.txt,little_old_lady_from_pasadena,391
+392,michael_jackson,245.73,637.0,Billboard,0637\salami_chords.txt,human_nature,392
+393,johnny_tillotson,157.36,638.0,Billboard,0638\salami_chords.txt,out_of_my_mind,393
+394,james_brown,165.98,640.0,Billboard,0640\salami_chords.txt,think,394
+395,the_music_machine,171.78,643.0,Billboard,0643\salami_chords.txt,the_people_in_me,395
+396,otis_redding,164.78,645.0,Billboard,0645\salami_chords.txt,(sittin'_on)_the_dock_of_the_bay,396
+397,anita_baker,317.57,647.0,Billboard,0647\salami_chords.txt,caught_up_in_the_rapture,397
+398,pet_shop_boys,259.95,648.0,Billboard,0648\salami_chords.txt,what_have_i_done_to_deserve_this?,398
+399,the_supremes,181.58,649.0,Billboard,0649\salami_chords.txt,stoned_love,399
+400,louis_armstrong,147.77,650.0,Billboard,0650\salami_chords.txt,hello_dolly,400
+401,the_weather_girls,209.21,651.0,Billboard,0651\salami_chords.txt,it's_raining_men,401
+402,soft_cell,161.44,654.0,Billboard,0654\salami_chords.txt,tainted_love,402
+403,eric_carmen,321.15,655.0,Billboard,0655\salami_chords.txt,sunrise,403
+404,dr._hook,195.68,656.0,Billboard,0656\salami_chords.txt,years_from_now,404
+405,elvis_presley,127.87,658.0,Billboard,0658\salami_chords.txt,ask_me,405
+406,the_j._geils_band,227.97,662.0,Billboard,0662\salami_chords.txt,looking_for_a_love,406
+407,pointer_sisters,220.34,663.0,Billboard,0663\salami_chords.txt,he's_so_shy,407
+408,joni_mitchell,167.52,668.0,Billboard,0668\salami_chords.txt,big_yellow_taxi,408
+409,queensryche,347.82,670.0,Billboard,0670\salami_chords.txt,silent_lucidity,409
+410,the_kendalls,145.16,671.0,Billboard,0671\salami_chords.txt,heaven's_just_a_sin_away,410
+411,jackie_wilson,231.49,672.0,Billboard,0672\salami_chords.txt,baby_workout,411
+412,the_fireballs,123.85,674.0,Billboard,0674\salami_chords.txt,sugar_shack,412
+413,joe_cocker,193.18,675.0,Billboard,0675\salami_chords.txt,with_a_little_help_from_my_friends,413
+414,wilson_pickett,144.62,677.0,Billboard,0677\salami_chords.txt,don't_knock_my_love_-_pt._1,414
+415,otis_redding,161.02,678.0,Billboard,0678\salami_chords.txt,chained_and_bound,415
+416,u2,296.18,681.0,Billboard,0681\salami_chords.txt,with_or_without_you,416
+417,stevie_wonder,313.99,683.0,Billboard,0683\salami_chords.txt,that_girl,417
+418,inxs,190.28,687.0,Billboard,0687\salami_chords.txt,need_you_tonight,418
+419,canned_heat,302.89,688.0,Billboard,0688\salami_chords.txt,on_the_road_again,419
+420,jan_and_dean,165.12,689.0,Billboard,0689\salami_chords.txt,"the_anaheim,_azusa_and_cucamonga_sewing_circle,_book_review_and_timing_association",420
+421,juice_newton,209.87,690.0,Billboard,0690\salami_chords.txt,queen_of_hearts,421
+422,the_neville_brothers,266.87,691.0,Billboard,0691\salami_chords.txt,tell_it_like_it_is,422
+423,rita_coolidge,210.21,692.0,Billboard,0692\salami_chords.txt,fever,423
+424,brenda_lee,171.68,696.0,Billboard,0696\salami_chords.txt,too_many_rivers,424
+425,jeff_beck,296.07,698.0,Billboard,0698\salami_chords.txt,people_get_ready,425
+426,bachman-turner_overdrive,234.14,699.0,Billboard,0699\salami_chords.txt,heartaches,426
+427,chicago,200.02,700.0,Billboard,0700\salami_chords.txt,does_anybody_really_know_what_time_it_is,427
+428,billy_idol,253.38,701.0,Billboard,0701\salami_chords.txt,white_wedding,428
+429,gladys_knight_and_the_pips,195.32,705.0,Billboard,0705\salami_chords.txt,baby_don't_change_your_mind,429
+430,jethro_tull,203.47,706.0,Billboard,0706\salami_chords.txt,living_in_the_past,430
+431,rod_bernard,164.81,707.0,Billboard,0707\salami_chords.txt,this_should_go_on_forever,431
+432,daryl_hall_and_john_oates,186.17,708.0,Billboard,0708\salami_chords.txt,sara_smile,432
+433,john_denver,242.79,711.0,Billboard,0711\salami_chords.txt,some_days_are_diamonds_(some_days_are_stone),433
+434,jerry_reed,155.32,713.0,Billboard,0713\salami_chords.txt,ko-ko_joe,434
+435,commodores,241.31,716.0,Billboard,0716\salami_chords.txt,lady_(you_bring_me_up),435
+436,john_denver,286.19,720.0,Billboard,0720\salami_chords.txt,rocky_mountain_high,436
+437,dinah_washington,136.1,722.0,Billboard,0722\salami_chords.txt,where_are_you,437
+438,badfinger,169.46,723.0,Billboard,0723\salami_chords.txt,maybe_tomorrow,438
+439,etta_james,158.8,726.0,Billboard,0726\salami_chords.txt,would_it_make_any_difference_to_you,439
+440,the_beatles,164.42,727.0,Billboard,0727\salami_chords.txt,eight_days_a_week,440
+441,neil_sedaka,138.74,728.0,Billboard,0728\salami_chords.txt,breaking_up_is_hard_to_do,441
+442,psychedelic_furs,279.99,729.0,Billboard,0729\salami_chords.txt,pretty_in_pink,442
+443,kenny_rogers,222.9,731.0,Billboard,0731\salami_chords.txt,lucille,443
+444,dean_martin,142.59,734.0,Billboard,0734\salami_chords.txt,i_will,444
+445,earth_wind_and_fire,225.99,735.0,Billboard,0735\salami_chords.txt,getaway,445
+446,stevie_wonder,629.32,736.0,Billboard,0736\salami_chords.txt,do_i_do,446
+447,cliff_richard,158.83,740.0,Billboard,0740\salami_chords.txt,living_doll,447
+448,pat_benatar,251.41,741.0,Billboard,0741\salami_chords.txt,love_is_a_battlefield,448
+449,blondie,208.09,743.0,Billboard,0743\salami_chords.txt,one_way_or_another,449
+450,louis_prima_and_keely_smith,176.62,746.0,Billboard,0746\salami_chords.txt,that_old_black_magic,450
+451,tracy_chapman,194.17,747.0,Billboard,0747\salami_chords.txt,baby_can_i_hold_you,451
+452,ray_charles,179.44,748.0,Billboard,0748\salami_chords.txt,crying_time,452
+453,led_zepplin,263.24,749.0,Billboard,0749\salami_chords.txt,dyer_maker,453
+454,elton_john,321.83,752.0,Billboard,0752\salami_chords.txt,levon,454
+455,jimmy_buffett,188.81,758.0,Billboard,0758\salami_chords.txt,come_monday,455
+456,dr._hook,183.67,761.0,Billboard,0761\salami_chords.txt,walk_right_in,456
+457,grand_funk_railroad,245.24,762.0,Billboard,0762\salami_chords.txt,walk_like_a_man,457
+458,paper_lace,217.42,767.0,Billboard,0767\salami_chords.txt,the_night_chicago_died,458
+459,the_cowsills,212.4,770.0,Billboard,0770\salami_chords.txt,hair,459
+460,paul_mccartney,283.17,772.0,Billboard,0772\salami_chords.txt,press,460
+461,fats_domino,141.61,773.0,Billboard,0773\salami_chords.txt,i_want_to_walk_you_home,461
+462,marc_cohn,255.94,775.0,Billboard,0775\salami_chords.txt,walking_in_memphis,462
+463,fontella_bass,173.24,777.0,Billboard,0777\salami_chords.txt,rescue_me,463
+464,charlie_rich,166.22,779.0,Billboard,0779\salami_chords.txt,a_very_special_love_song,464
+465,the_righteous_brothers,188.79,785.0,Billboard,0785\salami_chords.txt,soul_and_inspiration,465
+466,johnny_cash,136.72,787.0,Billboard,0787\salami_chords.txt,the_ways_of_a_woman_in_love,466
+467,floyd_cramer,149.52,788.0,Billboard,0788\salami_chords.txt,last_date,467
+468,bruce_channel,143.18,789.0,Billboard,0789\salami_chords.txt,hey_baby,468
+469,brenda_lee,153.92,790.0,Billboard,0790\salami_chords.txt,everybody_loves_me_but_you,469
+470,eric_carmen,248.42,791.0,Billboard,0791\salami_chords.txt,hungry_eyes,470
+471,chuck_berry,141.27,792.0,Billboard,0792\salami_chords.txt,almost_grown,471
+472,elvis_presley,273.95,793.0,Billboard,0793\salami_chords.txt,my_way,472
+473,billy_idol,221.99,794.0,Billboard,0794\salami_chords.txt,catch_my_fall,473
+474,barry_white,203.96,796.0,Billboard,0796\salami_chords.txt,"you're_the_first,_the_last,_my_everything",474
+475,teddy_pendergrass,243.56,797.0,Billboard,0797\salami_chords.txt,i_don't_love_you_anymore,475
+476,the_allman_brothers,227.42,798.0,Billboard,0798\salami_chords.txt,straight_from_the_heart,476
+477,waylon_jennings,129.36,802.0,Billboard,0802\salami_chords.txt,theme_from_the_dukes_of_hazzard,477
+478,cyndi_lauper,228.22,803.0,Billboard,0803\salami_chords.txt,true_colors,478
+479,"earth,_wind_and_fire",147.67,804.0,Billboard,0804\salami_chords.txt,september,479
+480,rita_coolidge,220.49,806.0,Billboard,0806\salami_chords.txt,we're_all_alone,480
+481,meat_loaf,290.12,807.0,Billboard,0807\salami_chords.txt,you_took_the_words_right_out_of_my_mouth,481
+482,the_everly_brothers,156.24,809.0,Billboard,0809\salami_chords.txt,on_the_wings_of_a_nightingale,482
+483,poison,229.46,810.0,Billboard,0810\salami_chords.txt,unskinny_bop,483
+484,jermaine_jackson,216.37,811.0,Billboard,0811\salami_chords.txt,let's_get_serious,484
+485,rick_james,201.85,812.0,Billboard,0812\salami_chords.txt,super_freak_part_one,485
+486,leslie_gore,169.5,813.0,Billboard,0813\salami_chords.txt,california_nights,486
+487,marty_robbins,236.93,814.0,Billboard,0814\salami_chords.txt,big_iron,487
+488,david_bowie,192.25,818.0,Billboard,0818\salami_chords.txt,blue_jean,488
+489,marvin_gaye,151.29,819.0,Billboard,0819\salami_chords.txt,mercy_mercy_me_(the_ecology),489
+490,cher,246.31,821.0,Billboard,0821\salami_chords.txt,just_like_jesse_james,490
+491,lavern_baker,156.24,822.0,Billboard,0822\salami_chords.txt,i_cried_a_tear,491
+492,bill_withers,247.3,823.0,Billboard,0823\salami_chords.txt,lovely_day,492
+493,paul_simon,195.03,824.0,Billboard,0824\salami_chords.txt,50_ways_to_leave_your_lover,493
+494,biz_markie,241.37,827.0,Billboard,0827\salami_chords.txt,just_a_friend,494
+495,the_amboy_dukes,214.54,828.0,Billboard,0828\salami_chords.txt,journey_to_the_center_of_the_mind,495
+496,bob_seger_and_the_silver_bullet_band,243.89,830.0,Billboard,0830\salami_chords.txt,trying_to_live_my_life_without_you,496
+497,dr._hook,212.94,831.0,Billboard,0831\salami_chords.txt,sexy_eyes,497
+498,oliver,219.27,834.0,Billboard,0834\salami_chords.txt,good_morning_starshine,498
+499,anita_baker,266.34,837.0,Billboard,0837\salami_chords.txt,sweet_love,499
+500,the_beach_boys,128.91,838.0,Billboard,0838\salami_chords.txt,surfin'_safari,500
+501,steppenwolf,209.5,841.0,Billboard,0841\salami_chords.txt,born_to_be_wild,501
+502,elton_john,194.74,842.0,Billboard,0842\salami_chords.txt,goodbye_yellow_brick_road,502
+503,cher,240.95,843.0,Billboard,0843\salami_chords.txt,if_i_could_turn_back_time,503
+504,talking_heads,241.14,844.0,Billboard,0844\salami_chords.txt,burning_down_the_house,504
+505,george_harrison,234.68,845.0,Billboard,0845\salami_chords.txt,i_got_my_mind_set_on_you,505
+506,bread,156.71,847.0,Billboard,0847\salami_chords.txt,sweet_surrender,506
+507,the_castaways,114.86,848.0,Billboard,0848\salami_chords.txt,"liar,_liar",507
+508,creedence_clearwater_revival,132.65,852.0,Billboard,0852\salami_chords.txt,bad_moon_rising,508
+509,the_beatles,175.83,853.0,Billboard,0853\salami_chords.txt,i_saw_her_standing_there,509
+510,hi-five,237.84,856.0,Billboard,0856\salami_chords.txt,i_like_the_way_(the_kissing_game),510
+511,james_brown,319.15,857.0,Billboard,0857\salami_chords.txt,get_up_(i_feel_like_being_like_a)_sex_machine_(part_1),511
+512,nitty_gritty_dirt_band,235.05,859.0,Billboard,0859\salami_chords.txt,make_a_little_magic,512
+513,judas_priest,310.75,861.0,Billboard,0861\salami_chords.txt,you've_got_another_thing_comin',513
+514,oak_ridge_boys,161.16,864.0,Billboard,0864\salami_chords.txt,elvira,514
+515,rick_springfield,181.37,865.0,Billboard,0865\salami_chords.txt,don't_talk_to_strangers,515
+516,freddy_fender,214.86,872.0,Billboard,0872\salami_chords.txt,secret_love,516
+517,elvis_presley,232.21,875.0,Billboard,0875\salami_chords.txt,she_thinks_i_still_care,517
+518,run-d.m.c.,312.03,879.0,Billboard,0879\salami_chords.txt,walk_this_way,518
+519,metallica,444.5,884.0,Billboard,0884\salami_chords.txt,one,519
+520,wang_chung,240.3,886.0,Billboard,0886\salami_chords.txt,dance_hall_days,520
+521,de_la_soul,221.44,887.0,Billboard,0887\salami_chords.txt,me_myself_and_i,521
+522,steve_winwood,415.39,889.0,Billboard,0889\salami_chords.txt,don_t_you_know_what_the_night_can_do,522
+523,ray_charles,183.85,890.0,Billboard,0890\salami_chords.txt,let's_go_get_stoned,523
+524,the_who,132.1,891.0,Billboard,0891\salami_chords.txt,happy_jack,524
+525,edwin_starr,208.74,893.0,Billboard,0893\salami_chords.txt,war,525
+526,abba,222.35,894.0,Billboard,0894\salami_chords.txt,on_and_on_and_on,526
+527,todd_rundgren,179.13,895.0,Billboard,0895\salami_chords.txt,a_dream_goes_on_forever,527
+528,eric_clapton,250.12,898.0,Billboard,0898\salami_chords.txt,i_can't_stand_it,528
+529,the_temptations,173.61,900.0,Billboard,0900\salami_chords.txt,i_wish_it_would_rain,529
+530,james_taylor,203.45,901.0,Billboard,0901\salami_chords.txt,country_road,530
+531,abba,173.87,902.0,Billboard,0902\salami_chords.txt,honey_honey,531
+532,the_kinks,157.31,904.0,Billboard,0904\salami_chords.txt,till_the_end_of_the_day,532
+533,"crosby,_stills_and_nash",174.34,905.0,Billboard,0905\salami_chords.txt,teach_your_children,533
+534,milli_vanilli,253.0,913.0,Billboard,0913\salami_chords.txt,girl_you_know_it_s_true,534
+535,dr._hook,196.34,914.0,Billboard,0914\salami_chords.txt,if_not_you,535
+536,bobby_womack,189.57,915.0,Billboard,0915\salami_chords.txt,sweet_caroline_(good_times_never_seemed_so_good),536
+537,anne_murray,164.31,917.0,Billboard,0917\salami_chords.txt,a_love_song,537
+538,billy_idol,218.1,920.0,Billboard,0920\salami_chords.txt,hot_in_the_city,538
+539,the_ritchie_family,193.65,925.0,Billboard,0925\salami_chords.txt,the_best_disco_in_town,539
+540,the_ventures,125.52,926.0,Billboard,0926\salami_chords.txt,perfidia,540
+541,little_anthony_and_the_imperials,159.8,927.0,Billboard,0927\salami_chords.txt,"out_of_sight,_out_of_mind",541
+542,tommy_james,174.82,928.0,Billboard,0928\salami_chords.txt,mony_mony,542
+543,rock_and_hyde,257.54,929.0,Billboard,0929\salami_chords.txt,dirty_water,543
+544,cornelius_brothers_and_sister_rose,166.19,932.0,Billboard,0932\salami_chords.txt,treat_her_like_a_lady,544
+545,ray_charles,180.32,933.0,Billboard,0933\salami_chords.txt,eleanor_rigby,545
+546,the_box_tops,155.31,935.0,Billboard,0935\salami_chords.txt,cry_like_a_baby,546
+547,bob_seger,355.0,941.0,Billboard,0941\salami_chords.txt,like_a_rock,547
+548,wilson_pickett,145.58,943.0,Billboard,0943\salami_chords.txt,i_found_a_true_love,548
+549,dolly_parton,238.24,944.0,Billboard,0944\salami_chords.txt,starting_over_again,549
+550,the_doors,430.68,945.0,Billboard,0945\salami_chords.txt,riders_on_the_storm,550
+551,the_miracles,168.49,946.0,Billboard,0946\salami_chords.txt,i_second_that_emotion,551
+552,simon_and_garfunkel,199.34,947.0,Billboard,0947\salami_chords.txt,fakin_it,552
+553,chubby_checker,156.3,948.0,Billboard,0948\salami_chords.txt,the_twist,553
+554,sonny_and_cher,159.63,950.0,Billboard,0950\salami_chords.txt,all_i_ever_need_is_you,554
+555,boston,251.51,952.0,Billboard,0952\salami_chords.txt,feelin'_satisfied,555
+556,the_allan_parsons_project,239.23,956.0,Billboard,0956\salami_chords.txt,eye_in_the_sky,556
+557,the_rolling_stones,288.58,958.0,Billboard,0958\salami_chords.txt,miss_you,557
+558,abba,241.88,961.0,Billboard,0961\salami_chords.txt,take_a_chance_on_me,558
+559,billy_squier,208.22,963.0,Billboard,0963\salami_chords.txt,the_stroke,559
+560,the_sopwith_camel,145.14,964.0,Billboard,0964\salami_chords.txt,hello_hello,560
+561,arthur_conley,143.08,965.0,Billboard,0965\salami_chords.txt,sweet_soul_music,561
+562,george_benson,341.76,967.0,Billboard,0967\salami_chords.txt,breezin',562
+563,brenda_lee,124.73,968.0,Billboard,0968\salami_chords.txt,coming_on_strong,563
+564,billy_joel,179.09,969.0,Billboard,0969\salami_chords.txt,don't_ask_me_why,564
+565,david_bowie,288.64,970.0,Billboard,0970\salami_chords.txt,modern_love,565
+566,pat_benatar,247.88,973.0,Billboard,0973\salami_chords.txt,little_too_late,566
+567,the_beach_boys,217.61,974.0,Billboard,0974\salami_chords.txt,kokomo_(from_the_cocktail_soundtrack),567
+568,isaac_hayes,673.8,978.0,Billboard,0978\salami_chords.txt,the_look_of_love,568
+569,culture_club,254.62,979.0,Billboard,0979\salami_chords.txt,karma_chameleon,569
+570,bananarama,222.3,981.0,Billboard,0981\salami_chords.txt,venus,570
+571,natalie_cole,193.38,982.0,Billboard,0982\salami_chords.txt,unforgettable,571
+572,barbara_lewis,161.38,984.0,Billboard,0984\salami_chords.txt,hello_stranger,572
+573,the_jacksons,157.78,985.0,Billboard,0985\salami_chords.txt,dancing_machine,573
+574,leo_sayer,174.34,986.0,Billboard,0986\salami_chords.txt,you_make_me_feel_like_dancing,574
+575,the_yardbirds,145.24,990.0,Billboard,0990\salami_chords.txt,shapes_of_things,575
+576,elton_john,217.73,991.0,Billboard,0991\salami_chords.txt,the_bitch_is_back,576
+577,the_commodores,265.27,992.0,Billboard,0992\salami_chords.txt,nightshift,577
+578,elvis_presley,179.85,993.0,Billboard,0993\salami_chords.txt,there_goes_my_everything,578
+579,laura_branigan,233.72,995.0,Billboard,0995\salami_chords.txt,gloria,579
+580,j._geils_band,239.83,1002.0,Billboard,1002\salami_chords.txt,freeze-frame,580
+581,player,217.52,1003.0,Billboard,1003\salami_chords.txt,baby_come_back,581
+582,roy_drusky,164.05,1006.0,Billboard,1006\salami_chords.txt,three_hearts_in_a_tangle,582
+583,dr._hook,181.48,1009.0,Billboard,1009\salami_chords.txt,the_millionaire,583
+584,cyndi_lauper,252.81,1011.0,Billboard,1011\salami_chords.txt,i_drove_all_night,584
+585,sting,295.52,1012.0,Billboard,1012\salami_chords.txt,all_this_time,585
+586,debarge,247.8,1013.0,Billboard,1013\salami_chords.txt,time_will_reveal,586
+587,wild_cherry,198.64,1014.0,Billboard,1014\salami_chords.txt,play_that_funky_music,587
+588,wilson_pickett,159.09,1018.0,Billboard,1018\salami_chords.txt,in_the_midnight_hour,588
+589,prince_and_sheena_easton,267.96,1019.0,Billboard,1019\salami_chords.txt,the_arms_of_orion,589
+590,the_dramatics,211.2,1020.0,Billboard,1020\salami_chords.txt,hey_you!_get_off_my_mountain,590
+591,wilson_pickett,160.21,1021.0,Billboard,1021\salami_chords.txt,soul_dance_number_3,591
+592,jimmy_reed,170.5,1024.0,Billboard,1024\salami_chords.txt,baby_what_you_want_me_to_do,592
+593,greg_kihn,266.71,1027.0,Billboard,1027\salami_chords.txt,lucky,593
+594,tina_turner,255.5,1031.0,Billboard,1031\salami_chords.txt,we_don_t_need_another_hero_(thunderdome),594
+595,james_brown,286.38,1032.0,Billboard,1032\salami_chords.txt,down_and_out_in_new_york_city,595
+596,the_byrds,207.96,1033.0,Billboard,1033\salami_chords.txt,goin'_back,596
+597,the_greatful_dead,199.13,1034.0,Billboard,1034\salami_chords.txt,sugar_magnolia,597
+598,gene_pitney,172.12,1037.0,Billboard,1037\salami_chords.txt,town_without,598
+599,milli_vanilli,237.87,1039.0,Billboard,1039\salami_chords.txt,girl_i_m_gonna_miss_you,599
+600,eric_clapton,230.84,1040.0,Billboard,1040\salami_chords.txt,lay_down_sally,600
+601,johnny_tillotson,169.61,1041.0,Billboard,1041\salami_chords.txt,it_keeps_right_on_a-hurtin',601
+602,aretha_franklin,221.66,1042.0,Billboard,1042\salami_chords.txt,oh_me_oh_my_(i'm_a_fool_for_you_baby),602
+603,duran_duran,250.41,1043.0,Billboard,1043\salami_chords.txt,is_there_something_i_should_know,603
+604,jimmy_ruffin,169.2,1044.0,Billboard,1044\salami_chords.txt,i've_passed_this_way_before,604
+605,jefferson_starship,197.88,1045.0,Billboard,1045\salami_chords.txt,count_on_me,605
+606,eddie_holland,145.24,1046.0,Billboard,1046\salami_chords.txt,jamie,606
+607,b.j._thomas,191.19,1048.0,Billboard,1048\salami_chords.txt,hooked_on_a_feeling,607
+608,billy_squier,211.17,1051.0,Billboard,1051\salami_chords.txt,my_kinda_lover,608
+609,pink_floyd,239.96,1052.0,Billboard,1052\salami_chords.txt,another_brick_in_the_wall_(part_ii),609
+610,pat_benatar,207.28,1053.0,Billboard,1053\salami_chords.txt,heartbreaker,610
+611,marty_robbins,200.23,1054.0,Billboard,1054\salami_chords.txt,i_walk_alone,611
+612,elvis_presley,155.49,1055.0,Billboard,1055\salami_chords.txt,my_wish_came_true,612
+613,"earth,_wind_and_fire",280.89,1056.0,Billboard,1056\salami_chords.txt,after_the_love_has_gone,613
+614,bill_withers,126.38,1058.0,Billboard,1058\salami_chords.txt,ain't_no_sunshine,614
+615,hank_snow,166.77,1059.0,Billboard,1059\salami_chords.txt,i've_been_everywhere,615
+616,eagles,274.81,1061.0,Billboard,1061\salami_chords.txt,best_of_my_love,616
+617,the_fabulous_thunderbirds,202.58,1062.0,Billboard,1062\salami_chords.txt,tuff_enuff,617
+618,dion,158.43,1063.0,Billboard,1063\salami_chords.txt,this_little_girl,618
+619,robert_john,253.26,1064.0,Billboard,1064\salami_chords.txt,sad_eyes,619
+620,bruce_springsteen,274.23,1066.0,Billboard,1066\salami_chords.txt,my_hometown,620
+621,the_j._geils_band,180.58,1069.0,Billboard,1069\salami_chords.txt,must_of_got_lost,621
+622,the_babys,243.3,1070.0,Billboard,1070\salami_chords.txt,every_time_i_think_of_you,622
+623,bob_seger,215.69,1071.0,Billboard,1071\salami_chords.txt,rock_and_roll_never_forgets,623
+624,fats_domino,135.92,1072.0,Billboard,1072\salami_chords.txt,be_my_guest,624
+625,cliff_richard,215.35,1073.0,Billboard,1073\salami_chords.txt,devil_woman,625
+626,todd_rundgren,216.48,1076.0,Billboard,1076\salami_chords.txt,can_we_still_be_friends,626
+627,switch,216.97,1078.0,Billboard,1078\salami_chords.txt,there'll_never_be,627
+628,alabama,223.97,1082.0,Billboard,1082\salami_chords.txt,take_me_down,628
+629,chicago,265.78,1085.0,Billboard,1085\salami_chords.txt,make_me_smile,629
+630,thelma_houston,221.7,1086.0,Billboard,1086\salami_chords.txt,don't_leave_me_this_way,630
+631,joan_baez,195.13,1087.0,Billboard,1087\salami_chords.txt,there_but_for_fortune,631
+632,heart,245.42,1089.0,Billboard,1089\salami_chords.txt,who_will_you_run_to,632
+633,the_crystals,143.18,1094.0,Billboard,1094\salami_chords.txt,there's_no_other_(like_my_baby),633
+634,the_meters,195.79,1096.0,Billboard,1096\salami_chords.txt,look-ka_py_py,634
+635,dion,146.68,1101.0,Billboard,1101\salami_chords.txt,(i_was)_born_to_cry,635
+636,stray_cats,204.56,1102.0,Billboard,1102\salami_chords.txt,rock_this_town,636
+637,tina_turner,267.23,1104.0,Billboard,1104\salami_chords.txt,what_you_see_is_what_you_get,637
+638,young_mc,265.24,1106.0,Billboard,1106\salami_chords.txt,bust_a_move,638
+639,the_beatles',189.01,1107.0,Billboard,1107\salami_chords.txt,"ob-la-di,_ob-la-da",639
+640,rob_base,301.53,1109.0,Billboard,1109\salami_chords.txt,it_takes_two,640
+641,chuck_berry,197.25,1110.0,Billboard,1110\salami_chords.txt,reelin'_and_rockin',641
+642,chris_kenner,149.13,1111.0,Billboard,1111\salami_chords.txt,land_of_1000_dances,642
+643,stephanie_mills,324.5,1112.0,Billboard,1112\salami_chords.txt,never_knew_love_like_this_before,643
+644,charlie_rich,129.54,1113.0,Billboard,1113\salami_chords.txt,lonely_weekends,644
+645,glen_campbell,187.43,1114.0,Billboard,1114\salami_chords.txt,wichita_lineman,645
+646,the_everly_brothers,186.27,1116.0,Billboard,1116\salami_chords.txt,ebony_eyes,646
+647,barbra_streisand,164.96,1118.0,Billboard,1118\salami_chords.txt,funny_girl,647
+648,los_lobos,222.77,1119.0,Billboard,1119\salami_chords.txt,will_the_wolf_survive,648
+649,simon_and_garfunel,137.52,1121.0,Billboard,1121\salami_chords.txt,a_hazy_shade_of_winter,649
+650,"david_crosby,graham_nash",214.78,1124.0,Billboard,1124\salami_chords.txt,carry_me,650
+651,roy_head,126.43,1125.0,Billboard,1125\salami_chords.txt,treat_her_right,651
+652,genesis,209.35,1126.0,Billboard,1126\salami_chords.txt,invisible_touch,652
+653,the_5th_dimension,210.7,1127.0,Billboard,1127\salami_chords.txt,one_less_bell_to_answer,653
+654,the_miracles,158.04,1134.0,Billboard,1134\salami_chords.txt,mighty_good_lovin',654
+655,kris_kristofferson,226.72,1135.0,Billboard,1135\salami_chords.txt,loving_her_was_easier,655
+656,mary_macgregor,222.54,1138.0,Billboard,1138\salami_chords.txt,torn_between_two_lovers,656
+657,waylon_jennings,176.43,1139.0,Billboard,1139\salami_chords.txt,are_you_sure_hank_done_it_this_way,657
+658,madonna,298.82,1140.0,Billboard,1140\salami_chords.txt,oh_father,658
+659,johnny_tillotson,158.51,1141.0,Billboard,1141\salami_chords.txt,talk_back_trembling_lips,659
+660,the_beatles,153.47,1142.0,Billboard,1142\salami_chords.txt,hard_days_night,660
+661,eddie_rabbitt,190.43,1143.0,Billboard,1143\salami_chords.txt,i_love_a_rainy_night,661
+662,tevin_campbell,257.59,1145.0,Billboard,1145\salami_chords.txt,tell_me_what_you_want_me_to_do,662
+663,dion,199.86,1146.0,Billboard,1146\salami_chords.txt,"abraham,_martin_and_john",663
+664,sonny_and_cher,197.77,1147.0,Billboard,1147\salami_chords.txt,a_cowboy's_work_is_never_done,664
+665,duran_duran,228.13,1148.0,Billboard,1148\salami_chords.txt,i_don_t_want_your_love,665
+666,count_basie,254.22,1149.0,Billboard,1149\salami_chords.txt,going_to_chicago_blues,666
+667,simon_and_garfunkel,189.36,1153.0,Billboard,1153\salami_chords.txt,the_sounds_of_silence,667
+668,buck_owens,139.94,1154.0,Billboard,1154\salami_chords.txt,think_of_me,668
+669,jackson_browne,299.31,1155.0,Billboard,1155\salami_chords.txt,running_on_empty,669
+670,johnny_cash,125.31,1160.0,Billboard,1160\salami_chords.txt,i_got_stripes,670
+671,cliff_richard,180.82,1161.0,Billboard,1161\salami_chords.txt,daddy's_home,671
+672,paul_mccartney_and_wings,247.77,1163.0,Billboard,1163\salami_chords.txt,my_love,672
+673,double_exposure,196.39,1164.0,Billboard,1164\salami_chords.txt,ten_percent,673
+674,billy_idol,290.66,1167.0,Billboard,1167\salami_chords.txt,rebel_yell,674
+675,bobbie_gentry,256.0,1168.0,Billboard,1168\salami_chords.txt,ode_to_billie_joe,675
+676,jesus_jones,185.99,1169.0,Billboard,1169\salami_chords.txt,"right_here,_right_now",676
+677,blue_cheer,226.19,1170.0,Billboard,1170\salami_chords.txt,summertime_blues,677
+678,bob_seger,325.77,1171.0,Billboard,1171\salami_chords.txt,night_moves,678
+679,madonna,352.12,1173.0,Billboard,1173\salami_chords.txt,live_to_tell,679
+680,little_river_band,240.64,1174.0,Billboard,1174\salami_chords.txt,happy_anniversary,680
+681,bob_seger,333.87,1177.0,Billboard,1177\salami_chords.txt,against_the_wind,681
+682,the_jacksons,179.72,1178.0,Billboard,1178\salami_chords.txt,i_want_you_back,682
+683,"emerson,_lake_and_palmer",280.9,1180.0,Billboard,1180\salami_chords.txt,lucky_man,683
+684,paul_revere_and_the_raiders,149.32,1181.0,Billboard,1181\salami_chords.txt,kicks,684
+685,sagittarius,230.35,1182.0,Billboard,1182\salami_chords.txt,my_world_fell_down,685
+686,michael_jackson,320.0,1188.0,Billboard,1188\salami_chords.txt,man_in_the_mirror,686
+687,dr._hook,166.27,1190.0,Billboard,1190\salami_chords.txt,only_sixteen,687
+688,four_tops,158.99,1192.0,Billboard,1192\salami_chords.txt,standing_in_the_shadows_of_love,688
+689,the_beatles,174.73,1193.0,Billboard,1193\salami_chords.txt,she's_a_woman,689
+690,tom_t._hall,165.09,1194.0,Billboard,1194\salami_chords.txt,the_year_that_clayton_delaney_died,690
+691,stray_cats,235.05,1197.0,Billboard,1197\salami_chords.txt,i_won't_stand_in_your_way,691
+692,the_doobie_brothers,179.12,1200.0,Billboard,1200\salami_chords.txt,echoes_of_love,692
+693,the_commodores,219.72,1201.0,Billboard,1201\salami_chords.txt,three_times_a_lady,693
+694,blondie,229.77,1203.0,Billboard,1203\salami_chords.txt,island_of_lost_souls,694
+695,bob_seger,273.01,1208.0,Billboard,1208\salami_chords.txt,even_now,695
+696,dion,152.02,1210.0,Billboard,1210\salami_chords.txt,lovers_who_wander,696
+697,lesley_gore,151.85,1211.0,Billboard,1211\salami_chords.txt,you_don't_own_me,697
+698,sonny_and_cher,188.55,1212.0,Billboard,1212\salami_chords.txt,baby_don't_go,698
+699,the_beatles,156.16,1213.0,Billboard,1213\salami_chords.txt,i_don't_want_to_spoil_the_party,699
+700,charlie_rich,175.54,1218.0,Billboard,1218\salami_chords.txt,behind_closed_doors,700
+701,rare_earth,169.7,1220.0,Billboard,1220\salami_chords.txt,get_ready,701
+702,wilson_pickett,152.53,1221.0,Billboard,1221\salami_chords.txt,i'm_in_love,702
+703,culture_club,156.0,1223.0,Billboard,1223\salami_chords.txt,i'll_tumble_4_ya,703
+704,buck_owens,135.4,1225.0,Billboard,1225\salami_chords.txt,i've_got_a_tiger_by_the_tail,704
+705,bay_city_rollers,178.12,1228.0,Billboard,1228\salami_chords.txt,saturday_night,705
+706,bonnie_pointer,215.75,1232.0,Billboard,1232\salami_chords.txt,heaven_must_have_sent_you,706
+707,boston,255.97,1234.0,Billboard,1234\salami_chords.txt,amanda,707
+708,the_shirelles,163.58,1239.0,Billboard,1239\salami_chords.txt,will_you_love_me_tomorrow,708
+709,chicago,245.77,1240.0,Billboard,1240\salami_chords.txt,alive_again,709
+710,the_beatles,139.62,1244.0,Billboard,1244\salami_chords.txt,help!,710
+711,marie_osmond,161.57,1245.0,Billboard,1245\salami_chords.txt,paper_roses,711
+712,greg_kihn_band,175.13,1246.0,Billboard,1246\salami_chords.txt,happy_man,712
+713,willie_mitchell,137.12,1247.0,Billboard,1247\salami_chords.txt,20-75,713
+714,the_everly_brothers,142.47,1248.0,Billboard,1248\salami_chords.txt,that's_old_fashioned_(that's_the_way_love_should_be),714
+715,steve_miller_band,188.94,1249.0,Billboard,1249\salami_chords.txt,rock'n_me,715
+716,brenda_lee,166.37,1253.0,Billboard,1253\salami_chords.txt,all_alone_am_i,716
+717,genesis,526.84,1256.0,Billboard,1256\salami_chords.txt,abacab,717
+718,minnie_riperton,203.78,1257.0,Billboard,1257\salami_chords.txt,lovin'_you,718
+719,kenny_rogers,235.36,1258.0,Billboard,1258\salami_chords.txt,lady,719
+720,simon_and_garfunkel,188.53,1261.0,Billboard,1261\salami_chords.txt,el_condor_pasa,720
+721,bobby_darin,181.24,1265.0,Billboard,1265\salami_chords.txt,if_i_were_a_carpenter,721
+722,rick_derringer,505.6,1267.0,Billboard,1267\salami_chords.txt,"rock_and_roll,_hoochie_koo",722
+723,edgar_winter,208.14,1268.0,Billboard,1268\salami_chords.txt,frankenstein,723
+724,elton_john,242.83,1269.0,Billboard,1269\salami_chords.txt,who_wears_these_shoes,724
+725,kaoma,204.2,1270.0,Billboard,1270\salami_chords.txt,lambada,725
+726,jan_and_dean,162.38,1272.0,Billboard,1272\salami_chords.txt,sidewalk_surfin',726
+727,cliff_richard,253.65,1273.0,Billboard,1273\salami_chords.txt,we_don't_talk_anymore,727
+728,milli_vanilli,388.47,1276.0,Billboard,1276\salami_chords.txt,baby_don_t_forget_my_number,728
+729,bob_seger,258.14,1277.0,Billboard,1277\salami_chords.txt,american_storm,729
+730,shannon,222.49,1279.0,Billboard,1279\salami_chords.txt,let_the_music_play,730
+731,van_halen,322.4,1281.0,Billboard,1281\salami_chords.txt,when_it's_love,731
+732,george_harrison,238.28,1282.0,Billboard,1282\salami_chords.txt,crackerbox_palace,732
+733,diana_ross,222.72,1285.0,Billboard,1285\salami_chords.txt,upside_down,733
+734,a_taste_of_honey,223.24,1286.0,Billboard,1286\salami_chords.txt,sukiyaki,734
+735,johnny_horton,141.44,1287.0,Billboard,1287\salami_chords.txt,johnny_reb,735
+736,the_las,162.56,1289.0,Billboard,1289\salami_chords.txt,there_she_goes,736
+737,the_turtles,174.86,1290.0,Billboard,1290\salami_chords.txt,happy_together,737
+738,the_chiffons,115.64,1292.0,Billboard,1292\salami_chords.txt,he's_so_fine,738
+739,carole_king,179.07,,chordlib,Carole King\01 I Feel The Earth Move.lab,i_feel_the_earth_move,739
+740,carole_king,235.63,,chordlib,Carole King\02 So Far Away.lab,so_far_away,740
+741,carole_king,233.57,,chordlib,Carole King\03 It's Too Late.lab,it's_too_late,741
+742,carole_king,149.07,,chordlib,Carole King\04 Home Again.lab,home_again,742
+743,carole_king,187.63,,chordlib,Carole King\05 Beautiful.lab,beautiful,743
+744,carole_king,284.31,,chordlib,Carole King\06 Way Over Yonder.lab,way_over_yonder,744
+745,carole_king,309.67,,chordlib,Carole King\07 You've Got A Friend.lab,you've_got_a_friend,745
+746,queen,358.29,,chordlib,Queen\Greatest Hits I\01 Bohemian Rhapsody.lab,bohemian_rhapsody,746
+747,queen,216.91,,chordlib,Queen\Greatest Hits I\02 Another One Bites The Dust.lab,another_one_bites_the_dust,747
+748,queen,204.56,,chordlib,Queen\Greatest Hits I\04 Fat Bottomed Girls.lab,fat_bottomed_girls,748
+749,queen,183.8,,chordlib,Queen\Greatest Hits I\05 Bicycle Race.lab,bicycle_race,749
+750,queen,172.17,,chordlib,Queen\Greatest Hits I\06 You're My Best Friend.lab,you're_my_best_friend,750
+751,queen,211.73,,chordlib,Queen\Greatest Hits I\07 Don't Stop Me Now.lab,don't_stop_me_now,751
+752,queen,228.6,,chordlib,Queen\Greatest Hits I\08 Save Me.lab,save_me,752
+753,queen,163.83,,chordlib,Queen\Greatest Hits I\09 Crazy Little Thing Called Love.lab,crazy_little_thing_called_love,753
+754,queen,297.67,,chordlib,Queen\Greatest Hits I\10 Somebody To Love.lab,somebody_to_love,754
+755,queen,175.83,,chordlib,Queen\Greatest Hits I\12 Good Old-Fashioned Lover Boy.lab,good_old_fashioned_lover_boy,755
+756,queen,213.31,,chordlib,Queen\Greatest Hits I\13 Play The Game.lab,play_the_game,756
+757,queen,170.47,,chordlib,Queen\Greatest Hits I\15 Seven Seas Of Rhye.lab,seven_seas_of_rhye,757
+758,queen,122.77,,chordlib,Queen\Greatest Hits I\16 We Will Rock You.lab,we_will_rock_you,758
+759,queen,262.51,,chordlib,Queen\Greatest Hits II\01 A Kind Of Magic.lab,a_kind_of_magic,759
+760,queen,241.91,,chordlib,Queen\Greatest Hits II\04 I Want It All.lab,i_want_it_all,760
+761,queen,241.91,,chordlib,Queen\Greatest Hits II\05 I Want To Break Free (2).lab,i_want_to_break_free_(2),761
+762,queen,258.73,,chordlib,Queen\Greatest Hits II\05 I Want To Break Free.lab,i_want_to_break_free,762
+763,queen,297.27,,chordlib,Queen\Greatest Hits II\09 Who Wants To Live Forever.lab,who_wants_to_live_forever,763
+764,queen,220.51,,chordlib,Queen\Greatest Hits II\14 Hammer To Fall.lab,hammer_to_fall,764
+765,queen,248.89,,chordlib,Queen\Greatest Hits II\15 Friends Will Be Friends.lab,friends_will_be_friends,765
+766,the_beatles,248.89,,chordlib,The Beatles\01_-_Please_Please_Me\01_-_I_Saw_Her_Standing_There (2).lab,i_saw_her_standing_there_(2),766
+767,the_beatles,110.18,,chordlib,The Beatles\01_-_Please_Please_Me\02_-_Misery.lab,misery,767
+768,the_beatles,177.58,,chordlib,The Beatles\01_-_Please_Please_Me\03_-_Anna_(Go_To_Him).lab,anna_(go_to_him),768
+769,the_beatles,146.49,,chordlib,The Beatles\01_-_Please_Please_Me\04_-_Chains.lab,chains,769
+770,the_beatles,147.51,,chordlib,The Beatles\01_-_Please_Please_Me\05_-_Boys.lab,boys,770
+771,the_beatles,147.77,,chordlib,The Beatles\01_-_Please_Please_Me\06_-_Ask_Me_Why.lab,ask_me_why,771
+772,the_beatles,123.38,,chordlib,The Beatles\01_-_Please_Please_Me\07_-_Please_Please_Me.lab,please_please_me,772
+773,the_beatles,142.76,,chordlib,The Beatles\01_-_Please_Please_Me\08_-_Love_Me_Do.lab,love_me_do,773
+774,the_beatles,125.75,,chordlib,The Beatles\01_-_Please_Please_Me\09_-_P._S._I_Love_You.lab,p._s._i_love_you,774
+775,the_beatles,158.07,,chordlib,The Beatles\01_-_Please_Please_Me\10_-_Baby_It's_You.lab,baby_it's_you,775
+776,the_beatles,125.15,,chordlib,The Beatles\01_-_Please_Please_Me\12_-_A_Taste_Of_Honey.lab,a_taste_of_honey,776
+777,the_beatles,125.15,,chordlib,The Beatles\01_-_Please_Please_Me\13_-_There's_A_Place (2).lab,there's_a_place_(2),777
+778,the_beatles,112.88,,chordlib,The Beatles\01_-_Please_Please_Me\13_-_There's_A_Place.lab,there's_a_place,778
+779,the_beatles,153.16,,chordlib,The Beatles\01_-_Please_Please_Me\14_-_Twist_And_Shout.lab,twist_and_shout,779
+780,the_beatles,133.75,,chordlib,The Beatles\02_-_With_the_Beatles\01_-_It_Won't_Be_Long.lab,it_won't_be_long,780
+781,the_beatles,124.55,,chordlib,The Beatles\02_-_With_the_Beatles\02_-_All_I've_Got_To_Do.lab,all_i've_got_to_do,781
+782,the_beatles,129.57,,chordlib,The Beatles\02_-_With_the_Beatles\03_-_All_My_Loving.lab,all_my_loving,782
+783,the_beatles,149.39,,chordlib,The Beatles\02_-_With_the_Beatles\04_-_Don't_Bother_Me.lab,don't_bother_me,783
+784,the_beatles,108.02,,chordlib,The Beatles\02_-_With_the_Beatles\05_-_Little_Child.lab,little_child,784
+785,the_beatles,136.75,,chordlib,The Beatles\02_-_With_the_Beatles\06_-_Till_There_Was_You.lab,till_there_was_you,785
+786,the_beatles,156.73,,chordlib,The Beatles\02_-_With_the_Beatles\07_-_Please_Mister_Postman.lab,please_mister_postman,786
+787,the_beatles,167.63,,chordlib,The Beatles\02_-_With_the_Beatles\08_-_Roll_Over_Beethoven.lab,roll_over_beethoven,787
+788,the_beatles,152.58,,chordlib,The Beatles\02_-_With_the_Beatles\09_-_Hold_Me_Tight.lab,hold_me_tight,788
+789,the_beatles,182.91,,chordlib,The Beatles\02_-_With_the_Beatles\10_-_You_Really_Got_A_Hold_On_Me.lab,you_really_got_a_hold_on_me,789
+790,the_beatles,118.99,,chordlib,The Beatles\02_-_With_the_Beatles\11_-_I_Wanna_Be_Your_Man.lab,i_wanna_be_your_man,790
+791,the_beatles,147.67,,chordlib,The Beatles\02_-_With_the_Beatles\12_-_Devil_In_Her_Heart.lab,devil_in_her_heart,791
+792,the_beatles,128.34,,chordlib,The Beatles\02_-_With_the_Beatles\13_-_Not_A_Second_Time.lab,not_a_second_time,792
+793,the_beatles,167.44,,chordlib,The Beatles\02_-_With_the_Beatles\14_-_Money.lab,money,793
+794,the_beatles,152.56,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\01_-_A_Hard_Day's_Night.lab,a_hard_day's_night,794
+795,the_beatles,164.1,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\02_-_I_Should_Have_Known_Better.lab,i_should_have_known_better,795
+796,the_beatles,142.05,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\03_-_If_I_Fell.lab,if_i_fell,796
+797,the_beatles,118.7,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\04_-_I'm_Happy_Just_To_Dance_With_You.lab,i'm_happy_just_to_dance_with_you,797
+798,the_beatles,151.09,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\05_-_And_I_Love_Her.lab,and_i_love_her,798
+799,the_beatles,130.09,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\06_-_Tell_Me_Why.lab,tell_me_why,799
+800,the_beatles,134.95,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\07_-_Can't_Buy_Me_Love.lab,can't_buy_me_love,800
+801,the_beatles,133.41,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\08_-_Any_Time_At_All.lab,any_time_at_all,801
+802,the_beatles,107.76,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\09_-_I'll_Cry_Instead.lab,i'll_cry_instead,802
+803,the_beatles,158.85,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\10_-_Things_We_Said_Today.lab,things_we_said_today,803
+804,the_beatles,138.37,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\11_-_When_I_Get_Home.lab,when_i_get_home,804
+805,the_beatles,138.37,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\12_-_You_Can't_Do_That (2).lab,you_can't_do_that_(2),805
+806,the_beatles,157.65,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\12_-_You_Can't_Do_That.lab,you_can't_do_that,806
+807,the_beatles,140.43,,chordlib,The Beatles\03_-_A_Hard_Day's_Night\13_-_I'll_Be_Back.lab,i'll_be_back,807
+808,the_beatles,140.43,,chordlib,The Beatles\04_-_Beatles_for_Sale\01_-_No_Reply (2).lab,no_reply_(2),808
+809,the_beatles,137.85,,chordlib,The Beatles\04_-_Beatles_for_Sale\01_-_No_Reply.lab,no_reply,809
+810,the_beatles,153.52,,chordlib,The Beatles\04_-_Beatles_for_Sale\02_-_I'm_a_Loser.lab,i'm_a_loser,810
+811,the_beatles,127.58,,chordlib,The Beatles\04_-_Beatles_for_Sale\03_-_Baby's_In_Black.lab,baby's_in_black,811
+812,the_beatles,153.76,,chordlib,The Beatles\04_-_Beatles_for_Sale\04_-_Rock_and_Roll_Music.lab,rock_and_roll_music,812
+813,the_beatles,111.05,,chordlib,The Beatles\04_-_Beatles_for_Sale\05_-_I'll_Follow_the_Sun.lab,i'll_follow_the_sun,813
+814,the_beatles,157.2,,chordlib,The Beatles\04_-_Beatles_for_Sale\06_-_Mr._Moonlight.lab,mr._moonlight,814
+815,the_beatles,153.47,,chordlib,"The Beatles\04_-_Beatles_for_Sale\07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.lab","kansas_city__hey,_hey,_hey,_hey",815
+816,the_beatles,134.74,,chordlib,The Beatles\04_-_Beatles_for_Sale\09_-_Words_of_Love.lab,words_of_love,816
+817,the_beatles,179.62,,chordlib,The Beatles\04_-_Beatles_for_Sale\10_-_Honey_Don't.lab,honey_don't,817
+818,the_beatles,124.55,,chordlib,The Beatles\04_-_Beatles_for_Sale\11_-_Every_Little_Thing.lab,every_little_thing,818
+819,the_beatles,154.7,,chordlib,The Beatles\04_-_Beatles_for_Sale\13_-_What_You're_Doing.lab,what_you're_doing,819
+820,the_beatles,143.75,,chordlib,The Beatles\04_-_Beatles_for_Sale\14_-_Everybody's_Trying_to_Be_My_Baby.lab,everybody's_trying_to_be_my_baby,820
+821,the_beatles,156.71,,chordlib,The Beatles\05_-_Help!\02_-_The_Night_Before.lab,the_night_before,821
+822,the_beatles,131.45,,chordlib,The Beatles\05_-_Help!\03_-_You've_Got_To_Hide_Your_Love_Away.lab,you've_got_to_hide_your_love_away,822
+823,the_beatles,151.51,,chordlib,The Beatles\05_-_Help!\04_-_I_Need_You.lab,i_need_you,823
+824,the_beatles,128.03,,chordlib,The Beatles\05_-_Help!\05_-_Another_Girl.lab,another_girl,824
+825,the_beatles,140.46,,chordlib,The Beatles\05_-_Help!\06_-_You're_Going_To_Lose_That_Girl.lab,you're_going_to_lose_that_girl,825
+826,the_beatles,192.5,,chordlib,The Beatles\05_-_Help!\07_-_Ticket_To_Ride.lab,ticket_to_ride,826
+827,the_beatles,153.18,,chordlib,The Beatles\05_-_Help!\08_-_Act_Naturally.lab,act_naturally,827
+828,the_beatles,118.8,,chordlib,The Beatles\05_-_Help!\09_-_It's_Only_Love.lab,it's_only_love,828
+829,the_beatles,158.82,,chordlib,The Beatles\05_-_Help!\10_-_You_Like_Me_Too_Much.lab,you_like_me_too_much,829
+830,the_beatles,159.71,,chordlib,The Beatles\05_-_Help!\11_-_Tell_Me_What_You_See.lab,tell_me_what_you_see,830
+831,the_beatles,127.19,,chordlib,The Beatles\05_-_Help!\12_-_I've_Just_Seen_a_Face.lab,i've_just_seen_a_face,831
+832,the_beatles,127.45,,chordlib,The Beatles\05_-_Help!\13_-_Yesterday.lab,yesterday,832
+833,the_beatles,174.16,,chordlib,The Beatles\05_-_Help!\14_-_Dizzy_Miss_Lizzy.lab,dizzy_miss_lizzy,833
+834,the_beatles,150.28,,chordlib,The Beatles\06_-_Rubber_Soul\01_-_Drive_My_Car.lab,drive_my_car,834
+835,the_beatles,125.44,,chordlib,The Beatles\06_-_Rubber_Soul\02_-_Norwegian_Wood_(This_Bird_Has_Flown).lab,norwegian_wood_(this_bird_has_flown),835
+836,the_beatles,202.61,,chordlib,The Beatles\06_-_Rubber_Soul\03_-_You_Won't_See_Me.lab,you_won't_see_me,836
+837,the_beatles,164.31,,chordlib,The Beatles\06_-_Rubber_Soul\04_-_Nowhere_Man.lab,nowhere_man,837
+838,the_beatles,139.34,,chordlib,The Beatles\06_-_Rubber_Soul\05_-_Think_For_Yourself.lab,think_for_yourself,838
+839,the_beatles,163.71,,chordlib,The Beatles\06_-_Rubber_Soul\06_-_The_Word.lab,the_word,839
+840,the_beatles,162.38,,chordlib,The Beatles\06_-_Rubber_Soul\07_-_Michelle.lab,michelle,840
+841,the_beatles,162.38,,chordlib,The Beatles\06_-_Rubber_Soul\08_-_What_Goes_On (2).lab,what_goes_on_(2),841
+842,the_beatles,170.81,,chordlib,The Beatles\06_-_Rubber_Soul\08_-_What_Goes_On.lab,what_goes_on,842
+843,the_beatles,153.89,,chordlib,The Beatles\06_-_Rubber_Soul\09_-_Girl.lab,girl,843
+844,the_beatles,147.83,,chordlib,The Beatles\06_-_Rubber_Soul\10_-_I'm_Looking_Through_You.lab,i'm_looking_through_you,844
+845,the_beatles,147.98,,chordlib,The Beatles\06_-_Rubber_Soul\11_-_In_My_Life.lab,in_my_life,845
+846,the_beatles,136.99,,chordlib,The Beatles\06_-_Rubber_Soul\12_-_Wait.lab,wait,846
+847,the_beatles,143.86,,chordlib,The Beatles\06_-_Rubber_Soul\13_-_If_I_Needed_Someone.lab,if_i_needed_someone,847
+848,the_beatles,143.86,,chordlib,The Beatles\06_-_Rubber_Soul\14_-_Run_For_Your_Life (2).lab,run_for_your_life_(2),848
+849,the_beatles,138.68,,chordlib,The Beatles\06_-_Rubber_Soul\14_-_Run_For_Your_Life.lab,run_for_your_life,849
+850,the_beatles,159.01,,chordlib,The Beatles\07_-_Revolver\01_-_Taxman.lab,taxman,850
+851,the_beatles,127.69,,chordlib,The Beatles\07_-_Revolver\02_-_Eleanor_Rigby.lab,eleanor_rigby,851
+852,the_beatles,181.68,,chordlib,The Beatles\07_-_Revolver\03_-_I'm_Only_Sleeping.lab,i'm_only_sleeping,852
+853,the_beatles,181.21,,chordlib,The Beatles\07_-_Revolver\04_-_Love_You_To.lab,love_you_to,853
+854,the_beatles,145.87,,chordlib,"The Beatles\07_-_Revolver\05_-_Here,_There_And_Everywhere.lab","here,_there_and_everywhere",854
+855,the_beatles,160.42,,chordlib,The Beatles\07_-_Revolver\06_-_Yellow_Submarine.lab,yellow_submarine,855
+856,the_beatles,157.15,,chordlib,The Beatles\07_-_Revolver\07_-_She_Said_She_Said.lab,she_said_she_said,856
+857,the_beatles,129.78,,chordlib,The Beatles\07_-_Revolver\08_-_Good_Day_Sunshine.lab,good_day_sunshine,857
+858,the_beatles,121.76,,chordlib,The Beatles\07_-_Revolver\09_-_And_Your_Bird_Can_Sing.lab,and_your_bird_can_sing,858
+859,the_beatles,121.73,,chordlib,The Beatles\07_-_Revolver\10_-_For_No_One.lab,for_no_one,859
+860,the_beatles,135.21,,chordlib,The Beatles\07_-_Revolver\11_-_Doctor_Robert.lab,doctor_robert,860
+861,the_beatles,149.89,,chordlib,The Beatles\07_-_Revolver\12_-_I_Want_To_Tell_You.lab,i_want_to_tell_you,861
+862,the_beatles,150.65,,chordlib,The Beatles\07_-_Revolver\13_-_Got_To_Get_You_Into_My_Life.lab,got_to_get_you_into_my_life,862
+863,the_beatles,177.27,,chordlib,The Beatles\07_-_Revolver\14_-_Tomorrow_Never_Knows.lab,tomorrow_never_knows,863
+864,the_beatles,122.44,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.lab,sgt._pepper's_lonely_hearts_club_band,864
+865,the_beatles,164.02,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\02_-_With_A_Little_Help_From_My_Friends.lab,with_a_little_help_from_my_friends,865
+866,the_beatles,208.46,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\03_-_Lucy_In_The_Sky_With_Diamonds.lab,lucy_in_the_sky_with_diamonds,866
+867,the_beatles,167.89,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\04_-_Getting_Better.lab,getting_better,867
+868,the_beatles,156.63,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\05_-_Fixing_A_Hole.lab,fixing_a_hole,868
+869,the_beatles,215.07,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\06_-_She's_Leaving_Home.lab,she's_leaving_home,869
+870,the_beatles,157.1,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\07_-_Being_For_The_Benefit_Of_Mr._Kite!.lab,being_for_the_benefit_of_mr._kite!,870
+871,the_beatles,305.08,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\08_-_Within_You_Without_You.lab,within_you_without_you,871
+872,the_beatles,157.73,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\09_-_When_I'm_Sixty-Four.lab,when_i'm_sixty_four,872
+873,the_beatles,162.12,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\10_-_Lovely_Rita.lab,lovely_rita,873
+874,the_beatles,161.33,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\11_-_Good_Morning_Good_Morning.lab,good_morning_good_morning,874
+875,the_beatles,78.92,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).lab,sgt._pepper's_lonely_hearts_club_band_(reprise),875
+876,the_beatles,333.79,,chordlib,The Beatles\08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band\13_-_A_Day_In_The_Life.lab,a_day_in_the_life,876
+877,the_beatles,171.83,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\01_-_Magical_Mystery_Tour.lab,magical_mystery_tour,877
+878,the_beatles,180.19,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\02_-_The_Fool_On_The_Hill.lab,the_fool_on_the_hill,878
+879,the_beatles,136.99,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\03_-_Flying.lab,flying,879
+880,the_beatles,236.72,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\04_-_Blue_Jay_Way.lab,blue_jay_way,880
+881,the_beatles,149.6,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\05_-_Your_Mother_Should_Know.lab,your_mother_should_know,881
+882,the_beatles,277.08,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\06_-_I_Am_The_Walrus.lab,i_am_the_walrus,882
+883,the_beatles,211.49,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\07_-_Hello_Goodbye.lab,hello_goodbye,883
+884,the_beatles,250.51,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\08_-_Strawberry_Fields_Forever.lab,strawberry_fields_forever,884
+885,the_beatles,183.38,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\09_-_Penny_Lane.lab,penny_lane,885
+886,the_beatles,183.77,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\10_-_Baby_You're_A_Rich_Man.lab,baby_you're_a_rich_man,886
+887,the_beatles,228.31,,chordlib,The Beatles\09_-_Magical_Mystery_Tour\11_-_All_You_Need_Is_Love.lab,all_you_need_is_love,887
+888,the_beatles,163.32,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_01_-_Back_in_the_USSR.lab,back_in_the_ussr,888
+889,the_beatles,236.38,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_02_-_Dear_Prudence.lab,dear_prudence,889
+890,the_beatles,137.98,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_03_-_Glass_Onion.lab,glass_onion,890
+891,the_beatles,188.84,,chordlib,"The Beatles\10CD1_-_The_Beatles\CD1_-_04_-_Ob-La-Di,_Ob-La-Da.lab","ob_la_di,_ob_la_da",891
+892,the_beatles,52.92,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_05_-_Wild_Honey_Pie.lab,wild_honey_pie,892
+893,the_beatles,194.09,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.lab,the_continuing_story_of_bungalow_bill,893
+894,the_beatles,285.31,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_07_-_While_My_Guitar_Gently_Weeps.lab,while_my_guitar_gently_weeps,894
+895,the_beatles,163.47,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_08_-_Happiness_is_a_Warm_Gun.lab,happiness_is_a_warm_gun,895
+896,the_beatles,148.74,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_09_-_Martha_My_Dear.lab,martha_my_dear,896
+897,the_beatles,123.32,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_10_-_I'm_So_Tired.lab,i'm_so_tired,897
+898,the_beatles,138.29,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_11_-_Black_Bird.lab,black_bird,898
+899,the_beatles,124.34,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_12_-_Piggies.lab,piggies,899
+900,the_beatles,212.9,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_13_-_Rocky_Raccoon.lab,rocky_raccoon,900
+901,the_beatles,230.43,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_14_-_Don't_Pass_Me_By.lab,don't_pass_me_by,901
+902,the_beatles,101.46,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.lab,why_don't_we_do_it_in_the_road,902
+903,the_beatles,106.03,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_16_-_I_Will.lab,i_will,903
+904,the_beatles,174.08,,chordlib,The Beatles\10CD1_-_The_Beatles\CD1_-_17_-_Julia.lab,julia,904
+905,the_beatles,162.93,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_01_-_Birthday.lab,birthday,905
+906,the_beatles,241.11,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_02_-_Yer_Blues.lab,yer_blues,906
+907,the_beatles,168.05,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_03_-_Mother_Nature's_Son.lab,mother_nature's_son,907
+908,the_beatles,144.82,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.lab,everybody's_got_something_to_hide_except_me_and_my_monkey,908
+909,the_beatles,195.34,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_05_-_Sexy_Sadie.lab,sexy_sadie,909
+910,the_beatles,269.69,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_06_-_Helter_Skelter.lab,helter_skelter,910
+911,the_beatles,184.35,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_07_-_Long_Long_Long.lab,long_long_long,911
+912,the_beatles,255.74,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_08_-_Revolution_1.lab,revolution_1,912
+913,the_beatles,161.36,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_09_-_Honey_Pie.lab,honey_pie,913
+914,the_beatles,174.92,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_10_-_Savoy_Truffle.lab,savoy_truffle,914
+915,the_beatles,181.89,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_11_-_Cry_Baby_Cry.lab,cry_baby_cry,915
+916,the_beatles,502.2,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_12_-_Revolution_9.lab,revolution_9,916
+917,the_beatles,191.69,,chordlib,The Beatles\10CD2_-_The_Beatles\CD2_-_13_-_Good_Night.lab,good_night,917
+918,the_beatles,183.01,,chordlib,The Beatles\11_-_Abbey_Road\02_-_Something.lab,something,918
+919,the_beatles,207.28,,chordlib,The Beatles\11_-_Abbey_Road\03_-_Maxwell's_Silver_Hammer.lab,maxwell's_silver_hammer,919
+920,the_beatles,206.71,,chordlib,The Beatles\11_-_Abbey_Road\04_-_Oh!_Darling.lab,oh!_darling,920
+921,the_beatles,171.18,,chordlib,The Beatles\11_-_Abbey_Road\05_-_Octopus's_Garden.lab,octopus's_garden,921
+922,the_beatles,467.17,,chordlib,The Beatles\11_-_Abbey_Road\06_-_I_Want_You.lab,i_want_you,922
+923,the_beatles,185.57,,chordlib,The Beatles\11_-_Abbey_Road\07_-_Here_Comes_The_Sun.lab,here_comes_the_sun,923
+924,the_beatles,165.54,,chordlib,The Beatles\11_-_Abbey_Road\08_-_Because.lab,because,924
+925,the_beatles,242.42,,chordlib,The Beatles\11_-_Abbey_Road\09_-_You_Never_Give_Me_Your_Money.lab,you_never_give_me_your_money,925
+926,the_beatles,146.31,,chordlib,The Beatles\11_-_Abbey_Road\10_-_Sun_King.lab,sun_king,926
+927,the_beatles,66.3,,chordlib,The Beatles\11_-_Abbey_Road\11_-_Mean_Mr_Mustard.lab,mean_mr_mustard,927
+928,the_beatles,72.75,,chordlib,The Beatles\11_-_Abbey_Road\12_-_Polythene_Pam.lab,polythene_pam,928
+929,the_beatles,117.73,,chordlib,The Beatles\11_-_Abbey_Road\13_-_She_Came_In_Through_The_Bathroom_Window.lab,she_came_in_through_the_bathroom_window,929
+930,the_beatles,91.59,,chordlib,The Beatles\11_-_Abbey_Road\14_-_Golden_Slumbers.lab,golden_slumbers,930
+931,the_beatles,96.89,,chordlib,The Beatles\11_-_Abbey_Road\15_-_Carry_That_Weight.lab,carry_that_weight,931
+932,the_beatles,139.83,,chordlib,The Beatles\11_-_Abbey_Road\16_-_The_End.lab,the_end,932
+933,the_beatles,23.14,,chordlib,The Beatles\11_-_Abbey_Road\17_-_Her_Majesty.lab,her_majesty,933
+934,the_beatles,216.69,,chordlib,The Beatles\12_-_Let_It_Be\01_-_Two_of_Us.lab,two_of_us,934
+935,the_beatles,234.81,,chordlib,The Beatles\12_-_Let_It_Be\02_-_Dig_a_Pony.lab,dig_a_pony,935
+936,the_beatles,228.57,,chordlib,The Beatles\12_-_Let_It_Be\03_-_Across_the_Universe.lab,across_the_universe,936
+937,the_beatles,145.74,,chordlib,The Beatles\12_-_Let_It_Be\04_-_I_Me_Mine.lab,i_me_mine,937
+938,the_beatles,50.02,,chordlib,The Beatles\12_-_Let_It_Be\05_-_Dig_It.lab,dig_it,938
+939,the_beatles,243.33,,chordlib,The Beatles\12_-_Let_It_Be\06_-_Let_It_Be.lab,let_it_be,939
+940,the_beatles,40.62,,chordlib,The Beatles\12_-_Let_It_Be\07_-_Maggie_Mae.lab,maggie_mae,940
+941,the_beatles,217.97,,chordlib,The Beatles\12_-_Let_It_Be\08_-_I've_Got_A_Feeling.lab,i've_got_a_feeling,941
+942,the_beatles,175.52,,chordlib,The Beatles\12_-_Let_It_Be\09_-_One_After_909.lab,one_after_909,942
+943,the_beatles,217.89,,chordlib,The Beatles\12_-_Let_It_Be\10_-_The_Long_and_Winding_Road.lab,the_long_and_winding_road,943
+944,the_beatles,217.89,,chordlib,The Beatles\12_-_Let_It_Be\11_-_For_You_Blue (2).lab,for_you_blue_(2),944
+945,the_beatles,152.74,,chordlib,The Beatles\12_-_Let_It_Be\11_-_For_You_Blue.lab,for_you_blue,945
+946,the_beatles,186.98,,chordlib,The Beatles\12_-_Let_It_Be\12_-_Get_Back.lab,get_back,946

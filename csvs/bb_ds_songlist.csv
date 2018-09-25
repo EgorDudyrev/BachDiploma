@@ -1,0 +1,891 @@
+,artist,number,orig_ds,orig_fname,title,duration
+0,James Brown,0003,Billboard,0003\salami_chords.txt,I Don't mind,150.91
+1,Roberta Flack and Donny Hathaway,0004,Billboard,0004\salami_chords.txt,You've got a Friend,206.54
+2,Bette Midler,0006,Billboard,0006\salami_chords.txt,The Rose,220.69
+3,Billy Joel,0010,Billboard,0010\salami_chords.txt,An Innocent Man,318.16
+4,Johnny Lee,0012,Billboard,0012\salami_chords.txt,Lookin' for Love,212.04
+5,Aerosmith,0015,Billboard,0015\salami_chords.txt,Last Child,206.32
+6,Cyndi Lauper,0016,Billboard,0016\salami_chords.txt,She Bop,228.84
+7,Hall & Oates,0018,Billboard,0018\salami_chords.txt,Kiss On My List,231.34
+8,Tanya Tucker,0019,Billboard,0019\salami_chords.txt,Here's Some Love,177.82
+9,The J. Geils Band,0021,Billboard,0021\salami_chords.txt,Just Can't Wait,207.99
+10,The 5th Dimension,0022,Billboard,0022\salami_chords.txt,Never My Love,237.84
+11,Talking Heads,0023,Billboard,0023\salami_chords.txt,And She Was,219.25
+12,Graham Nash,0025,Billboard,0025\salami_chords.txt,Chicago,241.08
+13,Chiffons,0026,Billboard,0026\salami_chords.txt,Swing Talkin' Guy,148.39
+14,Bad Company,0027,Billboard,0027\salami_chords.txt,Rock 'n' Roll Fantasy,199.68
+15,Steve Miller Band,0029,Billboard,0029\salami_chords.txt,The Joker,219.04
+16,R Dean Tayloy,0030,Billboard,0030\salami_chords.txt,Indiana Wants Me,190.52
+17,Heart,0033,Billboard,0033\salami_chords.txt,Crazy On You,291.51
+18,If I Can't Have You,0034,Billboard,0034\salami_chords.txt,Yvonne Elliman,180.09
+19,Freedom,0035,Billboard,0035\salami_chords.txt,Jimi Hendrix,263.37
+20,Flatt & Scruggs,0037,Billboard,0037\salami_chords.txt,Foggy Mountain Breakdown,161.72
+21,Rolling Stones,0039,Billboard,0039\salami_chords.txt,It's Only Rock and Roll (But I Like It),307.17
+22,Snap,0040,Billboard,0040\salami_chords.txt,The Power,220.89
+23,Five Man Electrical Band,0041,Billboard,0041\salami_chords.txt,Absolutely Right,142.47
+24,Phil Collins,0043,Billboard,0043\salami_chords.txt,Two Hearts,204.75
+25,The Power Station,0044,Billboard,0044\salami_chords.txt,Some Like It Hot,305.84
+26,The Staple Singers,0046,Billboard,0046\salami_chords.txt,I'll Take You There,194.75
+27,Barbara Streisand,0049,Billboard,0049\salami_chords.txt,People,220.58
+28,Beatles,0050,Billboard,0050\salami_chords.txt,Love Me Do,142.81
+29,Cliff Richard,0051,Billboard,0051\salami_chords.txt,Carrie,225.41
+30,Led Zeppelin,0053,Billboard,0053\salami_chords.txt,Over The Hills and Far Away,307.64
+31,J. Frank Wilson & The Cavaliers,0054,Billboard,0054\salami_chords.txt,Last Kiss,147.7
+32,The Robert Cray Band,0055,Billboard,0055\salami_chords.txt,Smoking Gun,240.8
+33,Bobbi Martin,0056,Billboard,0056\salami_chords.txt,I Love You So,176.1
+34,Peggy Lee,0059,Billboard,0059\salami_chords.txt,Is That All There Is,264.07
+35,Creedence Clearwater Revival,0061,Billboard,0061\salami_chords.txt,I Put A Spell On You,254.28
+36,Gino Vanelli,0062,Billboard,0062\salami_chords.txt,Hurts To Be In Love,222.69
+37,Roy Orbison,0064,Billboard,0064\salami_chords.txt,Cry Softly Lonely One,173.35
+38,The Contours,0066,Billboard,0066\salami_chords.txt,Do You Love Me,174.37
+39,Little Joey & The Flips,0067,Billboard,0067\salami_chords.txt,Bongo Stomp,137.25
+40,Gino Vannelli,0068,Billboard,0068\salami_chords.txt,Black Cars,189.57
+41,Sly & The Family Stone,0070,Billboard,0070\salami_chords.txt,Hot Fun In The Summertime,158.28
+42,Meatloaf,0071,Billboard,0071\salami_chords.txt,Paradise by the Dashboard Light,570.8
+43,The Youngbloods,0072,Billboard,0072\salami_chords.txt,Get Together,276.77
+44,Heart,0073,Billboard,0073\salami_chords.txt,Crazy On You,291.51
+45,Martha Reeves & The Vandellas,0074,Billboard,0074\salami_chords.txt,Nowhere To Run,178.78
+46,Foghat,0075,Billboard,0075\salami_chords.txt,Drivin' Wheel,271.36
+47,Little River Band,0077,Billboard,0077\salami_chords.txt,Reminiscing,211.58
+48,The Boys,0078,Billboard,0078\salami_chords.txt,Dial My Heart,265.46
+49,James Brown,0079,Billboard,0079\salami_chords.txt,Cold Sweat - Part 1,171.94
+50,Paul Simon,0081,Billboard,0081\salami_chords.txt,You Can Call Me Al,280.61
+51,UB40,0083,Billboard,0083\salami_chords.txt,Red Red Wine,321.02
+52,Michael Jackson,0085,Billboard,0085\salami_chords.txt,I Just Can't Stop Loving You,253.59
+53,David Bowie,0086,Billboard,0086\salami_chords.txt,Space Oddity,315.14
+54,Nitty Gritty Dirt Band,0088,Billboard,0088\salami_chords.txt,Buy For Me The Rain,143.05
+55,Pat Benetar,0089,Billboard,0089\salami_chords.txt,Fire And Ice,200.18
+56,Spandau Ballet,0091,Billboard,0091\salami_chords.txt,True,343.12
+57,Peter Gabriel,0092,Billboard,0092\salami_chords.txt,Shock the Monkey,239.05
+58,Rolling Stones,0094,Billboard,0094\salami_chords.txt,Wild Horses,344.14
+59,Foghat,0095,Billboard,0095\salami_chords.txt,Drivin' Wheel,271.36
+60,Boyz II Men,0097,Billboard,0097\salami_chords.txt,Motown Philly,234.24
+61,Bananarama,0099,Billboard,0099\salami_chords.txt,A Trick Of The Night,248.82
+62,Rod Stewart,0100,Billboard,0100\salami_chords.txt,Maggie May,350.2
+63,Dottie West,0101,Billboard,0101\salami_chords.txt,A Lesson in Leavin,182.99
+64,Ray Price,0102,Billboard,0102\salami_chords.txt,For The Good Times,230.43
+65,Little River Band,0104,Billboard,0104\salami_chords.txt,We Two,273.76
+66,Rush,0105,Billboard,0105\salami_chords.txt,The Spirit of Radio,297.51
+67,Bread,0106,Billboard,0106\salami_chords.txt,If,155.51
+68,Lynyrd Skynyrd,0107,Billboard,0107\salami_chords.txt,Sweet Home Alabama,283.53
+69,The tee set,0109,Billboard,0109\salami_chords.txt,Ma belle amie,196.91
+70,The Byrds,0111,Billboard,0111\salami_chords.txt,Eight Miles High,215.14
+71,Gladys Knight & The Pips,0112,Billboard,0112\salami_chords.txt,Letter Full of Tears,165.69
+72,Cream,0114,Billboard,0114\salami_chords.txt,Sunshine of Your Love,253.24
+73,Chuck Berry,0115,Billboard,0115\salami_chords.txt,Sweet Little Rock N' Roll,142.47
+74,Eric Clapton,0116,Billboard,0116\salami_chords.txt,Let It Rain,302.16
+75,"David Ruffin, Jimmy Ruffin",0119,Billboard,0119\salami_chords.txt,Stand By Me,228.7
+76,The Ronettes,0120,Billboard,0120\salami_chords.txt,Be My Baby,159.01
+77,Freddie Jackson,0122,Billboard,0122\salami_chords.txt,Have You Ever Loved Somebody,276.85
+78,Bing Crosby,0123,Billboard,0123\salami_chords.txt,Silent Night,161.91
+79,Eric Clapton,0124,Billboard,0124\salami_chords.txt,Promises,181.19
+80,Blue Eyes Cryin',0126,Billboard,0126\salami_chords.txt,Willie Nelson,140.56
+81,Etta James,0127,Billboard,0127\salami_chords.txt,Stop the Wedding,173.71
+82,Looking Glass,0128,Billboard,0128\salami_chords.txt,Brandy,187.98
+83,The Rolling Stones,0130,Billboard,0130\salami_chords.txt,Tumbling Dice,227.57
+84,Ronnie Milsap,0131,Billboard,0131\salami_chords.txt,I wouldn't Have Missed it For The World,216.24
+85,Bobby Bare,0133,Billboard,0133\salami_chords.txt,Detroit City,167.84
+86,Electric Prunes,0134,Billboard,0134\salami_chords.txt,I Had Too Much To Dream,179.98
+87,UB40,0139,Billboard,0139\salami_chords.txt,The Way You Do The Things You Do,183.28
+88,ZZ Top,0140,Billboard,0140\salami_chords.txt,La Grange,234.03
+89,Peter Gabriel,0141,Billboard,0141\salami_chords.txt,Shock the Monkey,239.05
+90,Dion,0145,Billboard,0145\salami_chords.txt,Runaround Sue,163.37
+91,The String-A-Longs,0147,Billboard,0147\salami_chords.txt,Wheels,124.08
+92,The Police,0148,Billboard,0148\salami_chords.txt,Spirits In The Material World,178.93
+93,Randy Vanwarmer,0149,Billboard,0149\salami_chords.txt,Just When I Needed You Most,243.51
+94,Tina Turner,0150,Billboard,0150\salami_chords.txt,What's Love Got To Do With It,229.05
+95,The Everly Brothers,0153,Billboard,0153\salami_chords.txt,Walk Right Back,138.95
+96,Robert John,0154,Billboard,0154\salami_chords.txt,Lonely Eyes,190.28
+97,Eric Clapton,0155,Billboard,0155\salami_chords.txt,Forever Man,191.9
+98,Santo & Johnny,0157,Billboard,0157\salami_chords.txt,Sleep Walk,143.21
+99,Level 42,0158,Billboard,0158\salami_chords.txt,Something About You,227.27
+100,Elvis Presley,0159,Billboard,0159\salami_chords.txt,Little Sister,152.03
+101,Solomon Burke,0160,Billboard,0160\salami_chords.txt,If you need me,153.08
+102,Brenda Lee,0162,Billboard,0162\salami_chords.txt,Sweet Nothin's,145.76
+103,Melba Montgomery,0167,Billboard,0167\salami_chords.txt,No Charge,194.12
+104,San Franciscan Nights,0168,Billboard,0168\salami_chords.txt,The Animals,200.65
+105,Sea of Heartbreak,0169,Billboard,0169\salami_chords.txt,Don Gibson,154.45
+106,Twilight Zone,0170,Billboard,0170\salami_chords.txt,Golden Earring,280.4
+107,Solomon Burke,0172,Billboard,0172\salami_chords.txt,If you need me,153.08
+108,25 or 6 to 4,0176,Billboard,0176\salami_chords.txt,Chicago,290.02
+109,Nathalie Cole,0177,Billboard,0177\salami_chords.txt,I've Got Love On My Mind,261.28
+110,Bo Diddley,0179,Billboard,0179\salami_chords.txt,You Can't Judge A Book By The Cover,190.77
+111,Beautiful,0180,Billboard,0180\salami_chords.txt,Gordon Lightfoot,202.66
+112,Always Something There to Remind Me,0181,Billboard,0181\salami_chords.txt,Naked Eyes,220.87
+113,John Denver,0182,Billboard,0182\salami_chords.txt,Annie's Song,181.51
+114,ABBA,0183,Billboard,0183\salami_chords.txt,Chiquitita,324.68
+115,Pet Shop Boys,0184,Billboard,0184\salami_chords.txt,Always on My Mind,235.18
+116,Jimmy Clanton,0185,Billboard,0185\salami_chords.txt,Just A Dream,152.31
+117,Little River Band,0187,Billboard,0187\salami_chords.txt,Help Is On The Way,242.31
+118,Cheap Trick,0188,Billboard,0188\salami_chords.txt,I Want You To Want Me,223.71
+119,Gloria Gaynor,0190,Billboard,0190\salami_chords.txt,Never Can Say Goodbye,178.05
+120,The Rascals,0191,Billboard,0191\salami_chords.txt,People Got To Be Free,181.68
+121,Dinah Washington,0192,Billboard,0192\salami_chords.txt,Unforgettable,164.05
+122,Andy Gibb,0193,Billboard,0193\salami_chords.txt,Shadow Dancing,273.71
+123,Eric Clapton,0194,Billboard,0194\salami_chords.txt,Willie And The Hand Jive,702.28
+124,Alice Cooper,0195,Billboard,0195\salami_chords.txt,Schoool's out,261.28
+125,Paul Anka,0196,Billboard,0196\salami_chords.txt,Love Me Warm And Tender,141.92
+126,Chicago,0198,Billboard,0198\salami_chords.txt,Along Comes A Woman,228.75
+127,Anne Murray,0199,Billboard,0199\salami_chords.txt,Could I Have This Dance,303.33
+128,The O'Jays,0202,Billboard,0202\salami_chords.txt,Love Train,179.67
+129,Jimmy Cliff,0203,Billboard,0203\salami_chords.txt,"Wonderful World, Beautiful People",190.85
+130,Ike & Tina Turner,0204,Billboard,0204\salami_chords.txt,I Want To Take You Higher,173.01
+131,Billy Joel,0205,Billboard,0205\salami_chords.txt,Pressure,280.87
+132,Paul McCartney,0206,Billboard,0206\salami_chords.txt,Maybe I'm Amazed,233.4
+133,Steve Winwood,0207,Billboard,0207\salami_chords.txt,Back in the High Life Again,262.7
+134,Chicago,0208,Billboard,0208\salami_chords.txt,Another Rainy Day in New York City,181.55
+135,The Eagles,0209,Billboard,0209\salami_chords.txt,Already Gone,255.5
+136,Tom Jones,0210,Billboard,0210\salami_chords.txt,She's A Lady,149.6
+137,Ike & Tina Turner,0212,Billboard,0212\salami_chords.txt,It's Gonna Work Out Fine,183.8
+138,Mel Torme,0213,Billboard,0213\salami_chords.txt,Comin' Home Baby,164.31
+139,Ray Charles,0214,Billboard,0214\salami_chords.txt,The Right Time,204.77
+140,Heart,0215,Billboard,0215\salami_chords.txt,Magic Man,328.54
+141,Isaac Hayes,0216,Billboard,0216\salami_chords.txt,Do your thing,199.92
+142,Rick Springfield,0217,Billboard,0217\salami_chords.txt,Jessie's Girl,196.5
+143,Abba,0218,Billboard,0218\salami_chords.txt,Fernando,255.56
+144,Nat King Cole,0220,Billboard,0220\salami_chords.txt,Ramblin' Rose,168.98
+145,Roberta Flack,0221,Billboard,0221\salami_chords.txt,Feel Like Making Love,177.45
+146,Elvis Presley,0222,Billboard,0222\salami_chords.txt,For Ol' Times Sake,218.44
+147,Michael Jackson,0223,Billboard,0223\salami_chords.txt,Wanna Be Startin' Somethin',362.45
+148,Glen Campbell,0224,Billboard,0224\salami_chords.txt,Galveston,162.04
+149,Pat Benatar,0227,Billboard,0227\salami_chords.txt,Promises In The Dark,288.1
+150,The Beach Boys,0228,Billboard,0228\salami_chords.txt,Still Cruisin,216.29
+151,The Rolling Stones,0229,Billboard,0229\salami_chords.txt,Honky Tonk Women,182.28
+152,ABBA,0231,Billboard,0231\salami_chords.txt,"Knowing Me, Knowing You",243.67
+153,The Band,0234,Billboard,0234\salami_chords.txt,Life Is A Carnival,235.08
+154,John Denver,0235,Billboard,0235\salami_chords.txt,Back Home Again,286.48
+155,Genesis,0236,Billboard,0236\salami_chords.txt,"Tonight, Tonight, Tonight",533.6
+156,Kenny Rogers,0238,Billboard,0238\salami_chords.txt,You Decorated My Life,220.42
+157,The Beach Boys,0239,Billboard,0239\salami_chords.txt,Sail On Sailor,199.24
+158,Billy Joel,0240,Billboard,0240\salami_chords.txt,Just The Way You Are,290.8
+159,Bing Crosby,0241,Billboard,0241\salami_chords.txt,White Christmas,181.98
+160,Stevie B,0242,Billboard,0242\salami_chords.txt,Because I Love You,262.27
+161,The Rolling Stones,0244,Billboard,0244\salami_chords.txt,"Have You Seen Your Mother, Baby, Standing In The Shadow?",153.86
+162,John Denver,0245,Billboard,0245\salami_chords.txt,It Amazes Me,159.76
+163,Glen Campbell,0246,Billboard,0246\salami_chords.txt,Rhinestone Cowboy,195.34
+164,J. Frank Wilson & The Cavaliers,0247,Billboard,0247\salami_chords.txt,Last Kiss,147.7
+165,Ten Years After,0248,Billboard,0248\salami_chords.txt,I'd Love To Change The World,224.91
+166,Bob Seger,0249,Billboard,0249\salami_chords.txt,Old Time Rock & Roll,194.82
+167,Jimmy Jones,0250,Billboard,0250\salami_chords.txt,Handy Man,122.44
+168,Brother Jack McDuff,0251,Billboard,0251\salami_chords.txt,Theme From Electric Surfboard,214.27
+169,Dion,0253,Billboard,0253\salami_chords.txt,Love Came To Me,165.77
+170,Simple Minds,0254,Billboard,0254\salami_chords.txt,Sanctify Yourself,299.18
+171,Brownsville station,0256,Billboard,0256\salami_chords.txt,Smokin' In The Boys Room,178.89
+172,Max Frost & The Troopers,0257,Billboard,0257\salami_chords.txt,Shape Of Things To Come,114.16
+173,Firehouse,0258,Billboard,0258\salami_chords.txt,Don t Treat Me Bad,322.69
+174,Patrick Hernandez,0259,Billboard,0259\salami_chords.txt,Born To Be Alive,215.01
+175,Tom Jones,0260,Billboard,0260\salami_chords.txt,She's A Lady,149.6
+176,Iron Butterfly,0261,Billboard,0261\salami_chords.txt,In-A-Gadda-Da-Vida,174.48
+177,Wednesday,0263,Billboard,0263\salami_chords.txt,Last Kiss,156.08
+178,Rolling Stones,0264,Billboard,0264\salami_chords.txt,Dandelion,228.02
+179,The 5th Dimension,0265,Billboard,0265\salami_chords.txt,(Last Night) I Didn't Get To Sleep At All,192.39
+180,Johnny Tillotson,0267,Billboard,0267\salami_chords.txt,Worried Guy,150.23
+181,REO Speedwagon,0268,Billboard,0268\salami_chords.txt,Time For Me To Fly,213.13
+182,Pink Floyd,0269,Billboard,0269\salami_chords.txt,Money,405.94
+183,The Beach Boys,0270,Billboard,0270\salami_chords.txt,In My Room,134.88
+184,Robert Palmer,0271,Billboard,0271\salami_chords.txt,Addicted to Love,264.93
+185,Pat Benatar,0275,Billboard,0275\salami_chords.txt,Promises In The Dark,288.1
+186,Clarence Carter,0276,Billboard,0276\salami_chords.txt,Patches,192.98
+187,Rolling Stones,0278,Billboard,0278\salami_chords.txt,Waiting On A Friend,274.08
+188,Patrick Hernandez,0279,Billboard,0279\salami_chords.txt,Born To Be Alive,215.01
+189,Marvin Gaye & Kim Weston,0280,Billboard,0280\salami_chords.txt,It Takes Two,180.11
+190,Heart,0281,Billboard,0281\salami_chords.txt,There's the Girl,235.39
+191,Bob Dylan,0282,Billboard,0282\salami_chords.txt,Gotta Serve Somebody,325.75
+192,Nancy Sinatra,0284,Billboard,0284\salami_chords.txt,These Boots Are Made For Walkin',154.17
+193,Brenda Lee,0288,Billboard,0288\salami_chords.txt,As Usual,157.68
+194,Elvis Presley,0289,Billboard,0289\salami_chords.txt,Guitar Man,176.88
+195,The Hollies,0290,Billboard,0290\salami_chords.txt,Long Dark Road,260.6
+196,Rita Coolidge,0291,Billboard,0291\salami_chords.txt,The Way You Do The Things You Do,218.82
+197,25 or 6 to 4,0292,Billboard,0292\salami_chords.txt,Chicago,290.02
+198,The Police,0293,Billboard,0293\salami_chords.txt,Every Little Thing She Does Is Magic,261.24
+199,Jerry Jeff Walker,0294,Billboard,0294\salami_chords.txt,Mr. Bojangles,234.45
+200,Billy Joel,0295,Billboard,0295\salami_chords.txt,Just The Way You Are,290.8
+201,Eagles,0296,Billboard,0296\salami_chords.txt,Lyin' Eyes,380.71
+202,Bobby Womack,0297,Billboard,0297\salami_chords.txt,That's the Way I Feel About Cha,216.37
+203,Whitesnake,0300,Billboard,0300\salami_chords.txt,Here I Go Again,278.31
+204,The Beatles,0302,Billboard,0302\salami_chords.txt,Do You Want To Know A Secret,119.38
+205,Juice Newton,0303,Billboard,0303\salami_chords.txt,Break It To Me Gently,243.41
+206,Digital Underground,0304,Billboard,0304\salami_chords.txt,The Humpty Dance,388.16
+207,Village People,0306,Billboard,0306\salami_chords.txt,In The Navy,226.25
+208,Smokey Robinson,0307,Billboard,0307\salami_chords.txt,Cruisin',270.03
+209,Roger Miller,0308,Billboard,0308\salami_chords.txt,You Can't Roller Skate In A Buffalo Herd,112.28
+210,Cyndi Lauper,0309,Billboard,0309\salami_chords.txt,All Through The Night,269.84
+211,Little River Band,0310,Billboard,0310\salami_chords.txt,The Other Guy,169.25
+212,Anne Murray,0312,Billboard,0312\salami_chords.txt,Daydream Believer,147.17
+213,James Brown,0314,Billboard,0314\salami_chords.txt,I Got You (I Feel Good),168.78
+214,Redbone,0315,Billboard,0315\salami_chords.txt,Come And Get Your Love,214.34
+215,Cheap Trick,0317,Billboard,0317\salami_chords.txt,Dream Police,231.31
+216,The String-A-Longs,0318,Billboard,0318\salami_chords.txt,Wheels,124.08
+217,Marvin Gaye,0319,Billboard,0319\salami_chords.txt,I Want You,238.89
+218,The Supremes,0320,Billboard,0320\salami_chords.txt,Floy Joy,155.12
+219,The Everly Brothers,0322,Billboard,0322\salami_chords.txt,Bird Dog,137.46
+220,Cheap Trick,0323,Billboard,0323\salami_chords.txt,Dream Police,231.31
+221,Linda Ronstadt,0324,Billboard,0324\salami_chords.txt,When Will I Be Loved,124.92
+222,Paul Anka,0325,Billboard,0325\salami_chords.txt,Let Me Get To Know You,201.46
+223,Elvis Presley,0326,Billboard,0326\salami_chords.txt,My Boy,200.59
+224,The Robert Cray Band,0329,Billboard,0329\salami_chords.txt,Smoking Gun,240.8
+225,The Fifth Dimension,0330,Billboard,0330\salami_chords.txt,Where Do You Wanna Go,145.01
+226,Kool and the Gang,0331,Billboard,0331\salami_chords.txt,Jungle Boogie,186.2
+227,Rolling Stones,0332,Billboard,0332\salami_chords.txt,Waiting On A Friend,274.08
+228,Rockwell,0334,Billboard,0334\salami_chords.txt,Somebody s Watching Me,241.66
+229,The Contours,0335,Billboard,0335\salami_chords.txt,Do You Love Me,174.37
+230,Rita Coolidge,0336,Billboard,0336\salami_chords.txt,Your Love Has Lifted Me Higher,242.91
+231,Kenny Rogers,0338,Billboard,0338\salami_chords.txt,Through The Years,285.68
+232,Urban Dance Squad,0339,Billboard,0339\salami_chords.txt,Deeper Shade Of Soul,274.05
+233,The Commodores,0341,Billboard,0341\salami_chords.txt,Easy,264.33
+234,Gladys Night & The Pips,0343,Billboard,0343\salami_chords.txt,If I Were Your Woman,194.22
+235,The Rolling Stones,0345,Billboard,0345\salami_chords.txt,Doo Doo Doo Doo Doo,207.84
+236,Freddy Fender,0346,Billboard,0346\salami_chords.txt,Living It Down,155.9
+237,Glen Campbell,0347,Billboard,0347\salami_chords.txt,Sunflower,172.04
+238,Tina Turner,0348,Billboard,0348\salami_chords.txt,The Best,329.3
+239,Firehouse,0349,Billboard,0349\salami_chords.txt,Don t Treat Me Bad,322.69
+240,Bachman-Turner Overdrive,0351,Billboard,0351\salami_chords.txt,Roll On Down The Highway,240.25
+241,Marky Mark & The Funky Bunch,0352,Billboard,0352\salami_chords.txt,Good Vibrations,269.56
+242,Sammy Hagar,0353,Billboard,0353\salami_chords.txt,I Can't Drive 55,249.97
+243,Elton John,0354,Billboard,0354\salami_chords.txt,Philadelphia Freedom,323.35
+244,Johnny Tillotson,0355,Billboard,0355\salami_chords.txt,"I Rise, I Fall",138.24
+245,Brenda Lee,0356,Billboard,0356\salami_chords.txt,Dum Dum,148.24
+246,Donna Fargo,0358,Billboard,0358\salami_chords.txt,Superman,146.99
+247,The Cure,0359,Billboard,0359\salami_chords.txt,Just Like Heaven,212.17
+248,Ike & Tina Turner,0360,Billboard,0360\salami_chords.txt,I Want To Take You Higher,173.01
+249,George Harrison,0361,Billboard,0361\salami_chords.txt,This Song,254.12
+250,Wednesday,0362,Billboard,0362\salami_chords.txt,Last Kiss,156.08
+251,Santana,0364,Billboard,0364\salami_chords.txt,Evil Ways,238.28
+252,Chicago,0366,Billboard,0366\salami_chords.txt,Feelin' Stronger Every Day,253.91
+253,Alan O'Day,0367,Billboard,0367\salami_chords.txt,Undercover Angel,213.19
+254,The Buckinghams,0369,Billboard,0369\salami_chords.txt,Kind Of A Drag,130.25
+255,Neneh Cherry,0370,Billboard,0370\salami_chords.txt,Kisses On The Wind,237.4
+256,Brenda Lee,0371,Billboard,0371\salami_chords.txt,Losing You,155.3
+257,Kenny Rogers,0372,Billboard,0372\salami_chords.txt,Scarlet Fever,238.47
+258,Ann Peebles,0377,Billboard,0377\salami_chords.txt,I Can't Stand The Rain,153.91
+259,Digital Underground,0378,Billboard,0378\salami_chords.txt,The Humpty Dance,388.16
+260,Gladys Knight & The Pips,0380,Billboard,0380\salami_chords.txt,Best Thing That Ever Happened To Me,227.37
+261,Focus,0381,Billboard,0381\salami_chords.txt,Hocus Pocus,206.73
+262,Pet Shop Boys,0382,Billboard,0382\salami_chords.txt,Where The Streets Have No Names,272.54
+263,Donovan,0383,Billboard,0383\salami_chords.txt,Sunshine Superman,279.85
+264,Sting,0384,Billboard,0384\salami_chords.txt,If you love somebody set them free,255.84
+265,Wilson Phillips,0385,Billboard,0385\salami_chords.txt,Hold On,221.36
+266,Elvis Presley,0386,Billboard,0386\salami_chords.txt,I Really Don't Want To Know,166.22
+267,Rolling Stones,0387,Billboard,0387\salami_chords.txt,Time Is On My Side,178.78
+268,General Public,0389,Billboard,0389\salami_chords.txt,Tenderness,217.31
+269,Candi Staton,0390,Billboard,0390\salami_chords.txt,Young Hearts Run Free,221.94
+270,The Isley Brothers,0391,Billboard,0391\salami_chords.txt,It's Your Thing,218.25
+271,Genesis,0393,Billboard,0393\salami_chords.txt,Misunderstanding,194.87
+272,Jackson Browne,0395,Billboard,0395\salami_chords.txt,Here Come Those Tears Again,217.48
+273,Peggy Lee,0396,Billboard,0396\salami_chords.txt,Fever,202.77
+274,Janis Joplin,0397,Billboard,0397\salami_chords.txt,Kozmic Blues,264.25
+275,Elvis Presley,0399,Billboard,0399\salami_chords.txt,One Night,151.04
+276,Shirley Brown,0400,Billboard,0400\salami_chords.txt,Woman To Woman,234.84
+277,Cyndi Lauper,0401,Billboard,0401\salami_chords.txt,The Goonies `R Good Enough,218.38
+278,J. Frank Wilson & The Cavaliers,0402,Billboard,0402\salami_chords.txt,Last Kiss,147.7
+279,Aretha Franklin,0403,Billboard,0403\salami_chords.txt,I Never Loved A Man,164.13
+280,The Crystals,0404,Billboard,0404\salami_chords.txt,He's A Rebel,156.78
+281,Pure Prairie League,0406,Billboard,0406\salami_chords.txt,Amie,260.6
+282,Gino Vannelli,0407,Billboard,0407\salami_chords.txt,Wild Horses,280.48
+283,Johnny Tillotson,0410,Billboard,0410\salami_chords.txt,Jimmy's Girl,164.99
+284,Harry Chapin,0412,Billboard,0412\salami_chords.txt,Sunday Morning Sunshine,228.23
+285,The Rembrandts,0414,Billboard,0414\salami_chords.txt,Someone,231.44
+286,David Bowie,0415,Billboard,0415\salami_chords.txt,Golden Years,209.42
+287,Joni Mitchell,0417,Billboard,0417\salami_chords.txt,"(You're So Square) Baby, I Don't Care",158.04
+288,Aretha Franklin,0418,Billboard,0418\salami_chords.txt,Chain Of Fools,168.41
+289,George Harrison,0419,Billboard,0419\salami_chords.txt,Blow Away,240.72
+290,The Who,0421,Billboard,0421\salami_chords.txt,Pinball Wizard,180.61
+291,LaVern Baker,0425,Billboard,0425\salami_chords.txt,See See Rider,148.64
+292,Bruce Springsteen,0426,Billboard,0426\salami_chords.txt,I m Goin Down,211.98
+293,The Beach Boys,0427,Billboard,0427\salami_chords.txt,Bluebirds Over The Mountain,171.34
+294,Ocean,0429,Billboard,0429\salami_chords.txt,Put Your Hand In The Hand,176.14
+295,Huey Lewis & The News,0430,Billboard,0430\salami_chords.txt,I Want a New Drug,286.06
+296,The Osmonds,0432,Billboard,0432\salami_chords.txt,One Bad Apple,166.11
+297,The 5th Dimension,0433,Billboard,0433\salami_chords.txt,If I Could Reach You,189.28
+298,Dion,0434,Billboard,0434\salami_chords.txt,Where Or When,159.53
+299,Dion,0439,Billboard,0439\salami_chords.txt,Ruby Baby,156.74
+300,Depeche Mode,0442,Billboard,0442\salami_chords.txt,World In My Eyes,239.86
+301,The Kinks,0443,Billboard,0443\salami_chords.txt,Better Things,186.1
+302,Elvis Presley,0444,Billboard,0444\salami_chords.txt,I Really Don't Want To Know,166.22
+303,Chicago,0445,Billboard,0445\salami_chords.txt,Old Days,210.78
+304,John Denver,0446,Billboard,0446\salami_chords.txt,Back Home Again,286.48
+305,The Pointer Sisters,0448,Billboard,0448\salami_chords.txt,Jump (for My Love),241.88
+306,Rick Springfield,0450,Billboard,0450\salami_chords.txt,Jessie's Girl,196.5
+307,Crosby Stills and Nash,0451,Billboard,0451\salami_chords.txt,Got It Made,274.31
+308,Billy Squier,0452,Billboard,0452\salami_chords.txt,Don't Say You Love Me,272.56
+309,Roberta Flack,0454,Billboard,0454\salami_chords.txt,Feel Like Making Love,177.45
+310,Jimmy Smith,0455,Billboard,0455\salami_chords.txt,Walk On The Wild Side (Part 1),357.38
+311,Paul McCartney,0456,Billboard,0456\salami_chords.txt,With a Little Luck,346.07
+312,Rolling Stones,0457,Billboard,0457\salami_chords.txt,Not Fade Away,186.28
+313,Robert Palmer,0458,Billboard,0458\salami_chords.txt,Addicted to Love,264.93
+314,The Drifters,0461,Billboard,0461\salami_chords.txt,On Broadway,180.24
+315,John Denver,0463,Billboard,0463\salami_chords.txt,Seasons Of The Heart,231.21
+316,Billy Idol,0464,Billboard,0464\salami_chords.txt,Flesh For Fantasy,278.05
+317,Sammy Hagar,0465,Billboard,0465\salami_chords.txt,Give To Live,339.36
+318,The Music Explosion,0467,Billboard,0467\salami_chords.txt,Little Bit O' Soul,142.58
+319,The Temptations,0468,Billboard,0468\salami_chords.txt,Ain't Too Proud To Beg,154.34
+320,Corey Hart,0469,Billboard,0469\salami_chords.txt,In Your Soul,234.66
+321,Brenda Lee,0471,Billboard,0471\salami_chords.txt,As Usual,157.68
+322,Kenny Rogers,0472,Billboard,0472\salami_chords.txt,Sweet Music Man,259.94
+323,The Beatles,0473,Billboard,0473\salami_chords.txt,Come Together,260.0
+324,The Cowsills,0474,Billboard,0474\salami_chords.txt,Silver Threads And Golden Needles,181.37
+325,Anne Murray,0475,Billboard,0475\salami_chords.txt,Daydream Believer,147.17
+326,Color Me Badd,0476,Billboard,0476\salami_chords.txt,I Adore Mi Amor,290.9
+327,The Hollies,0477,Billboard,0477\salami_chords.txt,Carrie-Anne,175.38
+328,J. Geils Band,0478,Billboard,0478\salami_chords.txt,One Last Kiss,263.89
+329,The Beach Boys,0479,Billboard,0479\salami_chords.txt,Wendy,139.02
+330,Rick James,0480,Billboard,0480\salami_chords.txt,Give It To Me Baby,234.32
+331,The Miracles,0481,Billboard,0481\salami_chords.txt,"Baby, Baby Don't Cry",239.15
+332,"Evelyn ""Champagne"" King",0482,Billboard,0482\salami_chords.txt,I'm In Love,303.88
+333,Dr. John,0483,Billboard,0483\salami_chords.txt,Right Place Wrong Time,335.02
+334,Brenda Lee,0484,Billboard,0484\salami_chords.txt,Heart in Hand,151.04
+335,Hall and Oates,0485,Billboard,0485\salami_chords.txt,Rich Girl,147.4
+336,James Brown,0490,Billboard,0490\salami_chords.txt,My Thang,278.96
+337,Police,0492,Billboard,0492\salami_chords.txt,Don't stand so close to me,243.1
+338,Kenny Rogers,0494,Billboard,0494\salami_chords.txt,I Don't Need You,208.72
+339,The Staple Singers,0497,Billboard,0497\salami_chords.txt,City In The Sky,224.1
+340,Johnny Horton,0500,Billboard,0500\salami_chords.txt,The Battle Of New Orleans,152.55
+341,Donna Summer,0501,Billboard,0501\salami_chords.txt,Last Dance,199.65
+342,Otis Redding,0502,Billboard,0502\salami_chords.txt,I've Been Loving You Too Long (To Stop Now),195.93
+343,Marky Mark & The Funky Bunch,0503,Billboard,0503\salami_chords.txt,Good Vibrations,269.56
+344,Steve Miller Band,0504,Billboard,0504\salami_chords.txt,The Joker,219.04
+345,Engelbert Humperdinck,0506,Billboard,0506\salami_chords.txt,After the Lovin',236.46
+346,Commodores,0507,Billboard,0507\salami_chords.txt,Still,227.55
+347,Elvis Presley,0508,Billboard,0508\salami_chords.txt,For Ol' Times Sake,218.44
+348,B.B. King,0510,Billboard,0510\salami_chords.txt,How Blue Can You Get,163.45
+349,Bertha Tillman,0511,Billboard,0511\salami_chords.txt,Oh My Angel,141.69
+350,The Rolling Stones,0512,Billboard,0512\salami_chords.txt,Going To A Go-Go,203.21
+351,Etta James,0515,Billboard,0515\salami_chords.txt,Fool That I Am,177.63
+352,Nat King Cole,0516,Billboard,0516\salami_chords.txt,Those Lazy-Hazy-Crazy Days Of Summer,145.04
+353,George Harrison,0517,Billboard,0517\salami_chords.txt,Years Ago,227.37
+354,"Crosby, Stills & Nash",0518,Billboard,0518\salami_chords.txt,Suite,449.46
+355,Digital Underground,0521,Billboard,0521\salami_chords.txt,The Humpty Dance,388.16
+356,Candi Staton,0522,Billboard,0522\salami_chords.txt,Young Hearts Run Free,221.94
+357,Tina Turner,0524,Billboard,0524\salami_chords.txt,Private Dancer,433.61
+358,Led Zeppelin,0525,Billboard,0525\salami_chords.txt,Trampled Under Foot,335.36
+359,Pet Shop Boys,0526,Billboard,0526\salami_chords.txt,Love Comes Quickly,258.87
+360,Tommy James,0528,Billboard,0528\salami_chords.txt,Crystal Blue Persuasion,244.95
+361,Tracie Spencer,0530,Billboard,0530\salami_chords.txt,This House,306.58
+362,Kate Bush,0531,Billboard,0531\salami_chords.txt,Running Up That Hill,301.01
+363,James Brown,0533,Billboard,0533\salami_chords.txt,Baby You're Right,179.26
+364,R Dean Tayloy,0537,Billboard,0537\salami_chords.txt,Indiana Wants Me,190.52
+365,Cheap Trick,0539,Billboard,0539\salami_chords.txt,Stop This Game,237.69
+366,Billy Preston,0540,Billboard,0540\salami_chords.txt,With You I'm Born Again,222.3
+367,Wham!,0542,Billboard,0542\salami_chords.txt,Wake Me Up Before You Go-Go,234.42
+368,Elvis Presley,0543,Billboard,0543\salami_chords.txt,If I Can Dream,192.31
+369,Jackson Browne,0545,Billboard,0545\salami_chords.txt,Redneck Friend,241.45
+370,The Trammps,0546,Billboard,0546\salami_chords.txt,Disco Inferno,217.37
+371,Michael Johnson,0547,Billboard,0547\salami_chords.txt,Almost by Being In Love,234.4
+372,Swingin' Medallions,0549,Billboard,0549\salami_chords.txt,Double Shot (Of My Baby's Love),137.95
+373,Peaches and Herb,0550,Billboard,0550\salami_chords.txt,Shake Your Groove Thing,333.39
+374,Patrick Hernandez,0552,Billboard,0552\salami_chords.txt,Born To Be Alive,215.01
+375,Michael Sembello,0553,Billboard,0553\salami_chords.txt,Maniac,252.68
+376,The Moments,0554,Billboard,0554\salami_chords.txt,Walk Right In,139.08
+377,Cheap Trick,0555,Billboard,0555\salami_chords.txt,Surrender,256.0
+378,Dolly Parton,0559,Billboard,0559\salami_chords.txt,Baby I'm Burnin',158.48
+379,Simon & Garfunkel,0560,Billboard,0560\salami_chords.txt,Cecilia,176.78
+380,Jackson Browne,0561,Billboard,0561\salami_chords.txt,Boulevard,201.35
+381,Etta James,0562,Billboard,0562\salami_chords.txt,Fool That I Am,177.63
+382,Elvis Presley,0565,Billboard,0565\salami_chords.txt,Judy,132.47
+383,Roxette,0567,Billboard,0567\salami_chords.txt,The Look,237.98
+384,Roxy,0568,Billboard,0568\salami_chords.txt,Dance Away,226.56
+385,Dave Dudley,0570,Billboard,0570\salami_chords.txt,Six Days On The Road,144.05
+386,Gary U.S. Bonds,0571,Billboard,0571\salami_chords.txt,Quarter To Three,150.54
+387,Baltimora,0572,Billboard,0572\salami_chords.txt,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",232.46
+388,Al Green,0573,Billboard,0573\salami_chords.txt,"Oh Me, Oh My (Dreams In My Arms)",166.64
+389,Chicago,0574,Billboard,0574\salami_chords.txt,Along Comes A Woman,228.75
+390,Canned Heat,0577,Billboard,0577\salami_chords.txt,Let's work Together,169.9
+391,Anita Baker,0578,Billboard,0578\salami_chords.txt,Giving You the Best That I Got,260.55
+392,The Yardbirds,0579,Billboard,0579\salami_chords.txt,Heart Full of Soul,149.39
+393,The Falcons,0580,Billboard,0580\salami_chords.txt,I Found A Love,178.68
+394,The Miracles,0582,Billboard,0582\salami_chords.txt,I Don't Blame You At All,192.21
+395,Ben E. King,0583,Billboard,0583\salami_chords.txt,Amor,185.36
+396,Clarence Carter,0585,Billboard,0585\salami_chords.txt,Too Weak To Fight,138.4
+397,The Righteous Brothers,0587,Billboard,0587\salami_chords.txt,Unchained Melody,218.33
+398,Queen,0588,Billboard,0588\salami_chords.txt,We Are The Champions,183.17
+399,"Crosby, Stills & Nash",0589,Billboard,0589\salami_chords.txt,Southern Cross,280.57
+400,Chico DeBarge,0590,Billboard,0590\salami_chords.txt,Talk to me,232.5
+401,Eagles,0591,Billboard,0591\salami_chords.txt,The Long Run,221.65
+402,Duran Duran,0592,Billboard,0592\salami_chords.txt,All she wants is,266.87
+403,Yaz,0594,Billboard,0594\salami_chords.txt,Situation,346.83
+404,Gladys Knight & The Pips,0596,Billboard,0596\salami_chords.txt,Letter Full of Tears,165.69
+405,Rolling Stones,0597,Billboard,0597\salami_chords.txt,Time Is On My Side,178.78
+406,Irma Thomas,0598,Billboard,0598\salami_chords.txt,Wish Someone Would Care,134.16
+407,Alice Cooper,0599,Billboard,0599\salami_chords.txt,Hey Stoopid,274.67
+408,Baltimora,0600,Billboard,0600\salami_chords.txt,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",232.46
+409,Billy Swan,0601,Billboard,0601\salami_chords.txt,I Can Help,178.35
+410,Santo & Johnny,0603,Billboard,0603\salami_chords.txt,Sleep Walk,143.21
+411,B.B. King,0605,Billboard,0605\salami_chords.txt,The Thrill Is Gone,243.51
+412,Tom D Hall,0606,Billboard,0606\salami_chords.txt,I Love,125.7
+413,Carl Carlton,0607,Billboard,0607\salami_chords.txt,Everlasting Love,155.04
+414,Quarterflash,0608,Billboard,0608\salami_chords.txt,Harden My Heart,217.81
+415,Kiss,0610,Billboard,0610\salami_chords.txt,Rocket Ride,247.28
+416,Sly And The Family Stone,0614,Billboard,0614\salami_chords.txt,I want to take you higher,323.68
+417,Nick Gilder,0615,Billboard,0615\salami_chords.txt,Hot Child in the City,189.47
+418,Mrs. Robinson,0616,Billboard,0616\salami_chords.txt,Simon & Garfunkel,245.0
+419,Elvis Presley,0617,Billboard,0617\salami_chords.txt,His Latest Flame,128.81
+420,Dean Martin,0618,Billboard,0618\salami_chords.txt,Everybody Loves Somebody,161.78
+421,Marvin Gaye & Tammy Terrell,0619,Billboard,0619\salami_chords.txt,If I Could Build My Whole World Around You,146.23
+422,Rod Stewart,0620,Billboard,0620\salami_chords.txt,Twisting the Night Away,198.54
+423,Ray Parker Jr,0621,Billboard,0621\salami_chords.txt,Ghostbusters Theme,246.88
+424,Glen Campbell,0623,Billboard,0623\salami_chords.txt,It's Only Make Believe,147.38
+425,Stevie Wonder,0625,Billboard,0625\salami_chords.txt,Higher Ground,227.81
+426,Bonnie Raitt,0627,Billboard,0627\salami_chords.txt,Nick of Time,232.91
+427,Wilson Phillips,0628,Billboard,0628\salami_chords.txt,Hold On,221.36
+428,Michael Jackson,0629,Billboard,0629\salami_chords.txt,Beat It,257.93
+429,Stevie Wonder,0631,Billboard,0631\salami_chords.txt,If You really love me,179.64
+430,Daryl Hall & John Oates,0633,Billboard,0633\salami_chords.txt,Maneater,274.21
+431,Beastie Boys,0634,Billboard,0634\salami_chords.txt,Brass Monkey,158.62
+432,Jan & Dean,0635,Billboard,0635\salami_chords.txt,Little Old Lady From Pasadena,166.77
+433,Engelbert Humperdinck,0636,Billboard,0636\salami_chords.txt,After the Lovin',236.46
+434,Michael Jackson,0637,Billboard,0637\salami_chords.txt,Human Nature,245.73
+435,Johnny Tillotson,0638,Billboard,0638\salami_chords.txt,Out Of My Mind,157.36
+436,James Brown,0640,Billboard,0640\salami_chords.txt,Think,165.98
+437,The Music Machine,0643,Billboard,0643\salami_chords.txt,The People In Me,171.78
+438,Otis Redding,0645,Billboard,0645\salami_chords.txt,(Sittin' On) The Dock Of The Bay,164.78
+439,Anita Baker,0647,Billboard,0647\salami_chords.txt,Caught Up In The Rapture,317.57
+440,Pet Shop Boys,0648,Billboard,0648\salami_chords.txt,What Have I Done To Deserve This?,259.95
+441,The Supremes,0649,Billboard,0649\salami_chords.txt,Stoned Love,181.58
+442,Louis Armstrong,0650,Billboard,0650\salami_chords.txt,Hello Dolly,147.77
+443,The Weather Girls,0651,Billboard,0651\salami_chords.txt,It's Raining Men,209.21
+444,Soft Cell,0654,Billboard,0654\salami_chords.txt,Tainted Love,161.44
+445,Eric Carmen,0655,Billboard,0655\salami_chords.txt,Sunrise,321.15
+446,Dr. Hook,0656,Billboard,0656\salami_chords.txt,Years From Now,195.68
+447,Corey Hart,0657,Billboard,0657\salami_chords.txt,In Your Soul,234.66
+448,Elvis Presley,0658,Billboard,0658\salami_chords.txt,Ask Me,127.87
+449,Quarterflash,0659,Billboard,0659\salami_chords.txt,Harden My Heart,217.81
+450,Heart,0660,Billboard,0660\salami_chords.txt,There's the Girl,235.39
+451,The J. Geils Band,0662,Billboard,0662\salami_chords.txt,Looking For A Love,227.97
+452,Pointer Sisters,0663,Billboard,0663\salami_chords.txt,He's so shy,220.34
+453,The J. Geils Band,0664,Billboard,0664\salami_chords.txt,Looking For A Love,227.97
+454,Joni Mitchell,0668,Billboard,0668\salami_chords.txt,Big Yellow Taxi,167.52
+455,Roger Miller,0669,Billboard,0669\salami_chords.txt,You Can't Roller Skate In A Buffalo Herd,112.28
+456,Queensryche,0670,Billboard,0670\salami_chords.txt,Silent Lucidity,347.82
+457,The Kendalls,0671,Billboard,0671\salami_chords.txt,Heaven's Just A Sin Away,145.16
+458,Jackie Wilson,0672,Billboard,0672\salami_chords.txt,Baby Workout,231.49
+459,The Fireballs,0674,Billboard,0674\salami_chords.txt,Sugar Shack,123.85
+460,Joe Cocker,0675,Billboard,0675\salami_chords.txt,With A Little Help From My Friends,193.18
+461,Wilson Pickett,0677,Billboard,0677\salami_chords.txt,Don't Knock My Love - Pt. 1,144.62
+462,Otis Redding,0678,Billboard,0678\salami_chords.txt,Chained And Bound,161.02
+463,George Harrison,0680,Billboard,0680\salami_chords.txt,Years Ago,227.37
+464,U2,0681,Billboard,0681\salami_chords.txt,With Or Without You,296.18
+465,Looking Glass,0682,Billboard,0682\salami_chords.txt,Brandy,187.98
+466,Stevie Wonder,0683,Billboard,0683\salami_chords.txt,That Girl,313.99
+467,Chicago,0684,Billboard,0684\salami_chords.txt,Feelin' Stronger Every Day,253.91
+468,Queensryche,0685,Billboard,0685\salami_chords.txt,Silent Lucidity,347.82
+469,INXS,0687,Billboard,0687\salami_chords.txt,Need You Tonight,190.28
+470,Canned Heat,0688,Billboard,0688\salami_chords.txt,On The Road Again,302.89
+471,Jan & Dean,0689,Billboard,0689\salami_chords.txt,"The Anaheim, Azusa & Cucamonga Sewing Circle, Book Review And Timing Association",165.12
+472,Juice Newton,0690,Billboard,0690\salami_chords.txt,Queen Of Hearts,209.87
+473,The Neville Brothers,0691,Billboard,0691\salami_chords.txt,Tell It Like It Is,266.87
+474,Rita Coolidge,0692,Billboard,0692\salami_chords.txt,Fever,210.21
+475,Jackson Browne,0695,Billboard,0695\salami_chords.txt,Boulevard,201.35
+476,Brenda Lee,0696,Billboard,0696\salami_chords.txt,Too Many Rivers,171.68
+477,Jeff Beck,0698,Billboard,0698\salami_chords.txt,People Get Ready,296.07
+478,Bachman-Turner Overdrive,0699,Billboard,0699\salami_chords.txt,Heartaches,234.14
+479,Chicago,0700,Billboard,0700\salami_chords.txt,Does Anybody Really Know What Time It Is,200.02
+480,Billy Idol,0701,Billboard,0701\salami_chords.txt,White Wedding,253.38
+481,Gladys Knight & The Pips,0705,Billboard,0705\salami_chords.txt,Baby Don't Change Your Mind,195.32
+482,Jethro Tull,0706,Billboard,0706\salami_chords.txt,Living In The Past,203.47
+483,Rod Bernard,0707,Billboard,0707\salami_chords.txt,This Should Go On Forever,164.81
+484,Daryl Hall & John Oates,0708,Billboard,0708\salami_chords.txt,Sara Smile,186.17
+485,Anita Baker,0709,Billboard,0709\salami_chords.txt,Caught Up In The Rapture,317.57
+486,John Denver,0711,Billboard,0711\salami_chords.txt,Some Days Are Diamonds (Some Days Are Stone),242.79
+487,Jerry Reed,0713,Billboard,0713\salami_chords.txt,Ko-Ko Joe,155.32
+488,Commodores,0716,Billboard,0716\salami_chords.txt,Lady (You Bring Me Up),241.31
+489,John Denver,0720,Billboard,0720\salami_chords.txt,Rocky Mountain High,286.19
+490,Little River Band,0721,Billboard,0721\salami_chords.txt,Help Is On The Way,242.31
+491,Dinah Washington,0722,Billboard,0722\salami_chords.txt,Where Are You,136.1
+492,Badfinger,0723,Billboard,0723\salami_chords.txt,Maybe Tomorrow,169.46
+493,Ray Price,0725,Billboard,0725\salami_chords.txt,For The Good Times,230.43
+494,Etta James,0726,Billboard,0726\salami_chords.txt,Would It Make Any Difference To You,158.8
+495,The Beatles,0727,Billboard,0727\salami_chords.txt,Eight Days A Week,164.42
+496,Neil Sedaka,0728,Billboard,0728\salami_chords.txt,Breaking Up Is Hard To Do,138.74
+497,Psychedelic Furs,0729,Billboard,0729\salami_chords.txt,Pretty In Pink,279.99
+498,Elvis Presley,0730,Billboard,0730\salami_chords.txt,His Latest Flame,128.81
+499,Kenny Rogers,0731,Billboard,0731\salami_chords.txt,Lucille,222.9
+500,The Everly Brothers,0733,Billboard,0733\salami_chords.txt,Bird Dog,137.46
+501,Dean Martin,0734,Billboard,0734\salami_chords.txt,I Will,142.59
+502,Earth Wind and Fire,0735,Billboard,0735\salami_chords.txt,Getaway,225.99
+503,Stevie Wonder,0736,Billboard,0736\salami_chords.txt,Do I Do,629.32
+504,Andy Gibb,0737,Billboard,0737\salami_chords.txt,Shadow Dancing,273.71
+505,Cliff Richard,0740,Billboard,0740\salami_chords.txt,Living Doll,158.83
+506,Pat Benatar,0741,Billboard,0741\salami_chords.txt,Love Is A Battlefield,251.41
+507,Snap,0742,Billboard,0742\salami_chords.txt,The Power,220.89
+508,Blondie,0743,Billboard,0743\salami_chords.txt,One Way or Another,208.09
+509,Louis Prima & Keely Smith,0746,Billboard,0746\salami_chords.txt,That Old Black Magic,176.62
+510,Tracy Chapman,0747,Billboard,0747\salami_chords.txt,Baby Can I Hold You,194.17
+511,Ray Charles,0748,Billboard,0748\salami_chords.txt,Crying Time,179.44
+512,Led Zepplin,0749,Billboard,0749\salami_chords.txt,Dyer Maker,263.24
+513,Ten Years After,0751,Billboard,0751\salami_chords.txt,I'd Love To Change The World,224.91
+514,Elton John,0752,Billboard,0752\salami_chords.txt,Levon,321.83
+515,Brownsville station,0755,Billboard,0755\salami_chords.txt,Smokin' In The Boys Room,178.89
+516,Depeche Mode,0757,Billboard,0757\salami_chords.txt,World In My Eyes,239.86
+517,Jimmy Buffett,0758,Billboard,0758\salami_chords.txt,Come Monday,188.81
+518,Flatt & Scruggs,0759,Billboard,0759\salami_chords.txt,Foggy Mountain Breakdown,161.72
+519,Dr. Hook,0761,Billboard,0761\salami_chords.txt,Walk Right In,183.67
+520,Grand Funk Railroad,0762,Billboard,0762\salami_chords.txt,Walk Like A Man,245.24
+521,Clarence Carter,0765,Billboard,0765\salami_chords.txt,Too Weak To Fight,138.4
+522,Elvis Presley,0766,Billboard,0766\salami_chords.txt,Ask Me,127.87
+523,Paper Lace,0767,Billboard,0767\salami_chords.txt,The Night Chicago Died,217.42
+524,Stevie Wonder,0768,Billboard,0768\salami_chords.txt,That Girl,313.99
+525,Cyndi Lauper,0769,Billboard,0769\salami_chords.txt,All Through The Night,269.84
+526,The Cowsills,0770,Billboard,0770\salami_chords.txt,Hair,212.4
+527,Paul McCartney,0772,Billboard,0772\salami_chords.txt,Press,283.17
+528,Fats Domino,0773,Billboard,0773\salami_chords.txt,I Want To Walk You Home,141.61
+529,Marc Cohn,0775,Billboard,0775\salami_chords.txt,Walking In Memphis,255.94
+530,Chicago,0776,Billboard,0776\salami_chords.txt,Along Comes A Woman,228.75
+531,Fontella Bass,0777,Billboard,0777\salami_chords.txt,Rescue Me,173.24
+532,Charlie Rich,0779,Billboard,0779\salami_chords.txt,A Very Special Love Song,166.22
+533,Rolling Stones,0780,Billboard,0780\salami_chords.txt,Time Is On My Side,178.78
+534,The Drifters,0781,Billboard,0781\salami_chords.txt,On Broadway,180.24
+535,Stevie B,0782,Billboard,0782\salami_chords.txt,Because I Love You,262.27
+536,Nick Gilder,0783,Billboard,0783\salami_chords.txt,Hot Child in the City,189.47
+537,The Righteous Brothers,0785,Billboard,0785\salami_chords.txt,Soul And Inspiration,188.79
+538,Johnny Cash,0787,Billboard,0787\salami_chords.txt,The Ways Of A Woman In Love,136.72
+539,Floyd Cramer,0788,Billboard,0788\salami_chords.txt,Last Date,149.52
+540,Bruce Channel,0789,Billboard,0789\salami_chords.txt,Hey Baby,143.18
+541,Brenda Lee,0790,Billboard,0790\salami_chords.txt,Everybody Loves Me but You,153.92
+542,Eric Carmen,0791,Billboard,0791\salami_chords.txt,Hungry Eyes,248.42
+543,Chuck Berry,0792,Billboard,0792\salami_chords.txt,Almost Grown,141.27
+544,Elvis Presley,0793,Billboard,0793\salami_chords.txt,My Way,273.95
+545,Billy Idol,0794,Billboard,0794\salami_chords.txt,Catch My Fall,221.99
+546,Marvin Gaye,0795,Billboard,0795\salami_chords.txt,I Want You,238.89
+547,Barry White,0796,Billboard,0796\salami_chords.txt,"You're The First, The Last, My Everything",203.96
+548,Teddy Pendergrass,0797,Billboard,0797\salami_chords.txt,I Don't Love You Anymore,243.56
+549,The Allman Brothers,0798,Billboard,0798\salami_chords.txt,Straight From The Heart,227.42
+550,Heart,0800,Billboard,0800\salami_chords.txt,Magic Man,328.54
+551,Waylon Jennings,0802,Billboard,0802\salami_chords.txt,Theme From The Dukes Of Hazzard,129.36
+552,Cyndi Lauper,0803,Billboard,0803\salami_chords.txt,True Colors,228.22
+553,"Earth, Wind & Fire",0804,Billboard,0804\salami_chords.txt,September,147.67
+554,Jimmy Clanton,0805,Billboard,0805\salami_chords.txt,Just A Dream,152.31
+555,Rita Coolidge,0806,Billboard,0806\salami_chords.txt,We're All Alone,220.49
+556,Meat Loaf,0807,Billboard,0807\salami_chords.txt,You Took The Words Right Out Of My Mouth,290.12
+557,The Everly Brothers,0809,Billboard,0809\salami_chords.txt,On The Wings Of A Nightingale,156.24
+558,Poison,0810,Billboard,0810\salami_chords.txt,Unskinny Bop,229.46
+559,Jermaine Jackson,0811,Billboard,0811\salami_chords.txt,Let's Get Serious,216.37
+560,Rick James,0812,Billboard,0812\salami_chords.txt,Super Freak Part One,201.85
+561,Leslie Gore,0813,Billboard,0813\salami_chords.txt,California Nights,169.5
+562,Marty Robbins,0814,Billboard,0814\salami_chords.txt,Big Iron,236.93
+563,Dion,0816,Billboard,0816\salami_chords.txt,Where Or When,159.53
+564,David Bowie,0818,Billboard,0818\salami_chords.txt,Blue Jean,192.25
+565,Marvin Gaye,0819,Billboard,0819\salami_chords.txt,Mercy Mercy Me (The Ecology),151.29
+566,Cher,0821,Billboard,0821\salami_chords.txt,Just Like Jesse James,246.31
+567,LaVern Baker,0822,Billboard,0822\salami_chords.txt,I Cried A Tear,156.24
+568,Bill Withers,0823,Billboard,0823\salami_chords.txt,Lovely Day,247.3
+569,Paul Simon,0824,Billboard,0824\salami_chords.txt,50 Ways To Leave Your Lover,195.03
+570,Biz Markie,0827,Billboard,0827\salami_chords.txt,Just A Friend,241.37
+571,The Amboy Dukes,0828,Billboard,0828\salami_chords.txt,Journey To The Center Of The Mind,214.54
+572,Bob Seger & The Silver Bullet Band,0830,Billboard,0830\salami_chords.txt,Trying To Live My Life Without You,243.89
+573,Dr. Hook,0831,Billboard,0831\salami_chords.txt,Sexy Eyes,212.94
+574,Kenny Rogers,0832,Billboard,0832\salami_chords.txt,Through The Years,285.68
+575,Paul Simon,0833,Billboard,0833\salami_chords.txt,You Can Call Me Al,280.61
+576,Oliver,0834,Billboard,0834\salami_chords.txt,Good Morning Starshine,219.27
+577,Anita Baker,0837,Billboard,0837\salami_chords.txt,Sweet Love,266.34
+578,The Beach Boys,0838,Billboard,0838\salami_chords.txt,Surfin' Safari,128.91
+579,Linda Ronstadt,0839,Billboard,0839\salami_chords.txt,When Will I Be Loved,124.92
+580,Steppenwolf,0841,Billboard,0841\salami_chords.txt,Born To Be Wild,209.5
+581,Elton John,0842,Billboard,0842\salami_chords.txt,Goodbye Yellow Brick Road,194.74
+582,Cher,0843,Billboard,0843\salami_chords.txt,If I Could Turn Back Time,240.95
+583,Talking Heads,0844,Billboard,0844\salami_chords.txt,Burning Down The House,241.14
+584,George Harrison,0845,Billboard,0845\salami_chords.txt,I Got My Mind Set On You,234.68
+585,Roxy,0846,Billboard,0846\salami_chords.txt,Dance Away,226.56
+586,Bread,0847,Billboard,0847\salami_chords.txt,Sweet Surrender,156.71
+587,The Castaways,0848,Billboard,0848\salami_chords.txt,"Liar, Liar",114.86
+588,The Contours,0849,Billboard,0849\salami_chords.txt,Do You Love Me,174.37
+589,The Pointer Sisters,0850,Billboard,0850\salami_chords.txt,Jump (for My Love),241.88
+590,Creedence Clearwater Revival,0852,Billboard,0852\salami_chords.txt,Bad Moon Rising,132.65
+591,The Beatles,0853,Billboard,0853\salami_chords.txt,I Saw Her Standing There,175.83
+592,Hi-Five,0856,Billboard,0856\salami_chords.txt,I Like The Way (The Kissing Game),237.84
+593,James Brown,0857,Billboard,0857\salami_chords.txt,Get Up (I Feel Like Being Like A) Sex Machine (Part 1),319.15
+594,Nitty Gritty Dirt Band,0859,Billboard,0859\salami_chords.txt,Make A Little Magic,235.05
+595,Judas Priest,0861,Billboard,0861\salami_chords.txt,You've Got Another Thing Comin',310.75
+596,The String-A-Longs,0863,Billboard,0863\salami_chords.txt,Wheels,124.08
+597,Oak Ridge Boys,0864,Billboard,0864\salami_chords.txt,Elvira,161.16
+598,Rick Springfield,0865,Billboard,0865\salami_chords.txt,Don't Talk To Strangers,181.37
+599,Talking Heads,0870,Billboard,0870\salami_chords.txt,And She Was,219.25
+600,Freddy Fender,0872,Billboard,0872\salami_chords.txt,Secret Love,214.86
+601,Johnny Horton,0873,Billboard,0873\salami_chords.txt,The Battle Of New Orleans,152.55
+602,Donna Fargo,0874,Billboard,0874\salami_chords.txt,Superman,146.99
+603,Elvis Presley,0875,Billboard,0875\salami_chords.txt,She Thinks I Still Care,232.21
+604,Run-D.M.C.,0879,Billboard,0879\salami_chords.txt,Walk This Way,312.03
+605,Police,0881,Billboard,0881\salami_chords.txt,Don't stand so close to me,243.1
+606,Rockwell,0882,Billboard,0882\salami_chords.txt,Somebody s Watching Me,241.66
+607,Metallica,0884,Billboard,0884\salami_chords.txt,One,444.5
+608,UB40,0885,Billboard,0885\salami_chords.txt,The Way You Do The Things You Do,183.28
+609,Wang Chung,0886,Billboard,0886\salami_chords.txt,Dance Hall Days,240.3
+610,De La Soul,0887,Billboard,0887\salami_chords.txt,Me Myself And I,221.44
+611,Gladys Knight & The Pips,0888,Billboard,0888\salami_chords.txt,Baby Don't Change Your Mind,195.32
+612,Steve Winwood,0889,Billboard,0889\salami_chords.txt,Don t You Know What The Night Can Do,415.39
+613,Ray Charles,0890,Billboard,0890\salami_chords.txt,Let's Go Get Stoned,183.85
+614,The Who,0891,Billboard,0891\salami_chords.txt,Happy Jack,132.1
+615,Edwin Starr,0893,Billboard,0893\salami_chords.txt,War,208.74
+616,Abba,0894,Billboard,0894\salami_chords.txt,On And On And On,222.35
+617,Todd Rundgren,0895,Billboard,0895\salami_chords.txt,A Dream Goes On Forever,179.13
+618,Leslie Gore,0896,Billboard,0896\salami_chords.txt,California Nights,169.5
+619,Eric Clapton,0898,Billboard,0898\salami_chords.txt,I Can't Stand It,250.12
+620,The Temptations,0900,Billboard,0900\salami_chords.txt,I Wish It Would Rain,173.61
+621,James Taylor,0901,Billboard,0901\salami_chords.txt,Country Road,203.45
+622,ABBA,0902,Billboard,0902\salami_chords.txt,Honey Honey,173.87
+623,The Ronettes,0903,Billboard,0903\salami_chords.txt,Be My Baby,159.01
+624,The Kinks,0904,Billboard,0904\salami_chords.txt,Till The End Of The Day,157.31
+625,"Crosby, Stills & Nash",0905,Billboard,0905\salami_chords.txt,Teach Your Children,174.34
+626,Neneh Cherry,0909,Billboard,0909\salami_chords.txt,Kisses On The Wind,237.4
+627,REO Speedwagon,0910,Billboard,0910\salami_chords.txt,Time For Me To Fly,213.13
+628,Wilson Phillips,0911,Billboard,0911\salami_chords.txt,Hold On,221.36
+629,Milli Vanilli,0913,Billboard,0913\salami_chords.txt,Girl You Know It s True,253.0
+630,Dr. Hook,0914,Billboard,0914\salami_chords.txt,If Not You,196.34
+631,Bobby Womack,0915,Billboard,0915\salami_chords.txt,Sweet Caroline (Good Times Never Seemed So Good),189.57
+632,Eric Clapton,0916,Billboard,0916\salami_chords.txt,Promises,181.19
+633,Anne Murray,0917,Billboard,0917\salami_chords.txt,A Love Song,164.31
+634,Billy Idol,0920,Billboard,0920\salami_chords.txt,Hot In The City,218.1
+635,Elvis Presley,0923,Billboard,0923\salami_chords.txt,Judy,132.47
+636,The Ritchie Family,0925,Billboard,0925\salami_chords.txt,The Best Disco In Town,193.65
+637,The Ventures,0926,Billboard,0926\salami_chords.txt,Perfidia,125.52
+638,Little Anthony & The Imperials,0927,Billboard,0927\salami_chords.txt,"Out Of Sight, Out Of Mind",159.8
+639,Tommy James,0928,Billboard,0928\salami_chords.txt,Mony Mony,174.82
+640,Rock And Hyde,0929,Billboard,0929\salami_chords.txt,Dirty Water,257.54
+641,Cornelius Brothers & Sister Rose,0932,Billboard,0932\salami_chords.txt,Treat Her Like A Lady,166.19
+642,Ray Charles,0933,Billboard,0933\salami_chords.txt,Eleanor Rigby,180.32
+643,The Box Tops,0935,Billboard,0935\salami_chords.txt,Cry Like A Baby,155.31
+644,Roberta Flack,0940,Billboard,0940\salami_chords.txt,Feel Like Making Love,177.45
+645,Bob Seger,0941,Billboard,0941\salami_chords.txt,Like A Rock,355.0
+646,Wilson Pickett,0943,Billboard,0943\salami_chords.txt,I Found A True Love,145.58
+647,Dolly Parton,0944,Billboard,0944\salami_chords.txt,Starting Over Again,238.24
+648,The Doors,0945,Billboard,0945\salami_chords.txt,Riders On The Storm,430.68
+649,The Miracles,0946,Billboard,0946\salami_chords.txt,I Second That Emotion,168.49
+650,Simon & Garfunkel,0947,Billboard,0947\salami_chords.txt,Fakin it,199.34
+651,Chubby Checker,0948,Billboard,0948\salami_chords.txt,The Twist,156.3
+652,Sonny & Cher,0950,Billboard,0950\salami_chords.txt,All I Ever Need Is You,159.63
+653,Boston,0952,Billboard,0952\salami_chords.txt,Feelin' Satisfied,251.51
+654,LaVern Baker,0954,Billboard,0954\salami_chords.txt,I Cried A Tear,156.24
+655,The Allan Parsons Project,0956,Billboard,0956\salami_chords.txt,Eye In The Sky,239.23
+656,The Rolling Stones,0958,Billboard,0958\salami_chords.txt,Miss You,288.58
+657,Abba,0961,Billboard,0961\salami_chords.txt,Take A Chance On Me,241.88
+658,Billy Squier,0963,Billboard,0963\salami_chords.txt,The Stroke,208.22
+659,The Sopwith Camel,0964,Billboard,0964\salami_chords.txt,Hello Hello,145.14
+660,Arthur Conley,0965,Billboard,0965\salami_chords.txt,Sweet Soul Music,143.08
+661,George Benson,0967,Billboard,0967\salami_chords.txt,Breezin',341.76
+662,Brenda Lee,0968,Billboard,0968\salami_chords.txt,Coming On Strong,124.73
+663,Billy Joel,0969,Billboard,0969\salami_chords.txt,Don't Ask Me Why,179.09
+664,David Bowie,0970,Billboard,0970\salami_chords.txt,Modern Love,288.64
+665,Pat Benatar,0973,Billboard,0973\salami_chords.txt,Little Too Late,247.88
+666,The Beach Boys,0974,Billboard,0974\salami_chords.txt,Kokomo (From The Cocktail Soundtrack),217.61
+667,Isaac Hayes,0978,Billboard,0978\salami_chords.txt,The Look Of Love,673.8
+668,Culture Club,0979,Billboard,0979\salami_chords.txt,Karma Chameleon,254.62
+669,Bananarama,0981,Billboard,0981\salami_chords.txt,Venus,222.3
+670,Natalie Cole,0982,Billboard,0982\salami_chords.txt,Unforgettable,193.38
+671,Barbara Lewis,0984,Billboard,0984\salami_chords.txt,Hello Stranger,161.38
+672,The Jacksons,0985,Billboard,0985\salami_chords.txt,Dancing Machine,157.78
+673,Leo Sayer,0986,Billboard,0986\salami_chords.txt,You Make Me Feel Like Dancing,174.34
+674,Dolly Parton,0987,Billboard,0987\salami_chords.txt,Baby I'm Burnin',158.48
+675,Bread,0988,Billboard,0988\salami_chords.txt,If,155.51
+676,The Yardbirds,0990,Billboard,0990\salami_chords.txt,Shapes Of Things,145.24
+677,Elton John,0991,Billboard,0991\salami_chords.txt,The Bitch Is Back,217.73
+678,The Commodores,0992,Billboard,0992\salami_chords.txt,Nightshift,265.27
+679,Elvis Presley,0993,Billboard,0993\salami_chords.txt,There Goes My Everything,179.85
+680,Laura Branigan,0995,Billboard,0995\salami_chords.txt,Gloria,233.72
+681,Ike & Tina Turner,0996,Billboard,0996\salami_chords.txt,I Want To Take You Higher,173.01
+682,Focus,0999,Billboard,0999\salami_chords.txt,Hocus Pocus,206.73
+683,J. Geils Band,1002,Billboard,1002\salami_chords.txt,Freeze-Frame,239.83
+684,Player,1003,Billboard,1003\salami_chords.txt,Baby Come Back,217.52
+685,Roy Drusky,1006,Billboard,1006\salami_chords.txt,Three Hearts In A Tangle,164.05
+686,The Righteous Brothers,1007,Billboard,1007\salami_chords.txt,Unchained Melody,218.33
+687,Dr. Hook,1009,Billboard,1009\salami_chords.txt,The Millionaire,181.48
+688,Cyndi Lauper,1011,Billboard,1011\salami_chords.txt,I Drove All Night,252.81
+689,Sting,1012,Billboard,1012\salami_chords.txt,All This Time,295.52
+690,Debarge,1013,Billboard,1013\salami_chords.txt,Time Will Reveal,247.8
+691,Wild Cherry,1014,Billboard,1014\salami_chords.txt,Play That Funky Music,198.64
+692,The Trammps,1016,Billboard,1016\salami_chords.txt,Disco Inferno,217.37
+693,Wilson Pickett,1018,Billboard,1018\salami_chords.txt,In The Midnight Hour,159.09
+694,Prince & Sheena Easton,1019,Billboard,1019\salami_chords.txt,The Arms Of Orion,267.96
+695,The Dramatics,1020,Billboard,1020\salami_chords.txt,Hey You! Get Off My Mountain,211.2
+696,Wilson Pickett,1021,Billboard,1021\salami_chords.txt,Soul Dance Number 3,160.21
+697,Cheap Trick,1022,Billboard,1022\salami_chords.txt,Surrender,256.0
+698,Jimmy Reed,1024,Billboard,1024\salami_chords.txt,Baby What You Want Me To Do,170.5
+699,Led Zeppelin,1025,Billboard,1025\salami_chords.txt,Over The Hills and Far Away,307.64
+700,Greg Kihn,1027,Billboard,1027\salami_chords.txt,Lucky,266.71
+701,Tina Turner,1031,Billboard,1031\salami_chords.txt,We Don t Need Another Hero (Thunderdome),255.5
+702,James Brown,1032,Billboard,1032\salami_chords.txt,Down And Out In New York City,286.38
+703,The Byrds,1033,Billboard,1033\salami_chords.txt,Goin' Back,207.96
+704,The Greatful Dead,1034,Billboard,1034\salami_chords.txt,Sugar Magnolia,199.13
+705,Gene Pitney,1037,Billboard,1037\salami_chords.txt,Town Without,172.12
+706,Milli Vanilli,1039,Billboard,1039\salami_chords.txt,Girl I m Gonna Miss You,237.87
+707,Eric Clapton,1040,Billboard,1040\salami_chords.txt,Lay Down Sally,230.84
+708,Johnny Tillotson,1041,Billboard,1041\salami_chords.txt,It Keeps Right On A-Hurtin',169.61
+709,Aretha Franklin,1042,Billboard,1042\salami_chords.txt,Oh Me Oh My (I'm A Fool For You Baby),221.66
+710,Duran Duran,1043,Billboard,1043\salami_chords.txt,Is There Something I Should Know,250.41
+711,Jimmy Ruffin,1044,Billboard,1044\salami_chords.txt,I've Passed This Way Before,169.2
+712,Jefferson Starship,1045,Billboard,1045\salami_chords.txt,Count On Me,197.88
+713,Eddie Holland,1046,Billboard,1046\salami_chords.txt,Jamie,145.24
+714,B.J. Thomas,1048,Billboard,1048\salami_chords.txt,Hooked On A Feeling,191.19
+715,Billy Squier,1051,Billboard,1051\salami_chords.txt,My Kinda Lover,211.17
+716,Pink Floyd,1052,Billboard,1052\salami_chords.txt,Another Brick In The Wall (Part II),239.96
+717,Pat Benatar,1053,Billboard,1053\salami_chords.txt,Heartbreaker,207.28
+718,Marty Robbins,1054,Billboard,1054\salami_chords.txt,I Walk Alone,200.23
+719,Elvis Presley,1055,Billboard,1055\salami_chords.txt,My Wish Came True,155.49
+720,"Earth, Wind & Fire",1056,Billboard,1056\salami_chords.txt,After The Love Has Gone,280.89
+721,Bill Withers,1058,Billboard,1058\salami_chords.txt,Ain't No Sunshine,126.38
+722,Hank Snow,1059,Billboard,1059\salami_chords.txt,I've Been Everywhere,166.77
+723,Eagles,1061,Billboard,1061\salami_chords.txt,Best Of My Love,274.81
+724,The Fabulous Thunderbirds,1062,Billboard,1062\salami_chords.txt,Tuff Enuff,202.58
+725,Dion,1063,Billboard,1063\salami_chords.txt,This Little Girl,158.43
+726,Robert John,1064,Billboard,1064\salami_chords.txt,Sad Eyes,253.26
+727,Bruce Springsteen,1066,Billboard,1066\salami_chords.txt,My Hometown,274.23
+728,Gino Vanelli,1067,Billboard,1067\salami_chords.txt,Hurts To Be In Love,222.69
+729,Gloria Gaynor,1068,Billboard,1068\salami_chords.txt,Never Can Say Goodbye,178.05
+730,The J. Geils Band,1069,Billboard,1069\salami_chords.txt,Must Of Got Lost,180.58
+731,The Babys,1070,Billboard,1070\salami_chords.txt,Every Time I Think Of You,243.3
+732,Bob Seger,1071,Billboard,1071\salami_chords.txt,Rock And Roll Never Forgets,215.69
+733,Fats Domino,1072,Billboard,1072\salami_chords.txt,Be My Guest,135.92
+734,Cliff Richard,1073,Billboard,1073\salami_chords.txt,Devil Woman,215.35
+735,Todd Rundgren,1076,Billboard,1076\salami_chords.txt,Can We Still Be Friends,216.48
+736,Switch,1078,Billboard,1078\salami_chords.txt,There'll Never Be,216.97
+737,Alabama,1082,Billboard,1082\salami_chords.txt,Take Me Down,223.97
+738,Cyndi Lauper,1084,Billboard,1084\salami_chords.txt,All Through The Night,269.84
+739,Chicago,1085,Billboard,1085\salami_chords.txt,Make Me Smile,265.78
+740,Thelma Houston,1086,Billboard,1086\salami_chords.txt,Don't Leave Me This Way,221.7
+741,Joan Baez,1087,Billboard,1087\salami_chords.txt,There But For Fortune,195.13
+742,Heart,1089,Billboard,1089\salami_chords.txt,Who Will You Run To,245.42
+743,The Crystals,1091,Billboard,1091\salami_chords.txt,He's A Rebel,156.78
+744,Billy Swan,1093,Billboard,1093\salami_chords.txt,I Can Help,178.35
+745,The Crystals,1094,Billboard,1094\salami_chords.txt,There's No Other (Like My Baby),143.18
+746,The Meters,1096,Billboard,1096\salami_chords.txt,Look-Ka Py Py,195.79
+747,"Earth, Wind & Fire",1097,Billboard,1097\salami_chords.txt,After The Love Has Gone,280.89
+748,Tina Turner,1098,Billboard,1098\salami_chords.txt,Private Dancer,433.61
+749,Dinah Washington,1099,Billboard,1099\salami_chords.txt,Where Are You,136.1
+750,Marvin Gaye & Tammy Terrell,1100,Billboard,1100\salami_chords.txt,If I Could Build My Whole World Around You,146.23
+751,Dion,1101,Billboard,1101\salami_chords.txt,(I was) Born To Cry,146.68
+752,Stray Cats,1102,Billboard,1102\salami_chords.txt,Rock This Town,204.56
+753,Chubby Checker,1103,Billboard,1103\salami_chords.txt,The Twist,156.3
+754,Tina Turner,1104,Billboard,1104\salami_chords.txt,What You See Is What You Get,267.23
+755,Young MC,1106,Billboard,1106\salami_chords.txt,Bust A Move,265.24
+756,The Beatles',1107,Billboard,1107\salami_chords.txt,"Ob-La-Di, Ob-La-Da",189.01
+757,Rob Base,1109,Billboard,1109\salami_chords.txt,It Takes Two,301.53
+758,Chuck Berry,1110,Billboard,1110\salami_chords.txt,Reelin' & Rockin',197.25
+759,Chris Kenner,1111,Billboard,1111\salami_chords.txt,Land Of 1000 Dances,149.13
+760,Stephanie Mills,1112,Billboard,1112\salami_chords.txt,Never Knew Love Like This Before,324.5
+761,Charlie Rich,1113,Billboard,1113\salami_chords.txt,Lonely Weekends,129.54
+762,Glen Campbell,1114,Billboard,1114\salami_chords.txt,Wichita Lineman,187.43
+763,The Everly Brothers,1116,Billboard,1116\salami_chords.txt,Ebony Eyes,186.27
+764,Marvin Gaye & Tammy Terrell,1117,Billboard,1117\salami_chords.txt,If I Could Build My Whole World Around You,146.23
+765,Barbra Streisand,1118,Billboard,1118\salami_chords.txt,Funny Girl,164.96
+766,Los Lobos,1119,Billboard,1119\salami_chords.txt,Will The Wolf Survive,222.77
+767,Marty Robbins,1120,Billboard,1120\salami_chords.txt,Big Iron,236.93
+768,Simon And Garfunel,1121,Billboard,1121\salami_chords.txt,A Hazy Shade Of Winter,137.52
+769,Charlie Rich,1123,Billboard,1123\salami_chords.txt,Lonely Weekends,129.54
+770,"David Crosby,Graham Nash",1124,Billboard,1124\salami_chords.txt,Carry Me,214.78
+771,Roy Head,1125,Billboard,1125\salami_chords.txt,Treat Her Right,126.43
+772,Genesis,1126,Billboard,1126\salami_chords.txt,Invisible Touch,209.35
+773,The 5th Dimension,1127,Billboard,1127\salami_chords.txt,One Less Bell To Answer,210.7
+774,Nat King Cole,1132,Billboard,1132\salami_chords.txt,Those Lazy-Hazy-Crazy Days Of Summer,145.04
+775,Smokey Robinson,1133,Billboard,1133\salami_chords.txt,Cruisin',270.03
+776,The Miracles,1134,Billboard,1134\salami_chords.txt,Mighty Good Lovin',158.04
+777,Kris Kristofferson,1135,Billboard,1135\salami_chords.txt,Loving Her Was Easier,226.72
+778,The Youngbloods,1136,Billboard,1136\salami_chords.txt,Get Together,276.77
+779,Mary MacGregor,1138,Billboard,1138\salami_chords.txt,Torn Between Two Lovers,222.54
+780,Waylon Jennings,1139,Billboard,1139\salami_chords.txt,Are You Sure Hank Done It This Way,176.43
+781,Madonna,1140,Billboard,1140\salami_chords.txt,Oh Father,298.82
+782,Johnny Tillotson,1141,Billboard,1141\salami_chords.txt,Talk Back Trembling Lips,158.51
+783,The Beatles,1142,Billboard,1142\salami_chords.txt,Hard Days Night,153.47
+784,Eddie Rabbitt,1143,Billboard,1143\salami_chords.txt,I Love A Rainy Night,190.43
+785,Tevin Campbell,1145,Billboard,1145\salami_chords.txt,Tell Me What You Want Me To Do,257.59
+786,Dion,1146,Billboard,1146\salami_chords.txt,"Abraham, Martin And John",199.86
+787,Sonny & Cher,1147,Billboard,1147\salami_chords.txt,A Cowboy's Work Is Never Done,197.77
+788,Duran Duran,1148,Billboard,1148\salami_chords.txt,I Don t Want Your Love,228.13
+789,Count Basie,1149,Billboard,1149\salami_chords.txt,Going To Chicago Blues,254.22
+790,Stray Cats,1150,Billboard,1150\salami_chords.txt,Rock This Town,204.56
+791,The Righteous Brothers,1151,Billboard,1151\salami_chords.txt,Soul And Inspiration,188.79
+792,Dion,1152,Billboard,1152\salami_chords.txt,Love Came To Me,165.77
+793,Simon & Garfunkel,1153,Billboard,1153\salami_chords.txt,The Sounds Of Silence,189.36
+794,Buck Owens,1154,Billboard,1154\salami_chords.txt,Think Of Me,139.94
+795,Jackson Browne,1155,Billboard,1155\salami_chords.txt,Running On Empty,299.31
+796,The Commodores,1157,Billboard,1157\salami_chords.txt,Easy,264.33
+797,Johnny Cash,1160,Billboard,1160\salami_chords.txt,I Got Stripes,125.31
+798,Cliff Richard,1161,Billboard,1161\salami_chords.txt,Daddy's Home,180.82
+799,Smokey Robinson,1162,Billboard,1162\salami_chords.txt,Cruisin',270.03
+800,Paul McCartney & Wings,1163,Billboard,1163\salami_chords.txt,My Love,247.77
+801,Double Exposure,1164,Billboard,1164\salami_chords.txt,Ten Percent,196.39
+802,LaVern Baker,1166,Billboard,1166\salami_chords.txt,I Cried A Tear,156.24
+803,Billy Idol,1167,Billboard,1167\salami_chords.txt,Rebel Yell,290.66
+804,Bobbie Gentry,1168,Billboard,1168\salami_chords.txt,Ode To Billie Joe,256.0
+805,Jesus Jones,1169,Billboard,1169\salami_chords.txt,"Right Here, Right Now",185.99
+806,Blue Cheer,1170,Billboard,1170\salami_chords.txt,Summertime Blues,226.19
+807,Bob Seger,1171,Billboard,1171\salami_chords.txt,Night Moves,325.77
+808,Madonna,1173,Billboard,1173\salami_chords.txt,Live To Tell,352.12
+809,Little River Band,1174,Billboard,1174\salami_chords.txt,Happy Anniversary,240.64
+810,Bob Seger,1177,Billboard,1177\salami_chords.txt,Against The Wind,333.87
+811,The Jacksons,1178,Billboard,1178\salami_chords.txt,I Want You Back,179.72
+812,"Emerson, Lake & Palmer",1180,Billboard,1180\salami_chords.txt,Lucky Man,280.9
+813,Paul Revere & The Raiders,1181,Billboard,1181\salami_chords.txt,Kicks,149.32
+814,Sagittarius,1182,Billboard,1182\salami_chords.txt,My World Fell Down,230.35
+815,Tina Turner,1183,Billboard,1183\salami_chords.txt,Private Dancer,433.61
+816,The Miracles,1186,Billboard,1186\salami_chords.txt,"Baby, Baby Don't Cry",239.15
+817,Michael Jackson,1188,Billboard,1188\salami_chords.txt,Man In The Mirror,320.0
+818,Dr. Hook,1190,Billboard,1190\salami_chords.txt,Only Sixteen,166.27
+819,Four Tops,1192,Billboard,1192\salami_chords.txt,Standing In The Shadows Of Love,158.99
+820,The Beatles,1193,Billboard,1193\salami_chords.txt,She's A Woman,174.73
+821,Tom T. Hall,1194,Billboard,1194\salami_chords.txt,The Year That Clayton Delaney Died,165.09
+822,Stray Cats,1197,Billboard,1197\salami_chords.txt,I Won't Stand In Your Way,235.05
+823,The Doobie Brothers,1200,Billboard,1200\salami_chords.txt,Echoes Of Love,179.12
+824,The Commodores,1201,Billboard,1201\salami_chords.txt,Three Times A Lady,219.72
+825,Blondie,1203,Billboard,1203\salami_chords.txt,Island Of Lost Souls,229.77
+826,Pat Benatar,1204,Billboard,1204\salami_chords.txt,Heartbreaker,207.28
+827,Bob Seger,1208,Billboard,1208\salami_chords.txt,Even Now,273.01
+828,Dion,1210,Billboard,1210\salami_chords.txt,Lovers Who Wander,152.02
+829,Lesley Gore,1211,Billboard,1211\salami_chords.txt,You Don't Own Me,151.85
+830,Sonny & Cher,1212,Billboard,1212\salami_chords.txt,Baby Don't Go,188.55
+831,The Beatles,1213,Billboard,1213\salami_chords.txt,I Don't Want To Spoil The Party,156.16
+832,Donna Summer,1217,Billboard,1217\salami_chords.txt,Last Dance,199.65
+833,Charlie Rich,1218,Billboard,1218\salami_chords.txt,Behind Closed Doors,175.54
+834,Rare Earth,1220,Billboard,1220\salami_chords.txt,Get Ready,169.7
+835,Wilson Pickett,1221,Billboard,1221\salami_chords.txt,I'm In Love,152.53
+836,Cliff Richard,1222,Billboard,1222\salami_chords.txt,Carrie,225.41
+837,Culture Club,1223,Billboard,1223\salami_chords.txt,I'll Tumble 4 Ya,156.0
+838,Buck Owens,1225,Billboard,1225\salami_chords.txt,I've Got A Tiger By The Tail,135.4
+839,Duran Duran,1226,Billboard,1226\salami_chords.txt,All she wants is,266.87
+840,25 or 6 to 4,1227,Billboard,1227\salami_chords.txt,Chicago,290.02
+841,Bay City Rollers,1228,Billboard,1228\salami_chords.txt,Saturday Night,178.12
+842,Roberta Flack and Donny Hathaway,1229,Billboard,1229\salami_chords.txt,You've got a Friend,206.54
+843,Bonnie Pointer,1232,Billboard,1232\salami_chords.txt,Heaven Must Have Sent You,215.75
+844,Boston,1234,Billboard,1234\salami_chords.txt,Amanda,255.97
+845,Elvis Presley,1235,Billboard,1235\salami_chords.txt,For Ol' Times Sake,218.44
+846,Level 42,1237,Billboard,1237\salami_chords.txt,Something About You,227.27
+847,The Shirelles,1239,Billboard,1239\salami_chords.txt,Will You Love Me Tomorrow,163.58
+848,Chicago,1240,Billboard,1240\salami_chords.txt,Alive Again,245.77
+849,Donna Summer,1242,Billboard,1242\salami_chords.txt,Last Dance,199.65
+850,The Beatles,1244,Billboard,1244\salami_chords.txt,Help!,139.62
+851,Marie Osmond,1245,Billboard,1245\salami_chords.txt,Paper Roses,161.57
+852,Greg Kihn Band,1246,Billboard,1246\salami_chords.txt,Happy Man,175.13
+853,Willie Mitchell,1247,Billboard,1247\salami_chords.txt,20-75,137.12
+854,The Everly Brothers,1248,Billboard,1248\salami_chords.txt,That's Old Fashioned (That's The Way Love Should Be),142.47
+855,Steve Miller Band,1249,Billboard,1249\salami_chords.txt,Rock'n Me,188.94
+856,Gladys Knight & The Pips,1250,Billboard,1250\salami_chords.txt,Baby Don't Change Your Mind,195.32
+857,Brenda Lee,1253,Billboard,1253\salami_chords.txt,All Alone Am I,166.37
+858,Genesis,1256,Billboard,1256\salami_chords.txt,Abacab,526.84
+859,Minnie Riperton,1257,Billboard,1257\salami_chords.txt,Lovin' You,203.78
+860,Kenny Rogers,1258,Billboard,1258\salami_chords.txt,Lady,235.36
+861,Jesus Jones,1260,Billboard,1260\salami_chords.txt,"Right Here, Right Now",185.99
+862,Simon & Garfunkel,1261,Billboard,1261\salami_chords.txt,El Condor Pasa,188.53
+863,Jimmy Reed,1263,Billboard,1263\salami_chords.txt,Baby What You Want Me To Do,170.5
+864,Bobby Darin,1265,Billboard,1265\salami_chords.txt,If I Were A Carpenter,181.24
+865,The Rolling Stones,1266,Billboard,1266\salami_chords.txt,Honky Tonk Women,182.28
+866,Rick Derringer,1267,Billboard,1267\salami_chords.txt,"Rock and Roll, Hoochie Koo",505.6
+867,Edgar Winter,1268,Billboard,1268\salami_chords.txt,Frankenstein,208.14
+868,Elton John,1269,Billboard,1269\salami_chords.txt,Who Wears These Shoes,242.83
+869,Kaoma,1270,Billboard,1270\salami_chords.txt,Lambada,204.2
+870,Bette Midler,1271,Billboard,1271\salami_chords.txt,The Rose,220.69
+871,Jan & Dean,1272,Billboard,1272\salami_chords.txt,Sidewalk Surfin',162.38
+872,Cliff Richard,1273,Billboard,1273\salami_chords.txt,We Don't Talk Anymore,253.65
+873,Cyndi Lauper,1274,Billboard,1274\salami_chords.txt,She Bop,228.84
+874,Milli Vanilli,1276,Billboard,1276\salami_chords.txt,Baby Don t Forget My Number,388.47
+875,Bob Seger,1277,Billboard,1277\salami_chords.txt,American Storm,258.14
+876,Shannon,1279,Billboard,1279\salami_chords.txt,Let The Music Play,222.49
+877,Cornelius Brothers & Sister Rose,1280,Billboard,1280\salami_chords.txt,Treat Her Like A Lady,166.19
+878,Van Halen,1281,Billboard,1281\salami_chords.txt,When It's Love,322.4
+879,George Harrison,1282,Billboard,1282\salami_chords.txt,Crackerbox Palace,238.28
+880,Four Tops,1283,Billboard,1283\salami_chords.txt,Standing In The Shadows Of Love,158.99
+881,Diana Ross,1285,Billboard,1285\salami_chords.txt,Upside Down,222.72
+882,A Taste Of Honey,1286,Billboard,1286\salami_chords.txt,Sukiyaki,223.24
+883,Johnny Horton,1287,Billboard,1287\salami_chords.txt,Johnny Reb,141.44
+884,The Las,1289,Billboard,1289\salami_chords.txt,There She Goes,162.56
+885,The Turtles,1290,Billboard,1290\salami_chords.txt,Happy Together,174.86
+886,The Chiffons,1292,Billboard,1292\salami_chords.txt,He's So Fine,115.64
+887,Billy Idol,1296,Billboard,1296\salami_chords.txt,White Wedding,253.38
+888,The Everly Brothers,1297,Billboard,1297\salami_chords.txt,Ebony Eyes,186.27
+889,Pet Shop Boys,1300,Billboard,1300\salami_chords.txt,Where The Streets Have No Names,272.54
