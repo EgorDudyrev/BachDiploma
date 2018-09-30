@@ -8,12 +8,12 @@ RUN apt-get update && yes|apt-get upgrade
 RUN apt-get install -y wget bzip2
 
 # Anaconda installing
-RUN wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
-RUN bash Anaconda3-5.0.1-Linux-x86_64.sh -b
-RUN rm Anaconda3-5.0.1-Linux-x86_64.sh
+RUN wget https://repo.continuum.io/archive/Anaconda2-5.0.1-Linux-x86_64.sh
+RUN bash Anaconda2-5.0.1-Linux-x86_64.sh -b
+RUN rm Anaconda2-5.0.1-Linux-x86_64.sh
 
 # Set path to conda
-ENV PATH /root/anaconda3/bin:$PATH
+ENV PATH /root/anaconda2/bin:$PATH
 
 # Updating Anaconda packages
 RUN conda update conda
@@ -24,12 +24,12 @@ RUN conda update --all
 RUN pip install --upgrade pip
 RUN conda uninstall numpy -y
 RUN conda install numpy==1.14
-RUN conda install pandas
-RUN conda install scipy
-RUN conda install scikit-learn
-RUN conda install ipykernel
-RUN conda install tensorflow==1.5
-RUN conda install keras
+RUN conda install pandas==0.23.4
+RUN conda install matplotlib
+RUN apt-get install ffmpeg -y
+RUN pip install ffmpeg
+RUN pip install ffprobe
+RUN pip install pydub==0.23.0
 
 # Configuring access to Jupyter
 RUN mkdir /opt/notebooks

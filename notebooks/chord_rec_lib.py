@@ -1,3 +1,5 @@
+# This Python file uses the following encoding: utf-8
+
 import re
 import os
 
@@ -9,7 +11,8 @@ dnames = {'BB_DS_DIR':'base_data\\McGill-Billboard',
           'BB_PARS_DS_DIR':'base_data/billboard-2.0.1-lab\\McGill-Billboard',
           'CL_DS_DIR':'base_data\\chordlab',
           'CSVS_DIR':'csvs',
-          'RAW_SONGS_DIR':'raw_songs'}
+          'RAW_SONGS_DIR':'raw_songs',
+          'WAV_SONGS_DIR':'wav_songs'}
  
 def format_name(s, space_replacer='_'):
     """
