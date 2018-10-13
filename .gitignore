@@ -1,0 +1,5 @@
+**/Dockerfile.save
+**/.ipynb_checkpoints/**
+*.pyc
+raw_songs/**
+wav_songs/**
