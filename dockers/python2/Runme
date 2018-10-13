@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run -p 8888:8888 -v /home/egor/Documents/BachDiploma:/opt/notebooks conda_chord_py2
