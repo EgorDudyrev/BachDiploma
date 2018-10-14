@@ -22,15 +22,17 @@ RUN conda update --all
 
 # Updating my additional packages
 RUN pip install --upgrade pip
-RUN conda uninstall numpy -y
-RUN conda install numpy==1.14
-RUN conda install pandas==0.23.4
-RUN conda install scipy==0.20.0
-RUN conda install scikit-learn==1.1.0
-RUN conda install ipykernel==4.10.0
-RUN conda install tensorflow==1.5.0
-RUN conda install keras==2.2.2
+RUN pip uninstall numpy -y
+RUN pip install numpy==1.14
+RUN pip install pandas==0.23.4
+RUN pip install scipy==1.1.0
+RUN pip install scikit-learn==0.20.0
+RUN pip install ipykernel==4.10.0
+RUN pip install tensorflow==1.5.0
+RUN pip install keras==2.2.2
 RUN pip install pydub==0.23.0
+RUN pip install matplotlib
+RUN pip install stft
 
 # Configuring access to Jupyter
 RUN mkdir /opt/notebooks

@@ -7,12 +7,14 @@ import os
 MAX_DUR_DELTA = 2
 
 # Пути к различным папкам из корневой директории проекта
-dnames = {'BB_DS_DIR':'base_data\\McGill-Billboard',
-          'BB_PARS_DS_DIR':'base_data/billboard-2.0.1-lab\\McGill-Billboard',
-          'CL_DS_DIR':'base_data\\chordlab',
+dnames = {'BB_DS_DIR':'base_data/McGill-Billboard',
+          'BB_PARS_DS_DIR':'base_data/billboard-2.0.1-lab/McGill-Billboard',
+          'CL_DS_DIR':'base_data/chordlab',
           'CSVS_DIR':'csvs',
           'RAW_SONGS_DIR':'raw_songs',
-          'WAV_SONGS_DIR':'wav_songs'}
+          'WAV_SONGS_DIR':'wav_songs',
+          'SPECTRS_DIR': 'spectrs',
+          'SONGS_PARSED_DIR': 'songs_parsed'}
  
 def format_name(s, space_replacer='_'):
     """
