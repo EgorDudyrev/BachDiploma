@@ -3,6 +3,10 @@
 import re
 import os
 
+# Шаг по осям спектрограммы
+delta_t = 0.005079
+delta_f = 172.265625
+
 # Максимальная разница в секундах между скачанной песней и её размеченной версией
 MAX_DUR_DELTA = 2
 
@@ -14,7 +18,8 @@ dnames = {'BB_DS_DIR':'base_data/McGill-Billboard',
           'RAW_SONGS_DIR':'raw_songs',
           'WAV_SONGS_DIR':'wav_songs',
           'SPECTRS_DIR': 'spectrs',
-          'SONGS_PARSED_DIR': 'songs_parsed'}
+          'SONGS_PARSED_DIR': 'songs_parsed',
+          'CHORDS_DIR': '../chords'}
  
 def format_name(s, space_replacer='_'):
     """
