@@ -2,7 +2,11 @@
  "cells": [
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 6,
+=======
    "execution_count": 4,
+>>>>>>> develop
    "metadata": {},
    "outputs": [],
    "source": [
@@ -10,6 +14,7 @@
     "\n",
     "import numpy as np\n",
     "import pandas as pd\n",
+<<<<<<< HEAD
     "\n",
     "import scipy\n",
     "from scipy.sparse import csc_matrix, csr_matrix, load_npz\n",
@@ -17,11 +22,30 @@
     "import matplotlib.pyplot as plt\n",
     "\n",
     "from chord_rec_lib import delta_t #find_files, format_name"
+=======
+    "from tqdm import tqdm_notebook\n",
+    "\n",
+    "import scipy\n",
+    "from scipy.sparse import csc_matrix, csr_matrix, load_npz"
+>>>>>>> develop
    ]
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
    "execution_count": 7,
+=======
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from chord_rec_lib import delta_t"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+>>>>>>> develop
    "metadata": {},
    "outputs": [],
    "source": [
@@ -37,6 +61,7 @@
    "metadata": {},
    "source": [
     "# Load data"
+<<<<<<< HEAD
    ]
   },
   {
@@ -146,7 +171,16 @@
    "source": [
     "X_ds = pd.read_csv(os.path.join(dnames['CSVS_DIR'], 'X_ds.csv'), index_col=0)\n",
     "X_ds.head()"
+=======
+>>>>>>> develop
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
