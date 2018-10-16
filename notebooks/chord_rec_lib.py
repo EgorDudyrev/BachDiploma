@@ -19,8 +19,8 @@ dnames = {'BB_DS_DIR':'base_data/McGill-Billboard',
           'WAV_SONGS_DIR':'wav_songs',
           'SPECTRS_DIR': 'spectrs',
           'SONGS_PARSED_DIR': 'songs_parsed',
-          'CHORDS_DIR': '../chords',
-          'X_DS_DIR': '../x_dataset'}
+          'CHORDS_DIR': 'chords',
+          'X_DS_DIR': 'x_dataset'}
  
 def format_name(s, space_replacer='_'):
     """
